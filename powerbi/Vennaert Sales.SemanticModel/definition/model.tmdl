@@ -1,0 +1,20 @@
+model Model
+	culture: nl-BE
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: nl-BE
+	discourageImplicitMeasures
+
+ref table dim_date
+ref table dim_customer
+ref table dim_product
+ref table dim_rep
+ref table fact_sales
+ref table fact_opportunity
+ref table fact_target
+ref table dq_rule_summary
+ref table dq_health
+ref table Measures
+
+ref role Accountmanager
+ref role 'Sales management'
+

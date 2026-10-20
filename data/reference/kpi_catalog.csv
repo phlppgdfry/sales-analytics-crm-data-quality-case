@@ -1,0 +1,13 @@
+kpi_id,name,definition,dax_measure,sql_object,owner,frequency
+KPI-01,Netto-omzet,"Som van factuurlijnen min creditnota's, excl. btw, excl. interne klant (personeelsshop). Zelfde definitie als finance op grootboek 700000.",Netto-omzet,v_sales_monthly.net_revenue,Finance (definitie) / Sales manager (gebruik),dagelijks
+KPI-02,Brutomarge,Netto-omzet min kostprijs (aantal × kostprijs uit de artikelfiche op het moment van de load).,Brutomarge,v_sales_monthly.gross_margin,Finance,dagelijks
+KPI-03,Marge %,Brutomarge / Netto-omzet.,Marge %,v_sales_monthly.margin_pct,Finance,dagelijks
+KPI-04,Actieve klanten,Aantal verschillende klanten met minstens één factuur of creditnota in de periode.,Actieve klanten,v_sales_monthly.active_customers,Sales manager,maandelijks
+KPI-05,Groei % (vs vorig jaar),Netto-omzet periode t.o.v. dezelfde periode vorig jaar.,Groei %,v_kpi_ytd.growth_pct,Sales manager,maandelijks
+KPI-06,Target-realisatie %,Netto-omzet / target van de verkoper voor dezelfde maanden. Targets komen uit het Excel-bestand van de sales manager.,Target-realisatie %,v_rep_month_vs_target.attainment_pct,Sales manager,maandelijks
+KPI-07,Gem. factuurwaarde,Netto-omzet / aantal facturen (creditnota's tellen niet als factuur).,Gem. factuurwaarde,v_kpi_ytd.avg_invoice_value_ytd,Sales manager,maandelijks
+KPI-08,Open pipeline,Som van de bedragen van open opportunities (fase Prospectie t.e.m. Onderhandeling).,Open pipeline,v_pipeline_by_stage.amount,Sales manager,wekelijks
+KPI-09,Gewogen pipeline,Som van bedrag × slaagkans per fase (10/25/50/75 %).,Gewogen pipeline,v_pipeline_by_stage.weighted_amount,Sales manager,wekelijks
+KPI-10,Win rate %,Gewonnen / (gewonnen + verloren) voor opportunities afgesloten in de periode.,Win rate %,v_win_rate_12m.win_rate_pct,Sales manager,maandelijks
+KPI-11,CRM-gezondheid %,Aandeel klantaccounts zonder blokkerend datakwaliteitsprobleem (CRM-01/02/04/05).,CRM-gezondheid %,dq_health.health_pct,Data analyst,wekelijks
+KPI-12,Verouderde deals,Open opportunities zonder update in meer dan 60 dagen.,Verouderde deals,v_pipeline_by_stage.stale,Accounteigenaars,wekelijks

@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sales &amp; CRM Data Quality — portfoliocase data analyst</title>
+  <meta name="description" content="Van een Excel-rapport dat 6,7 % naast finance zat en een vervuild CRM naar één betrouwbaar salesrapport: SQL, Power BI-model, CRM-datakwaliteit, Excel-reconciliatie en IT-support in één case.">
+  <meta property="og:title" content="Sales &amp; CRM Data Quality — portfoliocase">
+  <meta property="og:description" content="SQL, Power BI (TMDL), CRM-datakwaliteit en Excel-reconciliatie voor een fictieve B2B-groothandel.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="./">Vennaert · Sales &amp; CRM</a>
+      <nav aria-label="Secties">
+        <a href="#vraag">De vraag</a>
+        <a href="#aanpak">Aanpak</a>
+        <a href="#resultaat">Resultaat</a>
+        <a href="#bewijs">Wat dit toont</a>
+        <a href="demo/?tour">Demo</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero wrap">
+      <p class="eyebrow">Onafhankelijke portfoliocase · fictief bedrijf · Philippe Godfroy</p>
+      <h1>Eén salesrapport dat finance en sales allebei vertrouwen</h1>
+      <p class="lede">Een B2B-groothandel met een Excel-rapport dat <!--m:recon_gap_pct|pct-->6,7 %<!--/m--> naast finance zat en een CRM vol dubbele klanten. Ik zocht uit waarom, bouwde een sterschema in SQL, een Power BI-model met één definitie per KPI, een CRM-kwaliteitsworkflow en de reconciliatie in Excel — en documenteerde het zoals een collega het moet kunnen overnemen.</p>
+      <div class="cta-row">
+        <a class="btn primary" href="demo/?tour">Open de demo (rondleiding 2 min)</a>
+        <a class="btn" href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case">Bekijk de repository</a>
+        <a class="btn" href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/EVIDENCE.md">Wat dit bewijst</a>
+      </div>
+      <p class="disclaimer">Independent portfolio case study based on a fictional organisation. It contains no confidential information from any real employer or the hiring company. Alle cijfers zijn illustratieve aannames — geen echte bedrijfsdata.</p>
+    </section>
+
+    <section id="vraag" class="wrap section">
+      <h2>De vraag van de sales manager</h2>
+      <div class="grid cards-3">
+        <article class="card"><span class="chip warn">Cijfers</span><h3>"Excel zegt meer dan finance"</h3><p>Q3 2026: <!--m:recon_gap|eur0-->€ 397.834<!--/m--> verschil. Wie heeft gelijk, en waarom?</p></article>
+        <article class="card"><span class="chip warn">Rapportering</span><h3>"Waar staat elke verkoper?"</h3><p>Omzet en marge tegenover target, zonder elke maandag een uur te knippen en plakken.</p></article>
+        <article class="card"><span class="chip warn">CRM</span><h3>"Het CRM klopt niet"</h3><p>Dubbele klanten, ontbrekende koppelingen, <!--m:rule_crm05_before|int-->151<!--/m--> accounts op naam van een verkoper die al vertrokken is.</p></article>
+      </div>
+    </section>
+
+    <section id="aanpak" class="wrap section">
+      <h2>Aanpak: eerst de vraag, dan de data</h2>
+      <ol class="journey">
+        <li><a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/01-business-questions/README.md"><span class="step-no">1</span>Vragen &amp; KPI's</a></li>
+        <li><a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/02-sources/README.md"><span class="step-no">2</span>Bronnen profileren</a></li>
+        <li><a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/03-modelling/README.md"><span class="step-no">3</span>Sterschema</a></li>
+        <li><a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/04-pipeline/README.md"><span class="step-no">4</span>Pipeline</a></li>
+        <li><a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/05-crm-quality/README.md"><span class="step-no">5</span>CRM-kwaliteit</a></li>
+        <li><a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/06-reporting/README.md"><span class="step-no">6</span>Power BI</a></li>
+        <li><a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/07-excel/README.md"><span class="step-no">7</span>Excel-reconciliatie</a></li>
+        <li><a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/08-it-support/README.md"><span class="step-no">8</span>IT-support</a></li>
+        <li><a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/09-testing/README.md"><span class="step-no">9</span>Testen</a></li>
+        <li><a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/10-improvement/README.md"><span class="step-no">10</span>Verbeteren</a></li>
+      </ol>
+    </section>
+
+    <section id="resultaat" class="wrap section">
+      <h2>Resultaat <span class="note">(gesimuleerd op gegenereerde data)</span></h2>
+      <div class="grid cards-4">
+        <article class="card"><p>Onverklaard verschil Excel ↔ finance</p><div class="kpi-value"><!--m:recon_unexplained|eur2-->€ 0,00<!--/m--></div><p>3 oorzaken, op de cent verklaard in SQL én Excel</p></article>
+        <article class="card"><p>CRM-gezondheid</p><div class="kpi-value"><!--m:dq_health_before|pct-->75,0 %<!--/m--> → <!--m:dq_health_after|pct-->98,0 %<!--/m--></div><p>13 regels, elke wijziging gelogd, niets verwijderd</p></article>
+        <article class="card"><p>Duplicaten beoordeeld</p><div class="kpi-value"><!--m:review_total|int-->165<!--/m--></div><p><!--m:review_samenvoegen|int-->145<!--/m--> samengevoegd, <!--m:review_geen_duplicaat|int-->15<!--/m--> bewust niet</p></article>
+        <article class="card"><p>Omzet terug bij de juiste verkoper</p><div class="kpi-value"><!--m:unassigned_revenue_naive|eur0-->€ 774.605<!--/m--></div><p>uit <!--m:lines_rep_derived|int-->1.431<!--/m--> factuurlijnen zonder verkoper</p></article>
+      </div>
+    </section>
+
+    <section id="bewijs" class="wrap section">
+      <h2>Wat deze case toont</h2>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Wat een junior data analyst doet</th><th>Bewijs in deze case</th><th>Toont / claimt niet</th></tr></thead>
+          <tbody>
+            <tr><td>Dashboards bouwen met Power BI en SQL voor het salesteam</td><td>Sterschema + KPI-views in SQL; Power BI-model als code (TMDL) met 18 measures en beveiliging per verkoper; vier rapportpagina's in de demo</td><td>DAX niet uitgevoerd in Power BI; geen gepubliceerd rapport</td></tr>
+            <tr><td>Data uit het datawarehouse verzamelen en structureren</td><td>Pipeline staging → regels → model; dezelfde views in T-SQL, in CI vergeleken op SQL Server 2022</td><td>Geen productiewarehouse</td></tr>
+            <tr><td>CRM beheren, datakwaliteit bewaken, workflows opzetten</td><td>13 regels met eigenaar, duplicaatscore + menselijke review, overlevingsregels, auditlog, preventie bij invoer</td><td>Geen configuratie in een echt CRM</td></tr>
+            <tr><td>Excel</td><td>Reconciliatiewerkboek met SUMIFS-brug die zichzelf tegen SQL controleert</td><td>—</td></tr>
+            <tr><td>IT-support voor collega's</td><td>Drie tickets met diagnose, communicatie (ook in het Frans) en preventie; runbook</td><td>Fictieve tickets</td></tr>
+            <tr><td>Meedenken over verbeterprojecten</td><td>Zeven voorstellen, geprioriteerd op "stopt het nieuwe fouten?"</td><td>Baten zijn inschattingen</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="wrap section">
+      <h2>Controleerbaar</h2>
+      <p class="measure">Alles wordt in GitHub Actions opnieuw opgebouwd: data genereren, pipeline draaien, tests, het Power BI-model inlezen met Microsofts TMDL-serializer, het model op SQL Server 2022 laden en de KPI's vergelijken, en controleren dat elk getal op deze pagina nog klopt met het model.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Portfoliocase van Philippe Godfroy · fictief bedrijf Vennaert · code MIT, documentatie en data CC BY 4.0 · <a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case">GitHub</a></p>
+    </div>
+  </footer>
+</body>
+</html>

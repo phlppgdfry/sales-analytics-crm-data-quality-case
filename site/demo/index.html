@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vennaert Sales Werkplek — demo</title>
+  <meta name="description" content="Interactieve demo: salesdashboard, CRM-datakwaliteit met duplicatenwachtrij, reconciliatie met finance en een SQL-console op het datawarehouse, in de browser.">
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="../">Vennaert · Sales &amp; CRM</a>
+      <nav aria-label="Acties">
+        <a href="#" id="btn-tour">Rondleiding (2 min)</a>
+        <a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="app-head" style="padding-left:0;padding-right:0">
+      <h1>Sales Werkplek</h1>
+      <p class="note" id="asof">Gegevens tot en met …</p>
+      <p class="disclaimer">Fictief bedrijf, gegenereerde data. Dezelfde cijfers als het Power BI-model en de SQL-views in de repository.</p>
+      <div class="tabs" role="tablist" aria-label="Onderdelen">
+        <button role="tab" id="tab-overview" aria-controls="p-overview" aria-selected="true">Overzicht</button>
+        <button role="tab" id="tab-sales" aria-controls="p-sales" aria-selected="false">Verkoop</button>
+        <button role="tab" id="tab-pipeline" aria-controls="p-pipeline" aria-selected="false">Pipeline</button>
+        <button role="tab" id="tab-crm" aria-controls="p-crm" aria-selected="false">CRM-kwaliteit</button>
+        <button role="tab" id="tab-recon" aria-controls="p-recon" aria-selected="false">Reconciliatie</button>
+        <button role="tab" id="tab-sql" aria-controls="p-sql" aria-selected="false">SQL</button>
+        <button role="tab" id="tab-support" aria-controls="p-support" aria-selected="false">IT-support</button>
+      </div>
+    </section>
+
+    <div class="filters" id="filters">
+      <label>Periode
+        <select id="f-period">
+          <option value="ytd">2026 t.e.m. september</option>
+          <option value="q3">Q3 2026</option>
+          <option value="12m">Laatste 12 maanden</option>
+          <option value="2025">Jaar 2025</option>
+        </select>
+      </label>
+      <label>Segment
+        <select id="f-segment"><option value="*">Alle segmenten</option></select>
+      </label>
+    </div>
+
+    <!-- Overzicht -->
+    <section class="panel" id="p-overview" role="tabpanel" aria-labelledby="tab-overview">
+      <div class="tiles" id="ov-tiles"></div>
+      <div class="chart-card" id="ov-chart-card">
+        <h3>Netto-omzet per maand</h3>
+        <p class="caption">2026 tegenover target en 2025. Netto-omzet = finance-definitie (KPI-01): facturen min creditnota's, zonder personeelsshop.</p>
+        <ul class="legend" id="ov-legend"></ul>
+        <div class="chart" id="ov-chart"></div>
+        <details class="table-view"><summary>Toon als tabel</summary><div class="table-wrap" id="ov-table"></div></details>
+      </div>
+    </section>
+
+    <!-- Verkoop -->
+    <section class="panel hidden" id="p-sales" role="tabpanel" aria-labelledby="tab-sales">
+      <div class="chart-card" id="sales-rep-card">
+        <h3>Netto-omzet per verkoper tegenover target</h3>
+        <p class="caption">Omzet staat op de verkoper die de klant had op de factuurdatum (ADR-002): Koen B. vertrok eind maart, Bram S. startte in april vanaf nul.</p>
+        <ul class="legend"><li><span class="key" style="background:var(--s1)"></span>Netto-omzet</li><li><span class="key line" style="background:var(--text)"></span>Target</li></ul>
+        <div class="chart" id="sales-rep-chart"></div>
+        <details class="table-view"><summary>Toon als tabel</summary><div class="table-wrap" id="sales-rep-table"></div></details>
+      </div>
+      <div class="two-col">
+        <div class="chart-card">
+          <h3>Netto-omzet per productcategorie</h3>
+          <p class="caption">"Onbekend" = artikels zonder categorie (regel ERP-02), zichtbaar in plaats van weggefilterd.</p>
+          <div class="chart" id="sales-cat-chart"></div>
+          <details class="table-view"><summary>Toon als tabel</summary><div class="table-wrap" id="sales-cat-table"></div></details>
+        </div>
+        <div class="chart-card">
+          <h3>Top 10 klanten, laatste 12 maanden</h3>
+          <p class="caption">Vaste periode, los van de filters.</p>
+          <div class="table-wrap" id="sales-top"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Pipeline -->
+    <section class="panel hidden" id="p-pipeline" role="tabpanel" aria-labelledby="tab-pipeline">
+      <div class="tiles" id="pipe-tiles"></div>
+      <div class="chart-card" id="pipe-stage-card">
+        <h3>Open pipeline per fase</h3>
+        <p class="caption">Bedrag en gewogen bedrag (bedrag × slaagkans 10/25/50/75 %). Huidige stand, los van de filters.</p>
+        <ul class="legend"><li><span class="key" style="background:var(--s1)"></span>Open bedrag</li><li><span class="key" style="background:var(--s3)"></span>Gewogen</li></ul>
+        <div class="chart" id="pipe-stage-chart"></div>
+        <details class="table-view"><summary>Toon als tabel</summary><div class="table-wrap" id="pipe-stage-table"></div></details>
+      </div>
+      <div class="chart-card" id="pipe-stale-card">
+        <h3>Vergeten deals: open, geen update in meer dan 60 dagen</h3>
+        <p class="caption">De acht grootste. Het lijstje voor het maandaggesprek (regel OPP-01).</p>
+        <div class="table-wrap" id="pipe-stale"></div>
+      </div>
+    </section>
+
+    <!-- CRM -->
+    <section class="panel hidden" id="p-crm" role="tabpanel" aria-labelledby="tab-crm">
+      <div class="tiles" id="crm-tiles"></div>
+      <div class="chart-card" id="crm-rules-card">
+        <h3>13 regels, vóór en na de correcties</h3>
+        <p class="caption">Blokkerend = maakt het rapport fout. Wat overblijft vraagt informatie van de klant (foute btw, geen contact) of van aankoop (artikelfiche).</p>
+        <div class="table-wrap" id="crm-rules"></div>
+      </div>
+      <div class="chart-card" id="crm-queue-card">
+        <h3>Duplicatenwachtrij — beslis zelf</h3>
+        <p class="caption">Elk paar heeft een score en het bewijs. Geel = velden die verschillen. Jouw beslissing wordt naast die van de reviewers in de case gelegd. Er wordt niets automatisch samengevoegd (ADR-003).</p>
+        <div class="filters" style="margin:0">
+          <label>Toon
+            <select id="q-filter">
+              <option value="all">Alle paren</option>
+              <option value="waarschijnlijk">Score ≥ 75 (waarschijnlijk)</option>
+              <option value="beoordelen">Score 40–74 (beoordelen)</option>
+              <option value="nodup">Wat de reviewers géén duplicaat vonden</option>
+            </select>
+          </label>
+        </div>
+        <div class="queue-nav">
+          <button class="btn-sm" id="q-prev">← Vorige</button>
+          <span id="q-pos" class="note"></span>
+          <button class="btn-sm" id="q-next">Volgende →</button>
+          <span id="q-score" class="status-pill"></span>
+        </div>
+        <div class="pair" id="q-pair"></div>
+        <p class="note" id="q-evidence"></p>
+        <div class="queue-nav">
+          <button class="btn-sm primary" data-decide="samenvoegen">Samenvoegen</button>
+          <button class="btn-sm" data-decide="geen duplicaat">Geen duplicaat</button>
+          <button class="btn-sm" data-decide="later">Later</button>
+          <button class="btn-sm" id="q-reset" title="Wis je beslissingen">Reset</button>
+        </div>
+        <div class="verdict hidden" id="q-verdict"></div>
+        <p class="note" id="q-score-mine"></p>
+      </div>
+    </section>
+
+    <!-- Reconciliatie -->
+    <section class="panel hidden" id="p-recon" role="tabpanel" aria-labelledby="tab-recon">
+      <div class="chart-card" id="recon-card">
+        <h3>Van het wekelijkse Excel-rapport naar finance, Q3 2026</h3>
+        <p class="caption">Elke stap is berekend uit de data (sql/05_reconciliation.sql) en identiek nagerekend in Excel met SUMIFS.</p>
+        <div class="chart" id="recon-chart"></div>
+        <details class="table-view" open><summary>Toon als tabel</summary><div class="table-wrap" id="recon-table"></div></details>
+      </div>
+      <div class="chart-card" id="recon-causes-card">
+        <h3>Waar het verschil vandaan komt</h3>
+        <p class="caption">De drie oorzaken, groot naar klein. Samen precies het verschil tussen het rapport en finance.</p>
+        <div class="chart" id="recon-causes"></div>
+      </div>
+      <div class="chart-card">
+        <h3>Per maand: finance tegenover het datawarehouse</h3>
+        <div class="table-wrap" id="recon-monthly"></div>
+      </div>
+    </section>
+
+    <!-- SQL -->
+    <section class="panel hidden" id="p-sql" role="tabpanel" aria-labelledby="tab-sql">
+      <div class="chart-card" id="sql-card">
+        <h3>Het datawarehouse, in je browser</h3>
+        <p class="caption">SQLite via sql.js (WebAssembly): dimensies, feiten, KPI-views en datakwaliteitstabellen. Alleen lezen; elke query draait op je eigen toestel. Dezelfde views bestaan in T-SQL en worden in CI op SQL Server 2022 vergeleken.</p>
+        <div class="presets" id="sql-presets"></div>
+        <label for="sql-text" class="note">Query</label>
+        <textarea class="sql" id="sql-text" spellcheck="false"></textarea>
+        <div class="queue-nav"><button class="btn-sm primary" id="sql-run">Uitvoeren (Ctrl/⌘ + Enter)</button><span class="note" id="sql-status">Database wordt geladen bij het openen van dit tabblad (± 6 MB).</span></div>
+        <div class="table-wrap sql-out" id="sql-out"></div>
+      </div>
+    </section>
+
+    <!-- IT-support -->
+    <section class="panel hidden" id="p-support" role="tabpanel" aria-labelledby="tab-support">
+      <div class="grid cards-3" id="support-cards">
+        <article class="card"><span class="chip warn">P2 · Power BI</span><h3>"Het rapport toont cijfers van gisteren"</h3><p>Refresh mislukt: wachtwoord van het serviceaccount geroteerd, gateway niet bijgewerkt. Opgelost voor het maandgesprek; rotatie en gateway nu in één change.</p></article>
+        <article class="card"><span class="chip warn">P2 · RLS · FR</span><h3>"Je ne vois aucun client dans le rapport"</h3><p>Rijbeveiliging filtert op e-mail; in de ERP-verkoperstabel stond een oud adres. Bron verbeterd, niet het rapport. Antwoord in eenvoudig Frans.</p></article>
+        <article class="card"><span class="chip ok">P3 · Onboarding</span><h3>"Bram begint maandag"</h3><p>Laptop, MFA, CRM, Power BI-groep — en verkoper aanmaken met ingangsdatum. Offboarding = zelfde lijst omgekeerd: voorkomt de 151 accounts op naam van een vertrokken verkoper.</p></article>
+      </div>
+      <p class="note">Volledige tickets met diagnose, communicatie en preventie: <a href="https://github.com/phlppgdfry/sales-analytics-crm-data-quality-case/blob/main/docs/08-it-support/README.md">docs/08-it-support</a>.</p>
+    </section>
+  </main>
+
+  <div class="tooltip hidden" id="tooltip" role="status"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

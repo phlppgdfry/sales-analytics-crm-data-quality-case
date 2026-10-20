@@ -1,0 +1,75 @@
+/// Eén rij per factuur- of creditnotalijn; creditnota's negatief
+table fact_sales
+
+	column invoice_no
+		dataType: string
+		summarizeBy: none
+		sourceColumn: invoice_no
+
+	column doc_type
+		dataType: string
+		summarizeBy: none
+		sourceColumn: doc_type
+
+	column date_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: date_key
+
+	column customer_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: customer_key
+
+	column product_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: product_key
+
+	column rep_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: rep_key
+
+	column rep_derived
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: rep_derived
+
+	column qty
+		dataType: int64
+		summarizeBy: sum
+		sourceColumn: qty
+
+	column net_amount
+		dataType: decimal
+		formatString: #,0.00
+		summarizeBy: sum
+		sourceColumn: net_amount
+
+	column cost_amount
+		dataType: decimal
+		formatString: #,0.00
+		summarizeBy: sum
+		sourceColumn: cost_amount
+
+	column gross_margin
+		dataType: decimal
+		formatString: #,0.00
+		summarizeBy: sum
+		sourceColumn: gross_margin
+
+	partition fact_sales = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(Server, Database),
+				    Data = Source{[Schema = "dwh", Item = "fact_sales"]}[Data]
+				in
+				    Data
+

@@ -1,0 +1,4 @@
+/// Sales manager, finance and the data analyst: everything, no filter.
+role 'Sales management'
+	modelPermission: read
+

@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+site/dist/
+.env
+.env.*
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+warehouse/
+site/data/warehouse.sqlite
+tools/TmdlValidate/bin/
+tools/TmdlValidate/obj/
+.pytest_cache/

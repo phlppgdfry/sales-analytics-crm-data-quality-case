@@ -1,0 +1,1381 @@
+customer_no,name,vat_number,postcode,city,country,language,segment,territory,created_on
+C10001,Restaurant Hof ter Leie BV,BE0255136724,8800,Roeselare,BE,NL,Horeca,West-Vlaanderen Binnenland,2016-07-07
+C10002,Basisschool Het Anker,BE0506947932,2500,Lier,BE,NL,Onderwijs & overheid,Antwerpen,2013-08-18
+C10003,Mertens Metaal,BE0472445230,8400,Oostende,BE,NL,Industrie,West-Vlaanderen Kust,2017-09-09
+C10004,Nettoyage Collard SARL,FR01470031894,59200,Tourcoing,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2012-01-16
+C10005,Hotel De Kapel BV,BE0377212610,8660,De Panne,BE,NL,Horeca,West-Vlaanderen Kust,2018-06-24
+C10006,Deprez Food Processing NV,BE0346780740,1000,Brussel,BE,NL,Industrie,Vlaams-Brabant & Brussel,2016-11-05
+C10007,Brasserie Simon,BE0531902567,7700,Mouscron,BE,FR,Horeca,Hainaut,2013-01-12
+C10008,Taverne Het Anker VOF,BE0900052805,9100,Sint-Niklaas,BE,NL,Horeca,Oost-Vlaanderen,2013-07-31
+C10009,Métallerie Hennebert SRL,BE0538829555,4800,Verviers,BE,FR,Industrie,Wallonie,2020-12-29
+C10010,Taverne Ter Linde BV,BE0995650164,3800,Sint-Truiden,BE,NL,Horeca,Limburg,2022-03-03
+C10011,Net & Proper Goossens BV,BE0977205516,9200,Dendermonde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2025-06-29
+C10012,Gemeente Zonnebeke,BE0455981657,1500,Halle,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2013-01-02
+C10013,Woonzorgcentrum Het Anker VZW,BE0970204490,8420,De Haan,BE,NL,Zorg,West-Vlaanderen Kust,2012-02-03
+C10014,Willaert Food Processing VOF,BE0754835390,8400,Oostende,BE,NL,Industrie,West-Vlaanderen Kust,2017-07-31
+C10015,Restaurant De Notelaar VOF,BE0809021471,8900,Ieper,BE,NL,Horeca,West-Vlaanderen Binnenland,2025-10-29
+C10016,Brasserie Jacobs NV,BE0881357935,1500,Halle,BE,NL,Horeca,Vlaams-Brabant & Brussel,2014-11-12
+C10017,Houtbewerking Callewaert,BE0356278228,1800,Vilvoorde,BE,NL,Industrie,Vlaams-Brabant & Brussel,2023-03-05
+C10018,Claeys Logistics VOF,BE0556524632,8700,Tielt,BE,NL,Industrie,West-Vlaanderen Binnenland,2020-08-19
+C10019,Dagcentrum De Notelaar VZW,BE0271035717,8000,Brugge,BE,NL,Zorg,West-Vlaanderen Binnenland,2018-06-05
+C10020,Marchal Services SPRL,BE0738135554,5000,Namur,BE,FR,Schoonmaakbedrijven,Wallonie,2019-11-14
+C10021,Propreté La Source SPRL,BE0627914751,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2021-05-06
+C10022,Nettoyage Gilson,FR24329522196,59200,Tourcoing,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2014-11-06
+C10023,Brasserie Declercq BV,BE0523195630,9100,Sint-Niklaas,BE,NL,Horeca,Oost-Vlaanderen,2019-03-16
+C10024,Net & Proper Vermeulen NV,BE0950149147,9200,Dendermonde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2017-10-20
+C10025,Coussens Logistics,BE0903691689,1800,Vilvoorde,BE,NL,Industrie,Vlaams-Brabant & Brussel,2026-03-21
+C10026,Vandamme Cleaning NV,BE0298133458,2400,Mol,BE,NL,Schoonmaakbedrijven,Antwerpen,2012-01-07
+C10027,Hotel De Zilverberk VOF,BE0478181096,3700,Tongeren,BE,NL,Horeca,Limburg,2026-06-02
+C10028,Gemeente Zonnebeke,BE0254178701,3300,Tienen,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2020-03-21
+C10029,Goossens Metaal BV,BE0760838997,2000,Antwerpen,BE,NL,Industrie,Antwerpen,2015-11-08
+C10030,Mertens Metaal,BE0691386997,1800,Vilvoorde,BE,NL,Industrie,Vlaams-Brabant & Brussel,2025-07-17
+C10031,Propreté Les Peupliers SRL,BE0741697632,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2024-09-12
+C10032,Gemeente Moorslede,BE0955700913,2300,Turnhout,BE,NL,Onderwijs & overheid,Antwerpen,2023-05-27
+C10033,Centre de soins Les Acacias ASBL,BE0833445081,5000,Namur,BE,FR,Zorg,Wallonie,2019-05-10
+C10034,Deschamps Industries SA,FR51669586357,62000,Arras,FR,FR,Industrie,Hauts-de-France,2020-12-12
+C10035,Gilson Services SRL,BE0741191549,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2025-12-08
+C10036,Brasserie Dumon BV,BE0223724461,8420,De Haan,BE,NL,Horeca,West-Vlaanderen Kust,2023-01-12
+C10037,Taverne Zonnehoek,BE0675649441,9900,Eeklo,BE,NL,Horeca,Oost-Vlaanderen,2013-08-15
+C10038,WZC De Zilverberk VZW,BE0715530693,8620,Nieuwpoort,BE,NL,Zorg,West-Vlaanderen Kust,2026-03-26
+C10039,Hôtel Le Moulin SPRL,BE0250752522,7100,La Louvière,BE,FR,Horeca,Hainaut,2022-01-05
+C10040,Basisschool Hof ter Leie,BE0926984260,2800,Mechelen,BE,NL,Onderwijs & overheid,Antwerpen,2015-04-16
+C10041,Dagcentrum Ter Linde VZW,BE0947196189,3800,Sint-Truiden,BE,NL,Zorg,Limburg,2026-01-09
+C10042,Résidence Le Val ASBL,BE0682262267,7100,La Louvière,BE,FR,Zorg,Hainaut,2025-03-01
+C10043,Atheneum De Meersen,BE0360189209,1500,Halle,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2026-05-12
+C10044,Vanneste Cleaning BV,BE0581993268,9700,Oudenaarde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2013-07-07
+C10045,Nettoyage Michel SRL,BE0259985536,7000,Mons,BE,FR,Schoonmaakbedrijven,Hainaut,2024-09-17
+C10046,Maison de repos Les Acacias ASBL,BE0883793526,4800,Verviers,BE,FR,Zorg,Wallonie,2023-01-10
+C10047,Hôtel Le Val,BE0293218330,4000,Liège,BE,FR,Horeca,Wallonie,2020-08-21
+C10048,Brasserie Leroy SA,BE0463695236,1300,Wavre,BE,FR,Horeca,Wallonie,2014-10-12
+C10049,Schoonmaakbedrijf Mertens VOF,BE0539392353,9200,Dendermonde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2022-10-11
+C10050,WZC De Zilverberk VZW,BE0510659270,9100,Sint-Niklaas,BE,NL,Zorg,Oost-Vlaanderen,2015-01-18
+C10051,WZC Ter Linde VZW,BE0679293572,8800,Roeselare,BE,NL,Zorg,West-Vlaanderen Binnenland,2021-04-29
+C10052,Ateliers Mercier SRL,BE0278166997,7100,La Louvière,BE,FR,Industrie,Hainaut,2023-06-24
+C10053,Taverne De Kapel BV,BE0931454574,2300,Turnhout,BE,NL,Horeca,Antwerpen,2018-07-21
+C10054,Net & Proper Verbeke NV,BE0450050603,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2026-03-30
+C10055,Jacobs Logistics BV,BE0484668319,8660,De Panne,BE,NL,Industrie,West-Vlaanderen Kust,2024-02-20
+C10056,Basisschool Zonnehoek,BE0230311553,9900,Eeklo,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2022-02-28
+C10057,Houtbewerking Verbeke BV,BE0649861990,9700,Oudenaarde,BE,NL,Industrie,Oost-Vlaanderen,2023-09-20
+C10058,Hôtel La Source SRL,BE0873618325,5500,Dinant,BE,FR,Horeca,Wallonie,2017-12-31
+C10059,Verbeke Metaal VOF,BE0306680841,9700,Oudenaarde,BE,NL,Industrie,Oost-Vlaanderen,2015-03-16
+C10060,Wouters Cleaning VOF,BE0754717309,1800,Vilvoorde,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2019-11-06
+C10061,Piron Industries,BE0952627595,5500,Dinant,BE,FR,Industrie,Wallonie,2024-02-11
+C10062,Mertens Cleaning VOF,BE0922178802,1000,Brussel,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2021-04-07
+C10063,WZC De Vlier VZW,BE0922235814,2500,Lier,BE,NL,Zorg,Antwerpen,2022-08-13
+C10064,Restaurant Le Val SRL,BE0580958536,5000,Namur,BE,FR,Horeca,Wallonie,2012-10-19
+C10065,Schoonmaakbedrijf Declercq VOF,BE0591830157,8620,Nieuwpoort,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2017-01-27
+C10066,Mertens Cleaning NV,BE0300190650,9300,Aalst,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2013-01-10
+C10067,Woonzorgcentrum Het Anker VZW,BE0469505140,2000,Antwerpen,BE,NL,Zorg,Antwerpen,2015-05-15
+C10068,Jacobs Metaal VOF,BE0671517340,2300,Turnhout,BE,NL,Industrie,Antwerpen,2013-12-20
+C10069,Ghekiere Food Processing,BE0693054607,9300,Aalst,BE,NL,Industrie,Oost-Vlaanderen,2025-05-15
+C10070,Hotel Hof ter Leie NV,BE0699611015,2200,Herentals,BE,NL,Horeca,Antwerpen,2020-06-26
+C10071,Woonzorgcentrum De Zilverberk VZW,BE0687249057,2400,Mol,BE,NL,Zorg,Antwerpen,2014-09-01
+C10072,Athénée La Roseraie,FR08346440866,59140,Dunkerque,FR,FR,Onderwijs & overheid,Hauts-de-France,2016-01-19
+C10073,Résidence Le Moulin,FR63828850952,59200,Tourcoing,FR,FR,Zorg,Hauts-de-France,2022-09-05
+C10074,Schoonmaakbedrijf Jacobs BV,BE0415543842,3800,Sint-Truiden,BE,NL,Schoonmaakbedrijven,Limburg,2020-11-05
+C10075,Nettoyage Hennebert SRL,BE0460599649,7500,Tournai,BE,FR,Schoonmaakbedrijven,Hainaut,2012-03-02
+C10076,Schoonmaakbedrijf Jacobs VOF,BE0621129503,8560,Wevelgem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2018-06-12
+C10077,Dagcentrum Het Anker VZW,BE0513671418,2800,Mechelen,BE,NL,Zorg,Antwerpen,2019-11-05
+C10078,Vermeulen Metaal NV,BE0317006292,2000,Antwerpen,BE,NL,Industrie,Antwerpen,2013-04-29
+C10079,Callewaert Cleaning BV,BE0750740804,9200,Dendermonde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2021-07-28
+C10080,Restaurant De Vlier VOF,BE0676127117,1500,Halle,BE,NL,Horeca,Vlaams-Brabant & Brussel,2014-03-25
+C10081,Propreté Les Peupliers,FR58802649763,62000,Arras,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2018-06-29
+C10082,Net & Proper Wouters NV,BE0740885307,1800,Vilvoorde,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2024-04-18
+C10083,Résidence Le Val,FR25459909855,59000,Lille,FR,FR,Zorg,Hauts-de-France,2019-11-06
+C10084,Atheneum De Zilverberk,BE0442704634,8800,Roeselare,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2022-07-26
+C10085,Net & Proper Vercruysse BV,BE0682337293,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2022-12-11
+C10086,WZC Ter Duinen VZW,BE0755136882,8500,Kortrijk,BE,NL,Zorg,West-Vlaanderen Binnenland,2022-01-07
+C10087,Dagcentrum De Kapel VZW,BE0824459913,2500,Lier,BE,NL,Zorg,Antwerpen,2026-01-28
+C10088,Schoonmaakbedrijf Wouters BV,BE0567753173,9700,Oudenaarde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2021-06-24
+C10089,Hotel De Notelaar BV,BE0953322235,9200,Dendermonde,BE,NL,Horeca,Oost-Vlaanderen,2024-03-18
+C10090,Deschamps Industries SA,BE0624861330,7500,Tournai,BE,FR,Industrie,Hainaut,2014-07-12
+C10091,WZC Ter Linde VZW,BE0927672267,2800,Mechelen,BE,NL,Zorg,Antwerpen,2025-09-13
+C10092,Centre de soins Les Glycines,FR73338854841,59000,Lille,FR,FR,Zorg,Hauts-de-France,2013-08-27
+C10093,Gemeente Zonnebeke,BE0933884623,8620,Nieuwpoort,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2023-03-14
+C10094,Houtbewerking Dumon NV,BE0918320675,3800,Sint-Truiden,BE,NL,Industrie,Limburg,2017-07-28
+C10095,Peeters Logistics BV,BE0878143869,8620,Nieuwpoort,BE,NL,Industrie,West-Vlaanderen Kust,2012-05-10
+C10096,Woonzorgcentrum Ter Linde VZW,BE0730907272,9700,Oudenaarde,BE,NL,Zorg,Oost-Vlaanderen,2017-04-01
+C10097,Houtbewerking Debruyne NV,BE0505334267,9200,Dendermonde,BE,NL,Industrie,Oost-Vlaanderen,2022-01-01
+C10098,Hotel Zonnehoek NV,BE0802595222,8700,Tielt,BE,NL,Horeca,West-Vlaanderen Binnenland,2020-08-02
+C10099,Net & Proper Lannoo,BE0740996361,8900,Ieper,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2015-01-23
+C10100,Hotel De Meersen NV,BE0342277267,8800,Roeselare,BE,NL,Horeca,West-Vlaanderen Binnenland,2024-10-05
+C10101,Maison de repos Le Moulin,FR04546250518,62100,Calais,FR,FR,Zorg,Hauts-de-France,2019-02-12
+C10102,Restaurant Hof ter Leie NV,BE0244243921,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2025-06-03
+C10103,Ateliers Lefebvre SAS,FR04822205236,59300,Valenciennes,FR,FR,Industrie,Hauts-de-France,2015-02-21
+C10104,Maison de repos La Roseraie ASBL,BE0768915832,6000,Charleroi,BE,FR,Zorg,Hainaut,2014-04-05
+C10105,Restaurant Ter Duinen NV,BE0245119097,9200,Dendermonde,BE,NL,Horeca,Oost-Vlaanderen,2023-09-10
+C10106,Brasserie Mercier,BE0253832667,5500,Dinant,BE,FR,Horeca,Wallonie,2026-03-08
+C10107,Wouters Cleaning,BE0870128008,2400,Mol,BE,NL,Schoonmaakbedrijven,Antwerpen,2024-12-25
+C10108,Nettoyage Gilson,BE0766841913,1300,Wavre,BE,FR,Schoonmaakbedrijven,Wallonie,2017-03-21
+C10109,Schoonmaakbedrijf Bossuyt BV,BE0235182735,8400,Oostende,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2017-07-17
+C10110,Schoonmaakbedrijf Vanhoutte BV,BE0306406172,8790,Waregem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2018-09-16
+C10111,Schoonmaakbedrijf Lambrecht VOF,BE0837651517,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2013-05-18
+C10112,Net & Proper Mertens BV,BE0617017988,3600,Genk,BE,NL,Schoonmaakbedrijven,Limburg,2025-07-26
+C10113,Marchal Services SRL,BE0895208743,7500,Tournai,BE,FR,Schoonmaakbedrijven,Hainaut,2025-01-21
+C10114,Hotel De Vlier BV,BE0682000961,9300,Aalst,BE,NL,Horeca,Oost-Vlaanderen,2012-09-06
+C10115,Restaurant Zonnehoek VOF,BE0530565155,8900,Ieper,BE,NL,Horeca,West-Vlaanderen Binnenland,2012-10-25
+C10116,Mertens Logistics VOF,BE0688879746,3700,Tongeren,BE,NL,Industrie,Limburg,2020-01-24
+C10117,Net & Proper Dumon NV,BE0618448343,8800,Roeselare,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2022-06-30
+C10118,Houtbewerking Goossens BV,BE0429124436,8370,Blankenberge,BE,NL,Industrie,West-Vlaanderen Kust,2024-11-24
+C10119,Résidence Les Tilleuls ASBL,BE0364256180,7700,Mouscron,BE,FR,Zorg,Hainaut,2025-04-12
+C10120,Net & Proper Bossuyt BV,BE0229519222,8500,Kortrijk,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2016-03-20
+C10121,Houtbewerking Willaert,BE0727512371,8870,Izegem,BE,NL,Industrie,West-Vlaanderen Binnenland,2025-12-13
+C10122,Leroy Services,BE0307295208,7700,Mouscron,BE,FR,Schoonmaakbedrijven,Hainaut,2014-06-15
+C10123,Gemeente Moorslede,BE0825869282,2000,Antwerpen,BE,NL,Onderwijs & overheid,Antwerpen,2021-11-12
+C10124,Woonzorgcentrum Zonnehoek VZW,BE0313130054,1500,Halle,BE,NL,Zorg,Vlaams-Brabant & Brussel,2016-04-15
+C10125,Brasserie Pattyn BV,BE0482159977,9200,Dendermonde,BE,NL,Horeca,Oost-Vlaanderen,2020-02-20
+C10126,Verbeke Food Processing BV,BE0938122236,3300,Tienen,BE,NL,Industrie,Vlaams-Brabant & Brussel,2015-05-27
+C10127,Restaurant De Vlier VOF,BE0607580383,9900,Eeklo,BE,NL,Horeca,Oost-Vlaanderen,2013-09-19
+C10128,Woonzorgcentrum Het Anker VZW,BE0707359929,2800,Mechelen,BE,NL,Zorg,Antwerpen,2019-06-18
+C10129,Basisschool Het Anker,BE0243996669,3000,Leuven,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2025-10-15
+C10130,Schoonmaakbedrijf Debruyne BV,BE0335327515,8620,Nieuwpoort,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2014-01-06
+C10131,Net & Proper Devos,BE0682133791,2400,Mol,BE,NL,Schoonmaakbedrijven,Antwerpen,2025-12-21
+C10132,Declercq Cleaning BV,BE0695795846,1500,Halle,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2019-04-03
+C10133,Schoonmaakbedrijf Goossens VOF,BE0764795015,8870,Izegem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2016-02-11
+C10134,Hotel Ter Linde VOF,BE0502737835,3600,Genk,BE,NL,Horeca,Limburg,2017-05-27
+C10135,Résidence La Roseraie ASBL,BE0793300840,4800,Verviers,BE,FR,Zorg,Wallonie,2024-03-15
+C10136,Hotel Hof ter Leie,BE0625884778,2500,Lier,BE,NL,Horeca,Antwerpen,2024-05-09
+C10137,Hôtel Beau Site,FR89412322517,62100,Calais,FR,FR,Horeca,Hauts-de-France,2012-07-28
+C10138,Nettoyage Leroy SRL,BE0350544142,5500,Dinant,BE,FR,Schoonmaakbedrijven,Wallonie,2018-05-23
+C10139,Woonzorgcentrum Ter Duinen VZW,BE0645643579,9900,Eeklo,BE,NL,Zorg,Oost-Vlaanderen,2020-09-01
+C10140,Ateliers Lefebvre SRL,BE0816435043,5000,Namur,BE,FR,Industrie,Wallonie,2014-03-01
+C10141,WZC De Vlier VZW,BE0593961781,8400,Oostende,BE,NL,Zorg,West-Vlaanderen Kust,2026-04-11
+C10142,Taverne Hof ter Leie,BE0727724484,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2012-04-29
+C10143,Atheneum De Kapel,BE0621562043,9100,Sint-Niklaas,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2020-06-05
+C10144,Restaurant Hof ter Leie,BE0560195289,2400,Mol,BE,NL,Horeca,Antwerpen,2025-02-06
+C10145,Restaurant De Notelaar,BE0234100689,2000,Antwerpen,BE,NL,Horeca,Antwerpen,2012-06-25
+C10146,Athénée Le Moulin,BE0619253740,1300,Wavre,BE,FR,Onderwijs & overheid,Wallonie,2016-06-15
+C10147,WZC De Zilverberk VZW,BE0715301061,8000,Brugge,BE,NL,Zorg,West-Vlaanderen Binnenland,2021-02-05
+C10148,Net & Proper Verbeke BV,BE0822710349,9200,Dendermonde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2013-11-29
+C10149,Basisschool De Zilverberk,BE0351376461,9300,Aalst,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2023-02-04
+C10150,Dupont Services SRL,BE0968583305,6000,Charleroi,BE,FR,Schoonmaakbedrijven,Hainaut,2017-11-09
+C10151,Mertens Logistics VOF,BE0397365745,3000,Leuven,BE,NL,Industrie,Vlaams-Brabant & Brussel,2020-09-09
+C10152,Net & Proper Willaert,BE0976604314,9100,Sint-Niklaas,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2012-01-23
+C10153,Vermeulen Metaal,BE0370551480,8500,Kortrijk,BE,NL,Industrie,West-Vlaanderen Binnenland,2013-08-02
+C10154,Taverne De Notelaar NV,BE0660868621,3900,Pelt,BE,NL,Horeca,Limburg,2016-06-12
+C10155,Dagcentrum De Zilverberk VZW,BE0936599930,3600,Genk,BE,NL,Zorg,Limburg,2016-11-02
+C10156,Schoonmaakbedrijf Hoste VOF,BE0341991415,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2013-08-09
+C10157,Hôtel La Source SPRL,BE0271477363,4000,Liège,BE,FR,Horeca,Wallonie,2023-01-04
+C10158,WZC Het Anker VZW,BE0804567686,2300,Turnhout,BE,NL,Zorg,Antwerpen,2022-12-25
+C10159,Houtbewerking Maes,BE0959472926,2000,Antwerpen,BE,NL,Industrie,Antwerpen,2019-08-29
+C10160,Brasserie Mertens BV,BE0357139350,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2018-01-23
+C10161,Maison de repos Le Moulin,FR48568235615,59200,Tourcoing,FR,FR,Zorg,Hauts-de-France,2014-02-12
+C10162,Basisschool De Kapel,BE0277086339,9900,Eeklo,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2018-08-28
+C10163,Claeys Food Processing BV,BE0819797973,9900,Eeklo,BE,NL,Industrie,Oost-Vlaanderen,2015-08-14
+C10164,Hôtel Le Clos SRL,BE0322868854,5500,Dinant,BE,FR,Horeca,Wallonie,2015-02-20
+C10165,Lannoo Cleaning NV,BE0840533308,3300,Tienen,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2019-04-03
+C10166,Hotel Ter Duinen VOF,BE0456479921,8660,De Panne,BE,NL,Horeca,West-Vlaanderen Kust,2019-12-31
+C10167,Restaurant Ter Linde,BE0986445260,3000,Leuven,BE,NL,Horeca,Vlaams-Brabant & Brussel,2021-09-24
+C10168,Net & Proper Vanhoutte BV,BE0525730102,8900,Ieper,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2017-10-08
+C10169,Restaurant De Vlier VOF,BE0865487052,2000,Antwerpen,BE,NL,Horeca,Antwerpen,2017-12-17
+C10170,Net & Proper Coussens NV,BE0362352606,2200,Herentals,BE,NL,Schoonmaakbedrijven,Antwerpen,2019-10-19
+C10171,Renard Industries SA,BE0244154938,1300,Wavre,BE,FR,Industrie,Wallonie,2026-05-15
+C10172,Net & Proper Devos BV,BE0283307603,8560,Wevelgem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2024-02-01
+C10173,Nettoyage Masson SA,FR41937285725,59100,Roubaix,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2023-06-08
+C10174,WZC Hof ter Leie VZW,BE0372192859,2000,Antwerpen,BE,NL,Zorg,Antwerpen,2024-09-06
+C10175,Vermeulen Metaal NV,BE0977297863,8420,De Haan,BE,NL,Industrie,West-Vlaanderen Kust,2022-07-07
+C10176,Centre de soins La Roseraie ASBL,BE0595069165,4000,Liège,BE,FR,Zorg,Wallonie,2020-12-16
+C10177,Dagcentrum De Notelaar VZW,BE0303751441,8700,Tielt,BE,NL,Zorg,West-Vlaanderen Binnenland,2020-06-13
+C10178,Basisschool De Notelaar,BE0992380076,2300,Turnhout,BE,NL,Onderwijs & overheid,Antwerpen,2017-11-19
+C10179,Net & Proper Lannoo BV,BE0743385234,8500,Kortrijk,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2024-02-05
+C10180,Schoonmaakbedrijf Pattyn BV,BE0447701520,9700,Oudenaarde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2016-12-24
+C10181,Gemeente Staden,BE0893786011,8560,Wevelgem,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2015-08-04
+C10182,Basisschool De Notelaar,BE0518602085,8700,Tielt,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2013-08-19
+C10183,Woonzorgcentrum De Vlier VZW,BE0824362121,2800,Mechelen,BE,NL,Zorg,Antwerpen,2026-06-11
+C10184,Net & Proper Peeters,BE0343277258,9200,Dendermonde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2014-05-21
+C10185,Atheneum De Vlier,BE0451797294,9900,Eeklo,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2020-10-25
+C10186,Net & Proper Goossens BV,BE0923589458,2300,Turnhout,BE,NL,Schoonmaakbedrijven,Antwerpen,2024-03-11
+C10187,Ateliers Mercier SA,BE0758181296,7700,Mouscron,BE,FR,Industrie,Hainaut,2020-05-17
+C10188,Restaurant De Notelaar VOF,BE0434729353,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2025-04-13
+C10189,Brasserie Callewaert VOF,BE0611475825,8420,De Haan,BE,NL,Horeca,West-Vlaanderen Kust,2023-01-18
+C10190,WZC Ter Duinen VZW,BE0507243880,9300,Aalst,BE,NL,Zorg,Oost-Vlaanderen,2017-10-18
+C10191,Schoonmaakbedrijf Ghekiere BV,BE0414396965,2200,Herentals,BE,NL,Schoonmaakbedrijven,Antwerpen,2019-03-06
+C10192,Métallerie Renard SRL,BE0297002221,7500,Tournai,BE,FR,Industrie,Hainaut,2019-03-16
+C10193,Dagcentrum Het Anker VZW,BE0353907468,8700,Tielt,BE,NL,Zorg,West-Vlaanderen Binnenland,2025-01-02
+C10194,Schoonmaakbedrijf Claeys VOF,BE0919995906,8800,Roeselare,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2015-09-06
+C10195,Vermeulen Cleaning,BE0985017776,3700,Tongeren,BE,NL,Schoonmaakbedrijven,Limburg,2013-10-20
+C10196,Devos Logistics VOF,BE0692016014,8790,Waregem,BE,NL,Industrie,West-Vlaanderen Binnenland,2022-08-11
+C10197,Centre de soins Les Tilleuls ASBL,BE0303710859,4800,Verviers,BE,FR,Zorg,Wallonie,2019-07-04
+C10198,Schoonmaakbedrijf Deprez BV,BE0543879493,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2013-07-11
+C10199,Schoonmaakbedrijf Coussens VOF,BE0207157554,9900,Eeklo,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2017-03-10
+C10200,Woonzorgcentrum De Vlier VZW,BE0612655859,8400,Oostende,BE,NL,Zorg,West-Vlaanderen Kust,2013-01-09
+C10201,Peeters Food Processing BV,BE0723596442,2200,Herentals,BE,NL,Industrie,Antwerpen,2020-09-12
+C10202,Résidence Les Peupliers ASBL,BE0906864876,7500,Tournai,BE,FR,Zorg,Hainaut,2023-03-04
+C10203,Hotel Het Anker BV,BE0325350074,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2018-01-23
+C10204,WZC De Zilverberk VZW,BE0279469470,8370,Blankenberge,BE,NL,Zorg,West-Vlaanderen Kust,2019-09-18
+C10205,Résidence Les Acacias ASBL,BE0514511457,7000,Mons,BE,FR,Zorg,Hainaut,2017-03-15
+C10206,Peeters Cleaning,BE0441539545,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2013-04-03
+C10207,Schoonmaakbedrijf Bossuyt BV,BE0855328974,8790,Waregem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2012-07-13
+C10208,Net & Proper Vanhoutte BV,BE0676089802,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2012-10-27
+C10209,Net & Proper Deprez VOF,BE0299344077,1800,Vilvoorde,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2021-05-05
+C10210,Brasserie Coussens,BE0470135343,2400,Mol,BE,NL,Horeca,Antwerpen,2026-02-21
+C10211,Hennebert Services SARL,FR79626509895,59200,Tourcoing,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2017-07-11
+C10212,Woonzorgcentrum De Kapel VZW,BE0838571235,2800,Mechelen,BE,NL,Zorg,Antwerpen,2022-12-16
+C10213,Brasserie Debruyne VOF,BE0586465166,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2023-10-26
+C10214,Coussens Metaal BV,BE0492491170,8900,Ieper,BE,NL,Industrie,West-Vlaanderen Binnenland,2012-08-03
+C10215,Athénée Le Val,BE0493467902,1300,Wavre,BE,FR,Onderwijs & overheid,Wallonie,2017-02-02
+C10216,Brasserie Declercq BV,BE0616857048,3700,Tongeren,BE,NL,Horeca,Limburg,2023-03-06
+C10217,Woonzorgcentrum De Meersen VZW,BE0788355919,2200,Herentals,BE,NL,Zorg,Antwerpen,2015-11-07
+C10218,Restaurant De Vlier BV,BE0992285254,3000,Leuven,BE,NL,Horeca,Vlaams-Brabant & Brussel,2015-06-21
+C10219,Ateliers Renard SPRL,BE0650205648,4800,Verviers,BE,FR,Industrie,Wallonie,2022-01-03
+C10220,Propreté Les Acacias SRL,BE0514846207,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2025-08-27
+C10221,Verhaeghe Cleaning BV,BE0694004811,3700,Tongeren,BE,NL,Schoonmaakbedrijven,Limburg,2016-08-03
+C10222,Desmet Logistics,BE0740508688,8370,Blankenberge,BE,NL,Industrie,West-Vlaanderen Kust,2020-11-30
+C10223,Nettoyage Mercier SRL,BE0774420680,5000,Namur,BE,FR,Schoonmaakbedrijven,Wallonie,2022-02-24
+C10224,Métallerie Marchal SRL,BE0375599242,7700,Mouscron,BE,FR,Industrie,Hainaut,2017-04-13
+C10225,Vanneste Cleaning VOF,BE0562816467,8790,Waregem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2023-08-03
+C10226,Woonzorgcentrum De Meersen VZW,BE0873983658,9900,Eeklo,BE,NL,Zorg,Oost-Vlaanderen,2017-08-22
+C10227,Résidence La Source ASBL,BE0995381732,5500,Dinant,BE,FR,Zorg,Wallonie,2014-08-13
+C10228,Hoste Cleaning VOF,BE0476804686,8700,Tielt,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2016-07-30
+C10229,Vermeulen Cleaning BV,BE0633902324,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2013-06-06
+C10230,Restaurant La Source SRL,BE0364296960,4800,Verviers,BE,FR,Horeca,Wallonie,2022-03-18
+C10231,Houtbewerking Vercruysse NV,BE0600261041,2800,Mechelen,BE,NL,Industrie,Antwerpen,2022-08-30
+C10232,Métallerie Lefebvre SRL,BE0275800791,1300,Wavre,BE,FR,Industrie,Wallonie,2023-02-10
+C10233,WZC Zonnehoek VZW,BE0211058241,9700,Oudenaarde,BE,NL,Zorg,Oost-Vlaanderen,2013-08-13
+C10234,Nettoyage Dubois SA,FR02329156143,62000,Arras,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2024-07-30
+C10235,Basisschool Hof ter Leie,BE0289612603,8900,Ieper,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2024-05-29
+C10236,Hotel Ter Linde VOF,BE0552699763,2200,Herentals,BE,NL,Horeca,Antwerpen,2021-06-15
+C10237,Hôtel Les Tilleuls SPRL,BE0751351508,4800,Verviers,BE,FR,Horeca,Wallonie,2020-12-23
+C10238,Ateliers Lefebvre SRL,BE0324468067,7000,Mons,BE,FR,Industrie,Hainaut,2020-06-20
+C10239,Dagcentrum De Zilverberk VZW,BE0707652711,8560,Wevelgem,BE,NL,Zorg,West-Vlaanderen Binnenland,2019-09-18
+C10240,Houtbewerking Dumon,BE0248296838,2800,Mechelen,BE,NL,Industrie,Antwerpen,2020-11-13
+C10241,Vanhoutte Metaal NV,BE0343032679,8500,Kortrijk,BE,NL,Industrie,West-Vlaanderen Binnenland,2019-12-04
+C10242,Peeters Food Processing NV,BE0644006358,8800,Roeselare,BE,NL,Industrie,West-Vlaanderen Binnenland,2013-01-08
+C10243,Net & Proper Vermeulen NV,BE0840034648,8870,Izegem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2022-09-13
+C10244,Hotel Ter Duinen NV,BE0986415962,8700,Tielt,BE,NL,Horeca,West-Vlaanderen Binnenland,2025-01-27
+C10245,Taverne Hof ter Leie VOF,BE0442150546,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2013-05-04
+C10246,Hotel De Kapel NV,BE0708943207,3800,Sint-Truiden,BE,NL,Horeca,Limburg,2015-03-14
+C10247,Restaurant De Kapel BV,BE0300799770,2500,Lier,BE,NL,Horeca,Antwerpen,2019-06-18
+C10248,Hennebert Industries SAS,FR55955074107,59100,Roubaix,FR,FR,Industrie,Hauts-de-France,2017-04-15
+C10249,WZC Hof ter Leie VZW,BE0438868184,1500,Halle,BE,NL,Zorg,Vlaams-Brabant & Brussel,2012-08-17
+C10250,Brasserie Goossens BV,BE0940055506,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2019-03-27
+C10251,Résidence Les Peupliers ASBL,BE0849678329,5000,Namur,BE,FR,Zorg,Wallonie,2019-11-01
+C10252,Net & Proper Lannoo NV,BE0375202631,9900,Eeklo,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2019-09-22
+C10253,Restaurant De Vlier NV,BE0615524980,3700,Tongeren,BE,NL,Horeca,Limburg,2023-11-28
+C10254,Vermeulen Cleaning BV,BE0236047223,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2017-10-18
+C10255,Ateliers Michel SA,FR49419473473,62100,Calais,FR,FR,Industrie,Hauts-de-France,2018-09-18
+C10256,Net & Proper Goossens NV,BE0363465532,1930,Zaventem,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2015-07-06
+C10257,Taverne De Meersen VOF,BE0401174875,9900,Eeklo,BE,NL,Horeca,Oost-Vlaanderen,2022-03-08
+C10258,Taverne Hof ter Leie BV,BE0455917717,8700,Tielt,BE,NL,Horeca,West-Vlaanderen Binnenland,2026-04-13
+C10259,Brasserie Fontaine SAS,FR39965878770,59300,Valenciennes,FR,FR,Horeca,Hauts-de-France,2016-10-28
+C10260,Ateliers Hennebert SA,BE0626291683,4000,Liège,BE,FR,Industrie,Wallonie,2012-12-11
+C10261,Taverne Het Anker BV,BE0743424925,9000,Gent,BE,NL,Horeca,Oost-Vlaanderen,2020-10-18
+C10262,Net & Proper Claeys BV,BE0591438296,3600,Genk,BE,NL,Schoonmaakbedrijven,Limburg,2024-11-18
+C10263,Restaurant Ter Linde,BE0940990268,9200,Dendermonde,BE,NL,Horeca,Oost-Vlaanderen,2015-08-30
+C10264,Gemeente Lichtervelde,BE0846518010,9000,Gent,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2023-04-16
+C10265,Hotel De Meersen BV,BE0742583005,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2025-02-19
+C10266,Callewaert Metaal NV,BE0484372666,1000,Brussel,BE,NL,Industrie,Vlaams-Brabant & Brussel,2024-03-23
+C10267,Woonzorgcentrum Ter Linde VZW,BE0335384626,3300,Tienen,BE,NL,Zorg,Vlaams-Brabant & Brussel,2025-06-26
+C10268,Hoste Metaal BV,BE0680495877,3500,Hasselt,BE,NL,Industrie,Limburg,2023-02-22
+C10269,Woonzorgcentrum De Zilverberk VZW,BE0521884843,1800,Vilvoorde,BE,NL,Zorg,Vlaams-Brabant & Brussel,2019-08-13
+C10270,Vercruysse Logistics,BE0789064712,8000,Brugge,BE,NL,Industrie,West-Vlaanderen Binnenland,2020-03-22
+C10271,Net & Proper Pattyn BV,BE0398604375,8790,Waregem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2014-03-27
+C10272,WZC De Vlier VZW,BE0732786005,1930,Zaventem,BE,NL,Zorg,Vlaams-Brabant & Brussel,2014-07-14
+C10273,Dagcentrum De Kapel VZW,BE0864235653,9900,Eeklo,BE,NL,Zorg,Oost-Vlaanderen,2014-04-18
+C10274,Basisschool De Vlier,BE0246165313,8370,Blankenberge,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2013-11-25
+C10275,WZC De Kapel VZW,BE0471009927,1000,Brussel,BE,NL,Zorg,Vlaams-Brabant & Brussel,2024-11-08
+C10276,Gemeente Zonnebeke,BE0553247913,9900,Eeklo,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2016-11-05
+C10277,Verbeke Metaal BV,BE0875466471,1930,Zaventem,BE,NL,Industrie,Vlaams-Brabant & Brussel,2012-09-29
+C10278,Brasserie Leroy SPRL,BE0900442783,4000,Liège,BE,FR,Horeca,Wallonie,2013-04-11
+C10279,Woonzorgcentrum De Notelaar VZW,BE0977037547,1930,Zaventem,BE,NL,Zorg,Vlaams-Brabant & Brussel,2017-12-01
+C10280,Nettoyage Hennebert SPRL,BE0601470373,7100,La Louvière,BE,FR,Schoonmaakbedrijven,Hainaut,2017-03-10
+C10281,Desmet Food Processing BV,BE0636737395,3900,Pelt,BE,NL,Industrie,Limburg,2020-10-04
+C10282,Hotel De Meersen BV,BE0810719565,9200,Dendermonde,BE,NL,Horeca,Oost-Vlaanderen,2017-09-03
+C10283,Gemeente Staden,BE0723345133,1500,Halle,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2019-02-20
+C10284,Restaurant Le Val,BE0223146124,7100,La Louvière,BE,FR,Horeca,Hainaut,2019-12-25
+C10285,Centre de soins Les Peupliers,FR36817473425,62000,Arras,FR,FR,Zorg,Hauts-de-France,2014-06-05
+C10286,Ghekiere Cleaning BV,BE0734443517,8000,Brugge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2017-02-26
+C10287,Centre de soins Le Val,FR00995935080,59140,Dunkerque,FR,FR,Zorg,Hauts-de-France,2014-03-01
+C10288,Restaurant De Notelaar BV,BE0911389828,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2019-03-02
+C10289,Propreté Le Moulin SRL,BE0736037681,1300,Wavre,BE,FR,Schoonmaakbedrijven,Wallonie,2013-06-06
+C10290,Woonzorgcentrum Ter Duinen VZW,BE0647244277,2300,Turnhout,BE,NL,Zorg,Antwerpen,2025-12-19
+C10291,Dagcentrum De Zilverberk VZW,BE0365776805,8870,Izegem,BE,NL,Zorg,West-Vlaanderen Binnenland,2021-02-18
+C10292,Woonzorgcentrum Hof ter Leie VZW,BE0280998211,1500,Halle,BE,NL,Zorg,Vlaams-Brabant & Brussel,2021-12-14
+C10293,Vandamme Logistics NV,BE0426407842,3500,Hasselt,BE,NL,Industrie,Limburg,2018-08-09
+C10294,Schoonmaakbedrijf Willaert BV,BE0975824849,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2020-02-08
+C10295,Métallerie Simon SA,FR75354276225,59200,Tourcoing,FR,FR,Industrie,Hauts-de-France,2014-09-19
+C10296,Brasserie Callewaert BV,BE0850163923,3800,Sint-Truiden,BE,NL,Horeca,Limburg,2013-07-25
+C10297,Métallerie Michel SARL,FR68778480050,59140,Dunkerque,FR,FR,Industrie,Hauts-de-France,2017-10-17
+C10298,Dagcentrum Het Anker VZW,BE0535619746,8900,Ieper,BE,NL,Zorg,West-Vlaanderen Binnenland,2015-04-16
+C10299,Nettoyage Moreau SA,BE0635766308,5500,Dinant,BE,FR,Schoonmaakbedrijven,Wallonie,2021-02-04
+C10300,Houtbewerking Verbeke NV,BE0355638127,9300,Aalst,BE,NL,Industrie,Oost-Vlaanderen,2014-08-19
+C10301,Maison de repos Les Acacias,FR84885582185,59200,Tourcoing,FR,FR,Zorg,Hauts-de-France,2020-03-12
+C10302,Nettoyage Dubois SPRL,BE0315950774,4000,Liège,BE,FR,Schoonmaakbedrijven,Wallonie,2017-05-28
+C10303,Basisschool De Zilverberk,BE0942780414,8000,Brugge,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2019-07-28
+C10304,Résidence Les Glycines ASBL,BE0616178345,4000,Liège,BE,FR,Zorg,Wallonie,2021-12-16
+C10305,Pattyn Food Processing NV,BE0455730150,3000,Leuven,BE,NL,Industrie,Vlaams-Brabant & Brussel,2012-09-11
+C10306,Ateliers Simon SRL,BE0824888493,6000,Charleroi,BE,FR,Industrie,Hainaut,2025-09-12
+C10307,Atheneum Hof ter Leie,BE0552649976,8560,Wevelgem,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2022-03-02
+C10308,WZC Ter Linde VZW,BE0460988837,8790,Waregem,BE,NL,Zorg,West-Vlaanderen Binnenland,2016-04-26
+C10309,Gilson Industries SARL,FR76963300975,59100,Roubaix,FR,FR,Industrie,Hauts-de-France,2021-04-05
+C10310,Schoonmaakbedrijf Callewaert NV,BE0822806359,8900,Ieper,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2026-05-12
+C10311,Schoonmaakbedrijf Devos NV,BE0617411235,8000,Brugge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2012-09-25
+C10312,Ateliers Gilson SAS,FR57568552808,59100,Roubaix,FR,FR,Industrie,Hauts-de-France,2021-07-20
+C10313,Hôtel Le Val SAS,FR11945593474,59200,Tourcoing,FR,FR,Horeca,Hauts-de-France,2012-11-17
+C10314,Dagcentrum De Meersen VZW,BE0943173263,2200,Herentals,BE,NL,Zorg,Antwerpen,2018-03-22
+C10315,École Les Glycines,FR38773588136,59140,Dunkerque,FR,FR,Onderwijs & overheid,Hauts-de-France,2017-01-24
+C10316,Moreau Industries SA,FR74670461240,59300,Valenciennes,FR,FR,Industrie,Hauts-de-France,2014-10-26
+C10317,Schoonmaakbedrijf Dumon,BE0888816245,9200,Dendermonde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2014-10-17
+C10318,Résidence Le Val,FR38446767200,62000,Arras,FR,FR,Zorg,Hauts-de-France,2012-12-29
+C10319,Restaurant Ter Duinen NV,BE0400537942,8870,Izegem,BE,NL,Horeca,West-Vlaanderen Binnenland,2019-05-09
+C10320,Schoonmaakbedrijf Desmet VOF,BE0882019416,3500,Hasselt,BE,NL,Schoonmaakbedrijven,Limburg,2025-03-12
+C10321,Woonzorgcentrum De Kapel VZW,BE0871453443,9700,Oudenaarde,BE,NL,Zorg,Oost-Vlaanderen,2014-06-26
+C10322,Schoonmaakbedrijf Pattyn,BE0250956519,8500,Kortrijk,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2018-04-11
+C10323,Hotel De Meersen BV,BE0351894323,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2013-02-03
+C10324,Propreté La Roseraie SARL,FR96323746840,59300,Valenciennes,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2026-02-13
+C10325,Desmet Food Processing VOF,BE0915493918,8420,De Haan,BE,NL,Industrie,West-Vlaanderen Kust,2017-07-14
+C10326,WZC Ter Linde VZW,BE0352411490,1000,Brussel,BE,NL,Zorg,Vlaams-Brabant & Brussel,2013-04-05
+C10327,Vandamme Cleaning NV,BE0856154167,2300,Turnhout,BE,NL,Schoonmaakbedrijven,Antwerpen,2021-03-14
+C10328,Taverne Het Anker BV,BE0943136839,9300,Aalst,BE,NL,Horeca,Oost-Vlaanderen,2012-10-21
+C10329,Commune de Marche,FR11761589518,59100,Roubaix,FR,FR,Onderwijs & overheid,Hauts-de-France,2026-02-03
+C10330,Restaurant Zonnehoek VOF,BE0898587709,3500,Hasselt,BE,NL,Horeca,Limburg,2023-10-10
+C10331,Taverne Ter Linde BV,BE0731426817,3600,Genk,BE,NL,Horeca,Limburg,2022-05-28
+C10332,Dagcentrum Ter Linde VZW,BE0627427771,9900,Eeklo,BE,NL,Zorg,Oost-Vlaanderen,2019-09-25
+C10333,Dagcentrum De Meersen VZW,BE0368045813,3000,Leuven,BE,NL,Zorg,Vlaams-Brabant & Brussel,2023-10-28
+C10334,Vercruysse Cleaning BV,BE0774368024,8900,Ieper,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2015-04-16
+C10335,WZC Het Anker VZW,BE0940135975,8800,Roeselare,BE,NL,Zorg,West-Vlaanderen Binnenland,2018-08-23
+C10336,Schoonmaakbedrijf Dumon NV,BE0572708388,8620,Nieuwpoort,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2016-12-12
+C10337,Résidence Les Acacias ASBL,BE0409921109,5000,Namur,BE,FR,Zorg,Wallonie,2023-10-05
+C10338,Basisschool De Notelaar,BE0672240484,1500,Halle,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2020-06-04
+C10339,Hoste Metaal NV,BE0490726265,8300,Knokke-Heist,BE,NL,Industrie,West-Vlaanderen Kust,2015-01-17
+C10340,Hôtel La Roseraie SRL,BE0377364939,4800,Verviers,BE,FR,Horeca,Wallonie,2020-01-14
+C10341,Leroy Industries SA,BE0565956396,7700,Mouscron,BE,FR,Industrie,Hainaut,2020-04-01
+C10342,Schoonmaakbedrijf Deprez BV,BE0950527843,9900,Eeklo,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2024-04-14
+C10343,WZC Ter Duinen VZW,BE0843207934,1000,Brussel,BE,NL,Zorg,Vlaams-Brabant & Brussel,2013-08-01
+C10344,WZC Zonnehoek VZW,BE0914611218,8560,Wevelgem,BE,NL,Zorg,West-Vlaanderen Binnenland,2025-07-15
+C10345,Net & Proper Vercruysse BV,BE0403405380,2300,Turnhout,BE,NL,Schoonmaakbedrijven,Antwerpen,2024-08-01
+C10346,École Beau Site,BE0505438195,7700,Mouscron,BE,FR,Onderwijs & overheid,Hainaut,2012-09-05
+C10347,Métallerie Masson SRL,BE0884237053,1300,Wavre,BE,FR,Industrie,Wallonie,2021-02-01
+C10348,Woonzorgcentrum De Kapel VZW,BE0977239762,1800,Vilvoorde,BE,NL,Zorg,Vlaams-Brabant & Brussel,2014-08-13
+C10349,Gemeente Zonnebeke,BE0488768746,1930,Zaventem,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2020-02-16
+C10350,Basisschool De Notelaar,BE0814753379,8500,Kortrijk,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2013-07-18
+C10351,Athénée Beau Site,BE0607118347,4000,Liège,BE,FR,Onderwijs & overheid,Wallonie,2014-06-28
+C10352,Restaurant De Zilverberk,BE0369595239,8500,Kortrijk,BE,NL,Horeca,West-Vlaanderen Binnenland,2016-07-26
+C10353,Woonzorgcentrum Ter Duinen VZW,BE0345721658,8000,Brugge,BE,NL,Zorg,West-Vlaanderen Binnenland,2015-10-06
+C10354,Schoonmaakbedrijf Jacobs,BE0669206859,1000,Brussel,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2012-08-30
+C10355,Ateliers Gilson SRL,BE0631545224,6000,Charleroi,BE,FR,Industrie,Hainaut,2022-07-01
+C10356,Goossens Cleaning BV,BE0635176289,1000,Brussel,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2016-03-13
+C10357,Peeters Food Processing BV,BE0382057363,8300,Knokke-Heist,BE,NL,Industrie,West-Vlaanderen Kust,2022-03-23
+C10358,Brasserie Debruyne BV,BE0933311432,9900,Eeklo,BE,NL,Horeca,Oost-Vlaanderen,2012-09-05
+C10359,Hotel Zonnehoek VOF,BE0280827866,3800,Sint-Truiden,BE,NL,Horeca,Limburg,2013-01-05
+C10360,Schoonmaakbedrijf Verhaeghe BV,BE0771494052,3300,Tienen,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2017-02-16
+C10361,Basisschool De Meersen,BE0961578024,3000,Leuven,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2017-12-09
+C10362,Net & Proper Coussens,BE0505758394,3700,Tongeren,BE,NL,Schoonmaakbedrijven,Limburg,2019-04-02
+C10363,Propreté Les Acacias,FR51802927504,59100,Roubaix,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2017-06-27
+C10364,WZC De Kapel VZW,BE0953575128,8500,Kortrijk,BE,NL,Zorg,West-Vlaanderen Binnenland,2023-03-22
+C10365,Schoonmaakbedrijf Vandenberghe VOF,BE0303808255,8620,Nieuwpoort,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2015-11-26
+C10366,Hôtel Beau Site SRL,BE0535898274,5000,Namur,BE,FR,Horeca,Wallonie,2020-04-02
+C10367,Michel Services SA,BE0210241956,5000,Namur,BE,FR,Schoonmaakbedrijven,Wallonie,2019-08-21
+C10368,Métallerie Simon,BE0492423171,4000,Liège,BE,FR,Industrie,Wallonie,2018-12-17
+C10369,Schoonmaakbedrijf Deprez BV,BE0822328089,1000,Brussel,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2021-03-29
+C10370,Hôtel Le Clos SA,BE0676643591,7000,Mons,BE,FR,Horeca,Hainaut,2025-10-18
+C10371,Schoonmaakbedrijf Willaert NV,BE0387774920,8700,Tielt,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2021-03-07
+C10372,Ateliers Masson SAS,FR01803870877,59300,Valenciennes,FR,FR,Industrie,Hauts-de-France,2022-05-08
+C10373,Nettoyage Mercier SARL,FR14486710337,59200,Tourcoing,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2020-04-15
+C10374,Houtbewerking Hoste VOF,BE0480414571,2800,Mechelen,BE,NL,Industrie,Antwerpen,2017-09-21
+C10375,Hôtel Le Clos SAS,FR89868681327,59140,Dunkerque,FR,FR,Horeca,Hauts-de-France,2016-09-18
+C10376,Hotel Zonnehoek NV,BE0444793203,8420,De Haan,BE,NL,Horeca,West-Vlaanderen Kust,2025-06-21
+C10377,Dagcentrum Ter Linde VZW,BE0300858960,1800,Vilvoorde,BE,NL,Zorg,Vlaams-Brabant & Brussel,2015-03-10
+C10378,WZC De Notelaar VZW,BE0250374816,1930,Zaventem,BE,NL,Zorg,Vlaams-Brabant & Brussel,2013-07-30
+C10379,Restaurant Ter Linde BV,BE0736350853,9100,Sint-Niklaas,BE,NL,Horeca,Oost-Vlaanderen,2014-02-11
+C10380,WZC De Vlier VZW,BE0262875542,1000,Brussel,BE,NL,Zorg,Vlaams-Brabant & Brussel,2025-09-01
+C10381,Gemeente Staden,BE0586743694,8660,De Panne,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2023-07-08
+C10382,Commune de Marche,FR18429516584,59000,Lille,FR,FR,Onderwijs & overheid,Hauts-de-France,2023-12-24
+C10383,Schoonmaakbedrijf Dumon,BE0947035348,3300,Tienen,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2019-11-08
+C10384,Net & Proper Maes,BE0246941313,8900,Ieper,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2021-06-25
+C10385,Propreté Les Acacias,FR11921156943,62000,Arras,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2020-12-23
+C10386,Restaurant La Source SARL,FR40350323043,59200,Tourcoing,FR,FR,Horeca,Hauts-de-France,2020-06-10
+C10387,Vanhoutte Cleaning NV,BE0916284170,3500,Hasselt,BE,NL,Schoonmaakbedrijven,Limburg,2016-11-16
+C10388,Dagcentrum De Zilverberk VZW,BE0913061592,8700,Tielt,BE,NL,Zorg,West-Vlaanderen Binnenland,2020-05-05
+C10389,Dagcentrum De Meersen VZW,BE0660674819,8300,Knokke-Heist,BE,NL,Zorg,West-Vlaanderen Kust,2012-01-04
+C10390,Lannoo Metaal VOF,BE0230786358,1800,Vilvoorde,BE,NL,Industrie,Vlaams-Brabant & Brussel,2012-09-01
+C10391,Taverne De Notelaar BV,BE0818377023,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2017-07-01
+C10392,Schoonmaakbedrijf Ghekiere NV,BE0248266253,8700,Tielt,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2015-12-21
+C10393,Atheneum Ter Duinen,BE0387897456,8800,Roeselare,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2015-10-03
+C10394,Houtbewerking Lannoo BV,BE0513203145,3300,Tienen,BE,NL,Industrie,Vlaams-Brabant & Brussel,2013-03-24
+C10395,Résidence Les Glycines ASBL,BE0415521967,5500,Dinant,BE,FR,Zorg,Wallonie,2019-02-16
+C10396,Taverne Het Anker NV,BE0323290112,2300,Turnhout,BE,NL,Horeca,Antwerpen,2024-03-29
+C10397,Schoonmaakbedrijf Desmet BV,BE0284253847,9100,Sint-Niklaas,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2018-10-06
+C10398,Dagcentrum De Meersen VZW,BE0890914118,9300,Aalst,BE,NL,Zorg,Oost-Vlaanderen,2012-08-11
+C10399,Propreté Les Peupliers SA,FR31838280667,62100,Calais,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2020-06-29
+C10400,Propreté Beau Site SAS,FR73344795315,59100,Roubaix,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2020-10-04
+C10401,Verhaeghe Cleaning BV,BE0871955071,8790,Waregem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2015-09-08
+C10402,WZC Ter Duinen VZW,BE0421877546,8900,Ieper,BE,NL,Zorg,West-Vlaanderen Binnenland,2012-08-01
+C10403,Lambrecht Food Processing NV,BE0771161183,2800,Mechelen,BE,NL,Industrie,Antwerpen,2014-08-26
+C10404,Atheneum De Kapel,BE0867370634,3600,Genk,BE,NL,Onderwijs & overheid,Limburg,2019-12-31
+C10405,Mertens Logistics NV,BE0960923372,8500,Kortrijk,BE,NL,Industrie,West-Vlaanderen Binnenland,2015-08-29
+C10406,Restaurant Les Glycines SARL,FR04394106212,62000,Arras,FR,FR,Horeca,Hauts-de-France,2021-04-21
+C10407,Centre de soins Le Val ASBL,BE0742351787,7100,La Louvière,BE,FR,Zorg,Hainaut,2013-04-23
+C10408,Nettoyage Lambert,BE0557167208,7000,Mons,BE,FR,Schoonmaakbedrijven,Hainaut,2012-01-12
+C10409,Commune de Ath,FR55862476355,59140,Dunkerque,FR,FR,Onderwijs & overheid,Hauts-de-France,2018-08-07
+C10410,Propreté Les Peupliers SRL,BE0447497127,5500,Dinant,BE,FR,Schoonmaakbedrijven,Wallonie,2021-07-13
+C10411,Maison de repos Le Moulin ASBL,BE0561086305,1300,Wavre,BE,FR,Zorg,Wallonie,2023-08-02
+C10412,Basisschool De Zilverberk,BE0663039243,9100,Sint-Niklaas,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2024-02-06
+C10413,Gemeente Ledegem,BE0535967758,9300,Aalst,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2020-01-27
+C10414,Centre de soins La Source ASBL,BE0637057101,5500,Dinant,BE,FR,Zorg,Wallonie,2020-08-10
+C10415,Net & Proper Hoste VOF,BE0557176710,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2023-02-10
+C10416,Dagcentrum De Notelaar VZW,BE0279189457,8370,Blankenberge,BE,NL,Zorg,West-Vlaanderen Kust,2014-05-01
+C10417,Debruyne Food Processing BV,BE0326605829,8870,Izegem,BE,NL,Industrie,West-Vlaanderen Binnenland,2022-08-21
+C10418,Hôtel Le Clos SPRL,BE0749795251,6000,Charleroi,BE,FR,Horeca,Hainaut,2012-02-20
+C10419,Métallerie Deschamps SA,FR56666258709,59200,Tourcoing,FR,FR,Industrie,Hauts-de-France,2012-10-07
+C10420,Gemeente Moorslede,BE0975224538,1930,Zaventem,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2016-01-03
+C10421,Taverne De Meersen VOF,BE0694269283,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2013-09-15
+C10422,Propreté Les Peupliers SA,BE0843178141,7100,La Louvière,BE,FR,Schoonmaakbedrijven,Hainaut,2016-10-17
+C10423,Hotel De Zilverberk BV,BE0364816703,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2021-02-01
+C10424,Net & Proper Callewaert VOF,BE0849224310,8660,De Panne,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2022-01-15
+C10425,École Beau Site,BE0401066393,7000,Mons,BE,FR,Onderwijs & overheid,Hainaut,2016-01-23
+C10426,Desmet Logistics BV,BE0234932020,3800,Sint-Truiden,BE,NL,Industrie,Limburg,2019-05-22
+C10427,Net & Proper Peeters VOF,BE0786025345,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2021-07-21
+C10428,Vermeulen Metaal,BE0215742054,1000,Brussel,BE,NL,Industrie,Vlaams-Brabant & Brussel,2024-10-22
+C10429,Net & Proper Coussens BV,BE0835062904,3000,Leuven,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2024-10-07
+C10430,Wouters Metaal NV,BE0692353237,3300,Tienen,BE,NL,Industrie,Vlaams-Brabant & Brussel,2018-11-28
+C10431,Brasserie Simon SRL,BE0367549925,5500,Dinant,BE,FR,Horeca,Wallonie,2014-07-27
+C10432,Nettoyage Renard SPRL,BE0685729127,7000,Mons,BE,FR,Schoonmaakbedrijven,Hainaut,2023-01-25
+C10433,WZC De Vlier VZW,BE0381195746,8800,Roeselare,BE,NL,Zorg,West-Vlaanderen Binnenland,2017-04-08
+C10434,Basisschool De Notelaar,BE0990720881,8620,Nieuwpoort,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2021-12-03
+C10435,Woonzorgcentrum Hof ter Leie VZW,BE0437773569,8900,Ieper,BE,NL,Zorg,West-Vlaanderen Binnenland,2012-06-01
+C10436,Net & Proper Verbeke VOF,BE0244999531,3800,Sint-Truiden,BE,NL,Schoonmaakbedrijven,Limburg,2021-09-17
+C10437,Dagcentrum Hof ter Leie VZW,BE0889199790,2400,Mol,BE,NL,Zorg,Antwerpen,2025-05-17
+C10438,Deschamps Services SAS,FR63496376759,59100,Roubaix,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2019-03-16
+C10439,Résidence Les Tilleuls ASBL,BE0815660132,7500,Tournai,BE,FR,Zorg,Hainaut,2022-03-12
+C10440,Hotel Hof ter Leie VOF,BE0747648680,1500,Halle,BE,NL,Horeca,Vlaams-Brabant & Brussel,2012-12-08
+C10441,Ghekiere Metaal BV,BE0432592977,9200,Dendermonde,BE,NL,Industrie,Oost-Vlaanderen,2022-11-02
+C10442,Woonzorgcentrum De Zilverberk VZW,BE0808748782,3900,Pelt,BE,NL,Zorg,Limburg,2014-10-14
+C10443,Schoonmaakbedrijf Jacobs VOF,BE0762783749,8500,Kortrijk,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2024-04-22
+C10444,Restaurant Het Anker,BE0810222885,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2021-05-03
+C10445,Taverne Ter Duinen BV,BE0601181551,3700,Tongeren,BE,NL,Horeca,Limburg,2024-02-24
+C10446,Taverne De Zilverberk VOF,BE0324782724,2000,Antwerpen,BE,NL,Horeca,Antwerpen,2024-04-27
+C10447,École Les Glycines,FR63878615250,62000,Arras,FR,FR,Onderwijs & overheid,Hauts-de-France,2022-12-13
+C10448,Atheneum Het Anker,BE0622212042,9700,Oudenaarde,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2012-12-14
+C10449,Net & Proper Debruyne NV,BE0957060101,3300,Tienen,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2022-08-30
+C10450,Net & Proper Hoste NV,BE0671152304,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2015-10-14
+C10451,WZC De Notelaar VZW,BE0411025325,8000,Brugge,BE,NL,Zorg,West-Vlaanderen Binnenland,2012-01-19
+C10452,Maison de repos Le Val,FR74688235423,62000,Arras,FR,FR,Zorg,Hauts-de-France,2023-03-12
+C10453,Marchal Industries SRL,BE0466387381,7000,Mons,BE,FR,Industrie,Hainaut,2022-09-05
+C10454,Propreté Le Moulin SA,BE0852517855,7100,La Louvière,BE,FR,Schoonmaakbedrijven,Hainaut,2025-05-27
+C10455,École Les Glycines,FR78378038510,59200,Tourcoing,FR,FR,Onderwijs & overheid,Hauts-de-France,2013-01-12
+C10456,Propreté Les Glycines SRL,BE0267026944,5500,Dinant,BE,FR,Schoonmaakbedrijven,Wallonie,2020-06-08
+C10457,Lannoo Cleaning NV,BE0872760567,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2013-07-29
+C10458,WZC Hof ter Leie VZW,BE0618988969,3800,Sint-Truiden,BE,NL,Zorg,Limburg,2025-09-20
+C10459,Taverne De Meersen BV,BE0883908342,8800,Roeselare,BE,NL,Horeca,West-Vlaanderen Binnenland,2020-07-19
+C10460,Athénée Les Tilleuls,FR89606601392,59200,Tourcoing,FR,FR,Onderwijs & overheid,Hauts-de-France,2014-02-18
+C10461,Atheneum De Zilverberk,BE0861522821,9000,Gent,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2016-09-29
+C10462,Restaurant Beau Site SAS,FR37392756759,62100,Calais,FR,FR,Horeca,Hauts-de-France,2019-10-10
+C10463,Lambrecht Cleaning BV,BE0969022278,8370,Blankenberge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2013-09-03
+C10464,Ateliers Fontaine SA,BE0630761108,1300,Wavre,BE,FR,Industrie,Wallonie,2016-08-01
+C10465,Net & Proper Mertens BV,BE0448201762,3800,Sint-Truiden,BE,NL,Schoonmaakbedrijven,Limburg,2013-08-21
+C10466,Vandamme Logistics VOF,BE0665538675,3300,Tienen,BE,NL,Industrie,Vlaams-Brabant & Brussel,2012-07-07
+C10467,Coussens Cleaning VOF,BE0387083844,1500,Halle,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2020-08-31
+C10468,Athénée La Roseraie,BE0943652820,5500,Dinant,BE,FR,Onderwijs & overheid,Wallonie,2018-04-13
+C10469,Gemeente Lichtervelde,BE0307520583,3500,Hasselt,BE,NL,Onderwijs & overheid,Limburg,2022-10-18
+C10470,WZC De Vlier VZW,BE0549650696,8300,Knokke-Heist,BE,NL,Zorg,West-Vlaanderen Kust,2013-01-06
+C10471,Net & Proper Vandamme NV,BE0620823952,8370,Blankenberge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2026-03-14
+C10472,Dagcentrum De Notelaar VZW,BE0441635159,9700,Oudenaarde,BE,NL,Zorg,Oost-Vlaanderen,2021-03-14
+C10473,Commune de Huy,FR83648726841,59200,Tourcoing,FR,FR,Onderwijs & overheid,Hauts-de-France,2026-06-21
+C10474,Brasserie Callewaert BV,BE0839862622,8370,Blankenberge,BE,NL,Horeca,West-Vlaanderen Kust,2015-06-06
+C10475,Hôtel Beau Site SRL,BE0599063585,4000,Liège,BE,FR,Horeca,Wallonie,2022-09-15
+C10476,Gemeente Staden,BE0861124428,3600,Genk,BE,NL,Onderwijs & overheid,Limburg,2018-09-15
+C10477,Hotel Het Anker BV,BE0786307932,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2024-08-18
+C10478,Restaurant Les Glycines SPRL,BE0989708816,7100,La Louvière,BE,FR,Horeca,Hainaut,2023-01-10
+C10479,Net & Proper Verbeke VOF,BE0376151152,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2024-08-08
+C10480,Hôtel La Source SPRL,BE0237533105,1300,Wavre,BE,FR,Horeca,Wallonie,2022-07-28
+C10481,Basisschool De Notelaar,BE0845996980,8000,Brugge,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2019-12-20
+C10482,Restaurant De Kapel VOF,BE0415000543,8560,Wevelgem,BE,NL,Horeca,West-Vlaanderen Binnenland,2016-06-18
+C10483,Brasserie Desmet VOF,BE0782838401,3300,Tienen,BE,NL,Horeca,Vlaams-Brabant & Brussel,2021-11-14
+C10484,Vanhoutte Logistics,BE0434662443,8700,Tielt,BE,NL,Industrie,West-Vlaanderen Binnenland,2019-10-19
+C10485,WZC Hof ter Leie VZW,BE0400295640,8660,De Panne,BE,NL,Zorg,West-Vlaanderen Kust,2024-03-06
+C10486,Hotel De Meersen VOF,BE0818876176,3600,Genk,BE,NL,Horeca,Limburg,2024-03-16
+C10487,WZC De Vlier VZW,BE0923785240,8620,Nieuwpoort,BE,NL,Zorg,West-Vlaanderen Kust,2020-11-07
+C10488,Gemeente Ledegem,BE0318552255,9200,Dendermonde,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2021-12-25
+C10489,Résidence Le Val,FR18817674694,59200,Tourcoing,FR,FR,Zorg,Hauts-de-France,2022-02-02
+C10490,Dagcentrum De Kapel VZW,BE0729572533,8790,Waregem,BE,NL,Zorg,West-Vlaanderen Binnenland,2021-04-18
+C10491,Bossuyt Cleaning VOF,BE0703649579,3300,Tienen,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2018-03-09
+C10492,Nettoyage Mercier SA,FR66989346668,59300,Valenciennes,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2015-09-14
+C10493,Nettoyage Piron SARL,FR30553491124,59000,Lille,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2025-09-21
+C10494,Simon Industries SPRL,BE0757502197,6000,Charleroi,BE,FR,Industrie,Hainaut,2014-11-01
+C10495,Restaurant Hof ter Leie BV,BE0262310368,1930,Zaventem,BE,NL,Horeca,Vlaams-Brabant & Brussel,2012-12-27
+C10496,Net & Proper Devos BV,BE0965020039,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2014-07-29
+C10497,Taverne De Zilverberk,BE0278475815,3900,Pelt,BE,NL,Horeca,Limburg,2016-04-03
+C10498,Woonzorgcentrum De Zilverberk VZW,BE0727952732,3600,Genk,BE,NL,Zorg,Limburg,2013-04-22
+C10499,Debruyne Cleaning BV,BE0488208027,1800,Vilvoorde,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2016-02-15
+C10500,Vandenberghe Logistics BV,BE0630846329,8500,Kortrijk,BE,NL,Industrie,West-Vlaanderen Binnenland,2021-02-23
+C10501,Gemeente Ledegem,BE0944624305,8620,Nieuwpoort,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2017-06-10
+C10502,Basisschool De Kapel,BE0713968795,2500,Lier,BE,NL,Onderwijs & overheid,Antwerpen,2019-12-27
+C10503,Restaurant De Zilverberk VOF,BE0416185626,3600,Genk,BE,NL,Horeca,Limburg,2020-03-27
+C10504,WZC De Zilverberk VZW,BE0956277567,9900,Eeklo,BE,NL,Zorg,Oost-Vlaanderen,2016-04-24
+C10505,Houtbewerking Vandamme BV,BE0409339505,2500,Lier,BE,NL,Industrie,Antwerpen,2024-05-10
+C10506,Dagcentrum Zonnehoek VZW,BE0993504979,3800,Sint-Truiden,BE,NL,Zorg,Limburg,2023-01-18
+C10507,Dagcentrum Het Anker VZW,BE0856301053,9200,Dendermonde,BE,NL,Zorg,Oost-Vlaanderen,2019-04-29
+C10508,Net & Proper Dumon,BE0619527320,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2023-01-05
+C10509,Brasserie Claeys,BE0840892208,9000,Gent,BE,NL,Horeca,Oost-Vlaanderen,2022-09-04
+C10510,Houtbewerking Hoste BV,BE0214945565,8500,Kortrijk,BE,NL,Industrie,West-Vlaanderen Binnenland,2014-12-17
+C10511,Callewaert Cleaning BV,BE0894744133,3000,Leuven,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2015-09-24
+C10512,Michel Services SRL,BE0393587002,7700,Mouscron,BE,FR,Schoonmaakbedrijven,Hainaut,2026-06-03
+C10513,Vercruysse Logistics BV,BE0891245995,9100,Sint-Niklaas,BE,NL,Industrie,Oost-Vlaanderen,2024-10-06
+C10514,WZC Hof ter Leie VZW,BE0871397421,9100,Sint-Niklaas,BE,NL,Zorg,Oost-Vlaanderen,2024-01-02
+C10515,Résidence Les Tilleuls ASBL,BE0208445773,5500,Dinant,BE,FR,Zorg,Wallonie,2025-06-07
+C10516,Dagcentrum Ter Linde VZW,BE0565672128,3900,Pelt,BE,NL,Zorg,Limburg,2019-02-28
+C10517,Verhaeghe Cleaning,BE0674358648,3500,Hasselt,BE,NL,Schoonmaakbedrijven,Limburg,2017-02-11
+C10518,Commune de Marche,BE0872213013,7000,Mons,BE,FR,Onderwijs & overheid,Hainaut,2013-05-07
+C10519,Coussens Cleaning NV,BE0466418362,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2026-01-26
+C10520,Résidence Le Moulin ASBL,BE0351097933,7000,Mons,BE,FR,Zorg,Hainaut,2015-08-02
+C10521,Centre de soins Les Acacias ASBL,BE0764187279,7500,Tournai,BE,FR,Zorg,Hainaut,2016-11-24
+C10522,WZC De Notelaar VZW,BE0806023379,2000,Antwerpen,BE,NL,Zorg,Antwerpen,2018-05-05
+C10523,Schoonmaakbedrijf Verbeke NV,BE0639305719,8700,Tielt,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2014-07-31
+C10524,Net & Proper Pattyn BV,BE0555673606,1800,Vilvoorde,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2022-12-22
+C10525,Maes Cleaning BV,BE0582829745,8800,Roeselare,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2025-08-04
+C10526,Brasserie Lannoo,BE0214631306,8500,Kortrijk,BE,NL,Horeca,West-Vlaanderen Binnenland,2018-02-16
+C10527,Atheneum De Notelaar,BE0446346686,8370,Blankenberge,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2023-01-11
+C10528,Schoonmaakbedrijf Debruyne,BE0511093394,3700,Tongeren,BE,NL,Schoonmaakbedrijven,Limburg,2026-03-10
+C10529,Métallerie Gilson SA,BE0710817087,7700,Mouscron,BE,FR,Industrie,Hainaut,2014-05-22
+C10530,Taverne Zonnehoek,BE0547971410,9300,Aalst,BE,NL,Horeca,Oost-Vlaanderen,2021-02-18
+C10531,Houtbewerking Dumon,BE0762188980,9100,Sint-Niklaas,BE,NL,Industrie,Oost-Vlaanderen,2017-08-20
+C10532,Woonzorgcentrum De Notelaar VZW,BE0205429766,8790,Waregem,BE,NL,Zorg,West-Vlaanderen Binnenland,2018-05-07
+C10533,Willaert Metaal BV,BE0643951821,9300,Aalst,BE,NL,Industrie,Oost-Vlaanderen,2014-02-12
+C10534,Restaurant Le Clos SA,BE0574126271,5000,Namur,BE,FR,Horeca,Wallonie,2022-04-01
+C10535,Taverne De Vlier BV,BE0331338340,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2022-06-12
+C10536,Net & Proper Coussens VOF,BE0916489949,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2025-02-03
+C10537,Taverne De Notelaar BV,BE0242081217,9300,Aalst,BE,NL,Horeca,Oost-Vlaanderen,2022-09-28
+C10538,Goossens Food Processing,BE0875451328,2000,Antwerpen,BE,NL,Industrie,Antwerpen,2017-08-15
+C10539,Maes Metaal BV,BE0968857972,9100,Sint-Niklaas,BE,NL,Industrie,Oost-Vlaanderen,2025-10-20
+C10540,Nettoyage Mercier SAS,FR71569102059,59100,Roubaix,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2022-04-21
+C10541,Net & Proper Verbeke NV,BE0779774684,8620,Nieuwpoort,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2013-04-12
+C10542,Nettoyage Hennebert SARL,FR13908374219,59000,Lille,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2014-01-15
+C10543,Atheneum Het Anker,BE0586650357,1930,Zaventem,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2023-10-06
+C10544,Callewaert Metaal VOF,BE0988721592,8700,Tielt,BE,NL,Industrie,West-Vlaanderen Binnenland,2012-09-25
+C10545,Ghekiere Cleaning,BE0488147451,8900,Ieper,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2017-02-04
+C10546,Propreté Le Moulin SARL,FR40953813781,62100,Calais,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2018-01-04
+C10547,École Les Acacias,BE0547146316,7100,La Louvière,BE,FR,Onderwijs & overheid,Hainaut,2018-11-12
+C10548,Hotel De Notelaar BV,BE0818300908,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2022-07-12
+C10549,Résidence Les Glycines,FR84343213475,62000,Arras,FR,FR,Zorg,Hauts-de-France,2012-10-17
+C10550,Coussens Cleaning BV,BE0845214745,9900,Eeklo,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2024-07-26
+C10551,Hotel Hof ter Leie VOF,BE0850723454,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2017-02-14
+C10552,Schoonmaakbedrijf Goossens,BE0831493007,9700,Oudenaarde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2023-01-25
+C10553,Taverne De Notelaar BV,BE0294338580,2300,Turnhout,BE,NL,Horeca,Antwerpen,2025-02-04
+C10554,Maes Cleaning NV,BE0912756439,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2021-11-17
+C10555,Brasserie Dupont SAS,FR92728859029,62100,Calais,FR,FR,Horeca,Hauts-de-France,2021-11-03
+C10556,Atheneum Ter Linde,BE0210839297,2000,Antwerpen,BE,NL,Onderwijs & overheid,Antwerpen,2013-07-16
+C10557,Schoonmaakbedrijf Vercruysse BV,BE0513151576,8000,Brugge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2012-03-08
+C10558,Woonzorgcentrum Ter Linde VZW,BE0356592289,8370,Blankenberge,BE,NL,Zorg,West-Vlaanderen Kust,2024-11-14
+C10559,WZC Ter Duinen VZW,BE0972722928,2200,Herentals,BE,NL,Zorg,Antwerpen,2023-02-15
+C10560,Hotel De Kapel,BE0676584797,8000,Brugge,BE,NL,Horeca,West-Vlaanderen Binnenland,2021-09-26
+C10561,Houtbewerking Vandenberghe BV,BE0953946302,8420,De Haan,BE,NL,Industrie,West-Vlaanderen Kust,2024-07-23
+C10562,Dumon Cleaning NV,BE0815582928,9100,Sint-Niklaas,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2017-10-25
+C10563,Goossens Cleaning VOF,BE0413895733,3500,Hasselt,BE,NL,Schoonmaakbedrijven,Limburg,2012-01-08
+C10564,Net & Proper Coussens VOF,BE0871016943,3300,Tienen,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2014-06-15
+C10565,WZC De Zilverberk VZW,BE0499764289,2500,Lier,BE,NL,Zorg,Antwerpen,2025-10-04
+C10566,Houtbewerking Verbeke,BE0798228935,9200,Dendermonde,BE,NL,Industrie,Oost-Vlaanderen,2023-02-12
+C10567,Nettoyage Dupont SAS,FR93566585563,59140,Dunkerque,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2013-05-11
+C10568,Restaurant De Vlier BV,BE0660878618,3800,Sint-Truiden,BE,NL,Horeca,Limburg,2023-07-22
+C10569,WZC Ter Duinen VZW,BE0602525495,3800,Sint-Truiden,BE,NL,Zorg,Limburg,2015-03-04
+C10570,Vermeulen Metaal,BE0255150085,8000,Brugge,BE,NL,Industrie,West-Vlaanderen Binnenland,2024-01-03
+C10571,Taverne De Vlier VOF,BE0905946742,2300,Turnhout,BE,NL,Horeca,Antwerpen,2023-11-15
+C10572,Schoonmaakbedrijf Verhaeghe BV,BE0400921784,1000,Brussel,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2015-05-01
+C10573,Centre de soins La Roseraie,FR87512859589,59300,Valenciennes,FR,FR,Zorg,Hauts-de-France,2022-02-25
+C10574,Dagcentrum De Kapel VZW,BE0608551967,8500,Kortrijk,BE,NL,Zorg,West-Vlaanderen Binnenland,2015-04-27
+C10575,Lambrecht Food Processing,BE0524233431,8000,Brugge,BE,NL,Industrie,West-Vlaanderen Binnenland,2017-06-03
+C10576,Nettoyage Mercier SARL,FR07836534271,62100,Calais,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2022-06-11
+C10577,Taverne De Zilverberk BV,BE0224673774,1930,Zaventem,BE,NL,Horeca,Vlaams-Brabant & Brussel,2019-01-22
+C10578,Taverne Ter Linde BV,BE0673610461,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2012-08-04
+C10579,WZC De Meersen VZW,BE0856104974,3900,Pelt,BE,NL,Zorg,Limburg,2017-07-11
+C10580,WZC De Kapel VZW,BE0220157732,8300,Knokke-Heist,BE,NL,Zorg,West-Vlaanderen Kust,2013-10-30
+C10581,Houtbewerking Mertens BV,BE0340567988,8000,Brugge,BE,NL,Industrie,West-Vlaanderen Binnenland,2025-02-21
+C10582,Nettoyage Deschamps SAS,FR22460566932,59200,Tourcoing,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2017-06-06
+C10583,WZC Hof ter Leie VZW,BE0733470448,8300,Knokke-Heist,BE,NL,Zorg,West-Vlaanderen Kust,2022-09-22
+C10584,Propreté Les Peupliers SPRL,BE0875452912,4000,Liège,BE,FR,Schoonmaakbedrijven,Wallonie,2022-06-10
+C10585,Schoonmaakbedrijf Lannoo NV,BE0910951249,8560,Wevelgem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2022-09-24
+C10586,WZC De Meersen VZW,BE0875197247,8620,Nieuwpoort,BE,NL,Zorg,West-Vlaanderen Kust,2015-09-08
+C10587,Brasserie Mertens VOF,BE0745672256,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2015-04-24
+C10588,Dagcentrum De Notelaar VZW,BE0625400867,8900,Ieper,BE,NL,Zorg,West-Vlaanderen Binnenland,2020-09-15
+C10589,Masson Industries SARL,FR20533169265,59200,Tourcoing,FR,FR,Industrie,Hauts-de-France,2024-01-18
+C10590,Maes Cleaning NV,BE0211376559,8790,Waregem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2013-11-25
+C10591,Nettoyage Deschamps SAS,FR47715905634,59000,Lille,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2024-05-17
+C10592,Centre de soins Les Tilleuls ASBL,BE0205591302,5000,Namur,BE,FR,Zorg,Wallonie,2016-06-17
+C10593,Lannoo Logistics NV,BE0607429341,8370,Blankenberge,BE,NL,Industrie,West-Vlaanderen Kust,2012-05-08
+C10594,Lambrecht Food Processing BV,BE0611703477,1500,Halle,BE,NL,Industrie,Vlaams-Brabant & Brussel,2025-07-12
+C10595,WZC De Meersen VZW,BE0874556057,8660,De Panne,BE,NL,Zorg,West-Vlaanderen Kust,2013-09-25
+C10596,Hoste Cleaning,BE0387004759,8370,Blankenberge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2022-02-10
+C10597,Brasserie Marchal SRL,BE0984708663,4800,Verviers,BE,FR,Horeca,Wallonie,2012-03-14
+C10598,Net & Proper Vandenberghe,BE0366337722,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2012-12-12
+C10599,Brasserie Deprez BV,BE0800050060,9300,Aalst,BE,NL,Horeca,Oost-Vlaanderen,2013-10-27
+C10600,Verhaeghe Metaal BV,BE0662496142,8700,Tielt,BE,NL,Industrie,West-Vlaanderen Binnenland,2026-05-18
+C10601,Nettoyage Lefebvre SAS,FR40692791243,59300,Valenciennes,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2021-07-12
+C10602,Schoonmaakbedrijf Goossens BV,BE0975913535,1500,Halle,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2019-07-15
+C10603,Brasserie Marchal SA,FR04793388961,59300,Valenciennes,FR,FR,Horeca,Hauts-de-France,2012-08-09
+C10604,Atheneum De Vlier,BE0597826341,9700,Oudenaarde,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2020-05-24
+C10605,Maison de repos Le Clos ASBL,BE0722080371,6000,Charleroi,BE,FR,Zorg,Hainaut,2022-02-05
+C10606,Basisschool Ter Duinen,BE0562194083,9300,Aalst,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2025-10-09
+C10607,Maison de repos Le Clos,FR45982821083,59100,Roubaix,FR,FR,Zorg,Hauts-de-France,2021-12-06
+C10608,Dagcentrum De Notelaar VZW,BE0480085563,3800,Sint-Truiden,BE,NL,Zorg,Limburg,2017-12-27
+C10609,Gemeente Ledegem,BE0469168016,8400,Oostende,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2017-03-11
+C10610,Gemeente Lichtervelde,BE0316996097,2500,Lier,BE,NL,Onderwijs & overheid,Antwerpen,2017-01-28
+C10611,Atheneum Hof ter Leie,BE0676238864,8400,Oostende,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2023-07-08
+C10612,Hotel Het Anker BV,BE0476198041,2000,Antwerpen,BE,NL,Horeca,Antwerpen,2014-05-18
+C10613,Dagcentrum Zonnehoek VZW,BE0228894660,2000,Antwerpen,BE,NL,Zorg,Antwerpen,2018-10-29
+C10614,Woonzorgcentrum De Meersen VZW,BE0828469179,8370,Blankenberge,BE,NL,Zorg,West-Vlaanderen Kust,2025-10-26
+C10615,Net & Proper Verbeke VOF,BE0623903505,9700,Oudenaarde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2024-10-26
+C10616,Maison de repos Les Glycines ASBL,BE0624505103,5500,Dinant,BE,FR,Zorg,Wallonie,2022-02-16
+C10617,Taverne De Meersen BV,BE0747489225,8870,Izegem,BE,NL,Horeca,West-Vlaanderen Binnenland,2021-05-04
+C10618,Houtbewerking Verbeke BV,BE0690796287,8560,Wevelgem,BE,NL,Industrie,West-Vlaanderen Binnenland,2013-12-31
+C10619,Gemeente Ledegem,BE0926162928,2500,Lier,BE,NL,Onderwijs & overheid,Antwerpen,2025-06-26
+C10620,Hotel Zonnehoek BV,BE0206013449,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2024-04-19
+C10621,Vermeulen Cleaning VOF,BE0644675658,9100,Sint-Niklaas,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2026-04-07
+C10622,Brasserie Desmet BV,BE0239444203,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2026-03-22
+C10623,Houtbewerking Willaert NV,BE0973819127,3000,Leuven,BE,NL,Industrie,Vlaams-Brabant & Brussel,2022-06-24
+C10624,Claeys Cleaning NV,BE0818012975,9300,Aalst,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2020-01-31
+C10625,Schoonmaakbedrijf Pattyn BV,BE0397545392,8620,Nieuwpoort,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2020-10-30
+C10626,Dagcentrum Hof ter Leie VZW,BE0698727424,1930,Zaventem,BE,NL,Zorg,Vlaams-Brabant & Brussel,2025-05-29
+C10627,Athénée La Roseraie,BE0419219647,5000,Namur,BE,FR,Onderwijs & overheid,Wallonie,2023-06-27
+C10628,Declercq Cleaning VOF,BE0558794234,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2019-08-08
+C10629,Athénée Les Tilleuls,BE0627370462,7500,Tournai,BE,FR,Onderwijs & overheid,Hainaut,2013-10-14
+C10630,Taverne De Zilverberk,BE0975055975,8500,Kortrijk,BE,NL,Horeca,West-Vlaanderen Binnenland,2020-10-09
+C10631,École Les Tilleuls,BE0949664345,5000,Namur,BE,FR,Onderwijs & overheid,Wallonie,2025-08-19
+C10632,Propreté Beau Site SAS,FR19824427705,62100,Calais,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2024-05-19
+C10633,Woonzorgcentrum De Notelaar VZW,BE0902672595,9300,Aalst,BE,NL,Zorg,Oost-Vlaanderen,2019-09-15
+C10634,Dagcentrum De Notelaar VZW,BE0217463805,2300,Turnhout,BE,NL,Zorg,Antwerpen,2014-05-12
+C10635,Hotel Hof ter Leie VOF,BE0947189756,3900,Pelt,BE,NL,Horeca,Limburg,2021-12-15
+C10636,Net & Proper Bossuyt NV,BE0809923868,8800,Roeselare,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2016-09-24
+C10637,Wouters Metaal BV,BE0430038414,8500,Kortrijk,BE,NL,Industrie,West-Vlaanderen Binnenland,2017-02-17
+C10638,Schoonmaakbedrijf Willaert BV,BE0873020190,8560,Wevelgem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2025-11-19
+C10639,Schoonmaakbedrijf Debruyne,BE0574776963,8370,Blankenberge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2019-12-02
+C10640,Brasserie Willaert,BE0564748054,8370,Blankenberge,BE,NL,Horeca,West-Vlaanderen Kust,2023-03-23
+C10641,Atheneum Zonnehoek,BE0625405916,8870,Izegem,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2017-04-06
+C10642,Coussens Cleaning,BE0835030636,8870,Izegem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2017-01-17
+C10643,Hotel De Meersen,BE0911822467,1930,Zaventem,BE,NL,Horeca,Vlaams-Brabant & Brussel,2023-12-20
+C10644,Nettoyage Leroy SA,FR18524972829,59140,Dunkerque,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2023-09-28
+C10645,Net & Proper Deprez BV,BE0758757655,2200,Herentals,BE,NL,Schoonmaakbedrijven,Antwerpen,2023-03-19
+C10646,Hotel Het Anker BV,BE0408864896,8660,De Panne,BE,NL,Horeca,West-Vlaanderen Kust,2017-11-08
+C10647,Masson Services SRL,BE0237343261,4000,Liège,BE,FR,Schoonmaakbedrijven,Wallonie,2025-04-08
+C10648,Woonzorgcentrum De Meersen VZW,BE0225470164,8800,Roeselare,BE,NL,Zorg,West-Vlaanderen Binnenland,2021-04-14
+C10649,Gemeente Staden,BE0761876897,8870,Izegem,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2018-11-07
+C10650,Schoonmaakbedrijf Vermeulen VOF,BE0221346080,8790,Waregem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2026-03-24
+C10651,Hotel De Zilverberk BV,BE0217941083,8900,Ieper,BE,NL,Horeca,West-Vlaanderen Binnenland,2012-01-19
+C10652,Ateliers Collard SA,FR41810366366,62100,Calais,FR,FR,Industrie,Hauts-de-France,2023-06-12
+C10653,Hôtel La Roseraie SA,FR60728664792,59000,Lille,FR,FR,Horeca,Hauts-de-France,2018-03-01
+C10654,Hotel De Zilverberk NV,BE0331648641,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2021-05-12
+C10655,Basisschool De Notelaar,BE0677702673,8400,Oostende,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2022-08-22
+C10656,Maison de repos Beau Site,FR37395769482,59200,Tourcoing,FR,FR,Zorg,Hauts-de-France,2018-09-25
+C10657,Coussens Logistics,BE0799257135,2200,Herentals,BE,NL,Industrie,Antwerpen,2022-08-13
+C10658,Basisschool De Notelaar,BE0262810513,2500,Lier,BE,NL,Onderwijs & overheid,Antwerpen,2025-05-19
+C10659,Brasserie Vercruysse BV,BE0409404732,8700,Tielt,BE,NL,Horeca,West-Vlaanderen Binnenland,2022-10-19
+C10660,Taverne Ter Linde,BE0407717823,8800,Roeselare,BE,NL,Horeca,West-Vlaanderen Binnenland,2019-07-12
+C10661,Vandamme Cleaning NV,BE0881337347,9300,Aalst,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2015-11-04
+C10662,Brasserie Lannoo BV,BE0340943122,8000,Brugge,BE,NL,Horeca,West-Vlaanderen Binnenland,2022-10-16
+C10663,Woonzorgcentrum De Zilverberk VZW,BE0853646124,8500,Kortrijk,BE,NL,Zorg,West-Vlaanderen Binnenland,2023-09-26
+C10664,Hotel Het Anker BV,BE0808004060,3300,Tienen,BE,NL,Horeca,Vlaams-Brabant & Brussel,2021-06-06
+C10665,Hôtel Les Tilleuls SARL,FR96333182321,59000,Lille,FR,FR,Horeca,Hauts-de-France,2016-08-02
+C10666,Basisschool Hof ter Leie,BE0464425310,3900,Pelt,BE,NL,Onderwijs & overheid,Limburg,2026-04-28
+C10667,Propreté Le Clos,FR11871013860,59100,Roubaix,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2020-07-22
+C10668,Goossens Metaal NV,BE0926410178,8900,Ieper,BE,NL,Industrie,West-Vlaanderen Binnenland,2020-09-14
+C10669,Nettoyage Leroy SAS,FR05674672860,59100,Roubaix,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2022-02-03
+C10670,Schoonmaakbedrijf Vanneste NV,BE0288281822,9900,Eeklo,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2025-05-11
+C10671,Schoonmaakbedrijf Goossens NV,BE0326232180,8900,Ieper,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2024-08-06
+C10672,Propreté La Roseraie,FR18646824811,59200,Tourcoing,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2019-07-30
+C10673,Houtbewerking Jacobs BV,BE0485264274,8560,Wevelgem,BE,NL,Industrie,West-Vlaanderen Binnenland,2018-09-12
+C10674,WZC Ter Duinen VZW,BE0664438221,3000,Leuven,BE,NL,Zorg,Vlaams-Brabant & Brussel,2012-08-03
+C10675,Wouters Food Processing,BE0362194634,1500,Halle,BE,NL,Industrie,Vlaams-Brabant & Brussel,2022-01-15
+C10676,Woonzorgcentrum Ter Linde VZW,BE0723821720,1500,Halle,BE,NL,Zorg,Vlaams-Brabant & Brussel,2014-08-23
+C10677,Renard Industries SAS,FR39948367748,59140,Dunkerque,FR,FR,Industrie,Hauts-de-France,2019-04-11
+C10678,Taverne De Meersen BV,BE0592190443,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2023-10-22
+C10679,Hotel De Vlier VOF,BE0703908610,8900,Ieper,BE,NL,Horeca,West-Vlaanderen Binnenland,2024-03-01
+C10680,Basisschool Het Anker,BE0401603655,8700,Tielt,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2022-08-09
+C10681,Commune de Spa,BE0729249463,5500,Dinant,BE,FR,Onderwijs & overheid,Wallonie,2026-05-03
+C10682,Atheneum De Notelaar,BE0351669441,1000,Brussel,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2020-05-28
+C10683,Hotel Ter Duinen NV,BE0456377377,3000,Leuven,BE,NL,Horeca,Vlaams-Brabant & Brussel,2015-04-10
+C10684,Taverne Hof ter Leie BV,BE0201832749,8870,Izegem,BE,NL,Horeca,West-Vlaanderen Binnenland,2013-01-27
+C10685,Brasserie Deprez BV,BE0681494185,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2024-02-28
+C10686,Hoste Cleaning BV,BE0273664219,8900,Ieper,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2013-08-11
+C10687,Net & Proper Vermeulen VOF,BE0972293752,3300,Tienen,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2014-04-28
+C10688,Verbeke Cleaning BV,BE0767814386,9300,Aalst,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2025-09-22
+C10689,Dubois Industries SRL,BE0902479288,1300,Wavre,BE,FR,Industrie,Wallonie,2014-12-24
+C10690,Restaurant Beau Site SRL,BE0643716447,4800,Verviers,BE,FR,Horeca,Wallonie,2014-04-03
+C10691,Hotel Zonnehoek VOF,BE0467832780,8560,Wevelgem,BE,NL,Horeca,West-Vlaanderen Binnenland,2019-11-25
+C10692,Net & Proper Verhaeghe BV,BE0299730889,8660,De Panne,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2016-05-09
+C10693,Restaurant Het Anker,BE0228364031,8800,Roeselare,BE,NL,Horeca,West-Vlaanderen Binnenland,2014-02-22
+C10694,Basisschool Zonnehoek,BE0755905756,3300,Tienen,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2025-06-02
+C10695,Commune de Marche,BE0928990081,1300,Wavre,BE,FR,Onderwijs & overheid,Wallonie,2025-11-21
+C10696,Taverne De Meersen VOF,BE0876101228,1800,Vilvoorde,BE,NL,Horeca,Vlaams-Brabant & Brussel,2019-01-25
+C10697,Basisschool Ter Duinen,BE0587093983,3300,Tienen,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2012-09-02
+C10698,Woonzorgcentrum De Vlier VZW,BE0774337934,2500,Lier,BE,NL,Zorg,Antwerpen,2021-03-25
+C10699,Hôtel Les Glycines SPRL,BE0811325024,7000,Mons,BE,FR,Horeca,Hainaut,2021-12-06
+C10700,Brasserie Willaert,BE0344143825,2000,Antwerpen,BE,NL,Horeca,Antwerpen,2015-01-24
+C10701,Schoonmaakbedrijf Callewaert BV,BE0488611269,2200,Herentals,BE,NL,Schoonmaakbedrijven,Antwerpen,2017-10-31
+C10702,Taverne Ter Linde BV,BE0870633297,9900,Eeklo,BE,NL,Horeca,Oost-Vlaanderen,2018-10-07
+C10703,Dagcentrum De Notelaar VZW,BE0607591271,3300,Tienen,BE,NL,Zorg,Vlaams-Brabant & Brussel,2021-08-26
+C10704,Dagcentrum De Kapel VZW,BE0928216853,9100,Sint-Niklaas,BE,NL,Zorg,Oost-Vlaanderen,2025-05-01
+C10705,Declercq Metaal BV,BE0716678560,8900,Ieper,BE,NL,Industrie,West-Vlaanderen Binnenland,2026-02-20
+C10706,Dumon Logistics BV,BE0744340584,8800,Roeselare,BE,NL,Industrie,West-Vlaanderen Binnenland,2012-07-21
+C10707,Résidence Beau Site ASBL,BE0795934983,6000,Charleroi,BE,FR,Zorg,Hainaut,2017-11-30
+C10708,Vandenberghe Food Processing BV,BE0833409152,2200,Herentals,BE,NL,Industrie,Antwerpen,2022-04-27
+C10709,Bossuyt Metaal BV,BE0882814915,8700,Tielt,BE,NL,Industrie,West-Vlaanderen Binnenland,2016-01-03
+C10710,Hotel Ter Linde BV,BE0583591788,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2024-04-05
+C10711,Vanhoutte Cleaning VOF,BE0314071053,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2026-05-30
+C10712,École Le Val,BE0952962543,7500,Tournai,BE,FR,Onderwijs & overheid,Hainaut,2021-03-23
+C10713,Propreté Le Moulin,FR78913521287,59140,Dunkerque,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2012-06-01
+C10714,Callewaert Cleaning,BE0631327270,1930,Zaventem,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2014-08-12
+C10715,Dagcentrum De Meersen VZW,BE0797274474,8560,Wevelgem,BE,NL,Zorg,West-Vlaanderen Binnenland,2015-02-18
+C10716,Dagcentrum De Notelaar VZW,BE0666451069,8870,Izegem,BE,NL,Zorg,West-Vlaanderen Binnenland,2017-11-02
+C10717,Pattyn Metaal,BE0329476237,2800,Mechelen,BE,NL,Industrie,Antwerpen,2014-09-30
+C10718,Atheneum De Kapel,BE0863312173,8400,Oostende,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2023-05-08
+C10719,Atheneum De Meersen,BE0890089717,9000,Gent,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2016-10-29
+C10720,Schoonmaakbedrijf Goossens BV,BE0873487572,8660,De Panne,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2013-09-12
+C10721,Taverne De Zilverberk BV,BE0406653989,1800,Vilvoorde,BE,NL,Horeca,Vlaams-Brabant & Brussel,2018-12-01
+C10722,Taverne Ter Duinen BV,BE0880974982,2800,Mechelen,BE,NL,Horeca,Antwerpen,2018-01-25
+C10723,Schoonmaakbedrijf Declercq BV,BE0491293815,2300,Turnhout,BE,NL,Schoonmaakbedrijven,Antwerpen,2018-09-24
+C10724,Peeters Food Processing BV,BE0622896782,3500,Hasselt,BE,NL,Industrie,Limburg,2019-06-15
+C10725,Brasserie Claeys BV,BE0212000824,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2014-09-22
+C10726,Simon Industries SRL,BE0703430637,7700,Mouscron,BE,FR,Industrie,Hainaut,2018-08-14
+C10727,Vandamme Metaal VOF,BE0741942706,2300,Turnhout,BE,NL,Industrie,Antwerpen,2014-09-17
+C10728,Deprez Metaal VOF,BE0340761097,8500,Kortrijk,BE,NL,Industrie,West-Vlaanderen Binnenland,2021-12-22
+C10729,Restaurant De Notelaar BV,BE0263322930,8870,Izegem,BE,NL,Horeca,West-Vlaanderen Binnenland,2018-09-25
+C10730,Restaurant Het Anker NV,BE0361410716,3700,Tongeren,BE,NL,Horeca,Limburg,2024-08-21
+C10731,Maison de repos Les Tilleuls,FR84498075721,59000,Lille,FR,FR,Zorg,Hauts-de-France,2017-12-06
+C10732,Taverne De Vlier,BE0763182439,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2018-03-22
+C10733,Brasserie Peeters VOF,BE0322595769,3500,Hasselt,BE,NL,Horeca,Limburg,2017-07-28
+C10734,Basisschool Zonnehoek,BE0474499848,3600,Genk,BE,NL,Onderwijs & overheid,Limburg,2026-06-26
+C10735,Taverne Ter Linde NV,BE0522571761,8420,De Haan,BE,NL,Horeca,West-Vlaanderen Kust,2015-03-12
+C10736,WZC De Notelaar VZW,BE0415635102,8560,Wevelgem,BE,NL,Zorg,West-Vlaanderen Binnenland,2015-01-26
+C10737,Schoonmaakbedrijf Bossuyt BV,BE0628678873,9900,Eeklo,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2020-10-26
+C10738,Schoonmaakbedrijf Deprez VOF,BE0656046236,3700,Tongeren,BE,NL,Schoonmaakbedrijven,Limburg,2018-07-23
+C10739,Taverne De Zilverberk BV,BE0944811672,3000,Leuven,BE,NL,Horeca,Vlaams-Brabant & Brussel,2025-08-05
+C10740,Lannoo Cleaning BV,BE0652205729,2300,Turnhout,BE,NL,Schoonmaakbedrijven,Antwerpen,2021-06-05
+C10741,Restaurant De Vlier,BE0347800725,8000,Brugge,BE,NL,Horeca,West-Vlaanderen Binnenland,2018-09-03
+C10742,Hôtel Les Acacias SA,FR30732806391,59200,Tourcoing,FR,FR,Horeca,Hauts-de-France,2017-07-26
+C10743,Taverne Hof ter Leie BV,BE0960944554,2500,Lier,BE,NL,Horeca,Antwerpen,2022-08-12
+C10744,Hotel De Notelaar BV,BE0908374811,2500,Lier,BE,NL,Horeca,Antwerpen,2019-08-30
+C10745,Houtbewerking Devos BV,BE0562082039,8790,Waregem,BE,NL,Industrie,West-Vlaanderen Binnenland,2025-08-01
+C10746,Schoonmaakbedrijf Maes NV,BE0667808673,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2021-05-24
+C10747,Renard Services SA,FR64399511945,59200,Tourcoing,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2015-07-30
+C10748,Basisschool Hof ter Leie,BE0294674320,8700,Tielt,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2014-04-28
+C10749,Net & Proper Vercruysse VOF,BE0696422089,3800,Sint-Truiden,BE,NL,Schoonmaakbedrijven,Limburg,2017-09-15
+C10750,Dagcentrum Ter Duinen VZW,BE0772211357,2400,Mol,BE,NL,Zorg,Antwerpen,2017-10-19
+C10751,Maison de repos Beau Site,FR61918245828,62000,Arras,FR,FR,Zorg,Hauts-de-France,2014-03-04
+C10752,Declercq Cleaning VOF,BE0232034886,1000,Brussel,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2016-07-05
+C10753,Goossens Metaal,BE0395534425,1000,Brussel,BE,NL,Industrie,Vlaams-Brabant & Brussel,2012-08-25
+C10754,Taverne De Meersen NV,BE0409548747,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2021-03-26
+C10755,Brasserie Declercq BV,BE0755568038,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2023-03-09
+C10756,WZC Het Anker VZW,BE0776181924,3700,Tongeren,BE,NL,Zorg,Limburg,2019-10-05
+C10757,Schoonmaakbedrijf Vercruysse NV,BE0537023573,3700,Tongeren,BE,NL,Schoonmaakbedrijven,Limburg,2023-08-25
+C10758,Dumon Cleaning NV,BE0251201195,3300,Tienen,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2017-12-11
+C10759,Restaurant De Kapel VOF,BE0657886068,9900,Eeklo,BE,NL,Horeca,Oost-Vlaanderen,2018-05-18
+C10760,Debruyne Logistics NV,BE0427628161,8620,Nieuwpoort,BE,NL,Industrie,West-Vlaanderen Kust,2021-01-17
+C10761,Schoonmaakbedrijf Bossuyt,BE0746145378,8560,Wevelgem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2014-11-12
+C10762,Schoonmaakbedrijf Vandenberghe VOF,BE0930540301,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2020-09-10
+C10763,Résidence Les Acacias,FR63421030942,59200,Tourcoing,FR,FR,Zorg,Hauts-de-France,2019-04-22
+C10764,Brasserie Jacobs BV,BE0807895974,2500,Lier,BE,NL,Horeca,Antwerpen,2012-01-06
+C10765,Dupont Services SRL,BE0701798364,7500,Tournai,BE,FR,Schoonmaakbedrijven,Hainaut,2023-03-26
+C10766,Brasserie Wouters NV,BE0884609118,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2024-11-08
+C10767,Restaurant Le Moulin,BE0402880788,7700,Mouscron,BE,FR,Horeca,Hainaut,2026-04-18
+C10768,Hôtel Le Moulin SRL,BE0381645609,5000,Namur,BE,FR,Horeca,Wallonie,2017-07-25
+C10769,WZC De Meersen VZW,BE0858950638,8400,Oostende,BE,NL,Zorg,West-Vlaanderen Kust,2023-05-30
+C10770,Houtbewerking Lannoo VOF,BE0780472094,3700,Tongeren,BE,NL,Industrie,Limburg,2019-08-11
+C10771,Debruyne Metaal BV,BE0779107562,8800,Roeselare,BE,NL,Industrie,West-Vlaanderen Binnenland,2023-06-18
+C10772,Gemeente Staden,BE0456062920,8700,Tielt,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2012-03-21
+C10773,Houtbewerking Verhaeghe BV,BE0480741797,3700,Tongeren,BE,NL,Industrie,Limburg,2026-03-12
+C10774,Restaurant Ter Duinen,BE0459589958,3900,Pelt,BE,NL,Horeca,Limburg,2014-08-29
+C10775,Taverne De Meersen VOF,BE0553659964,8660,De Panne,BE,NL,Horeca,West-Vlaanderen Kust,2021-12-22
+C10776,Brasserie Mertens,BE0420396812,8000,Brugge,BE,NL,Horeca,West-Vlaanderen Binnenland,2024-06-07
+C10777,Propreté Le Clos SA,BE0759924625,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2014-05-16
+C10778,Woonzorgcentrum De Zilverberk VZW,BE0537097512,1500,Halle,BE,NL,Zorg,Vlaams-Brabant & Brussel,2015-10-26
+C10779,Net & Proper Vermeulen BV,BE0395424359,2300,Turnhout,BE,NL,Schoonmaakbedrijven,Antwerpen,2014-05-16
+C10780,Taverne De Vlier VOF,BE0919002942,8400,Oostende,BE,NL,Horeca,West-Vlaanderen Kust,2020-06-28
+C10781,Résidence La Roseraie,FR37323322704,59140,Dunkerque,FR,FR,Zorg,Hauts-de-France,2015-07-09
+C10782,Schoonmaakbedrijf Lambrecht BV,BE0605212001,9700,Oudenaarde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2024-10-19
+C10783,Houtbewerking Vandenberghe BV,BE0213043573,8300,Knokke-Heist,BE,NL,Industrie,West-Vlaanderen Kust,2025-10-28
+C10784,Taverne De Zilverberk,BE0673607689,8900,Ieper,BE,NL,Horeca,West-Vlaanderen Binnenland,2017-10-18
+C10785,Bossuyt Cleaning,BE0650308982,2200,Herentals,BE,NL,Schoonmaakbedrijven,Antwerpen,2012-09-22
+C10786,Schoonmaakbedrijf Dumon NV,BE0346633260,3800,Sint-Truiden,BE,NL,Schoonmaakbedrijven,Limburg,2018-01-29
+C10787,Net & Proper Vandamme NV,BE0845370143,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2019-08-26
+C10788,Athénée Le Clos,BE0833541388,1300,Wavre,BE,FR,Onderwijs & overheid,Wallonie,2013-05-15
+C10789,Woonzorgcentrum Zonnehoek VZW,BE0487462216,8300,Knokke-Heist,BE,NL,Zorg,West-Vlaanderen Kust,2015-08-30
+C10790,Restaurant De Notelaar,BE0613549645,9000,Gent,BE,NL,Horeca,Oost-Vlaanderen,2023-06-11
+C10791,Hotel Hof ter Leie BV,BE0337142702,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2023-01-09
+C10792,Nettoyage Lambert SPRL,BE0451541829,7100,La Louvière,BE,FR,Schoonmaakbedrijven,Hainaut,2016-05-12
+C10793,Woonzorgcentrum De Zilverberk VZW,BE0570498075,8300,Knokke-Heist,BE,NL,Zorg,West-Vlaanderen Kust,2018-06-08
+C10794,Brasserie Renard,FR22614213380,62100,Calais,FR,FR,Horeca,Hauts-de-France,2014-02-09
+C10795,Houtbewerking Mertens VOF,BE0522067856,1500,Halle,BE,NL,Industrie,Vlaams-Brabant & Brussel,2025-09-04
+C10796,Nettoyage Collard SARL,FR75695304654,62000,Arras,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2015-04-26
+C10797,Brasserie Maes BV,BE0906765304,1930,Zaventem,BE,NL,Horeca,Vlaams-Brabant & Brussel,2017-03-26
+C10798,Nettoyage Michel SAS,FR28544638774,59200,Tourcoing,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2015-02-08
+C10799,Hôtel Le Moulin SA,BE0861355644,5500,Dinant,BE,FR,Horeca,Wallonie,2016-11-19
+C10800,Taverne Hof ter Leie,BE0955527204,8420,De Haan,BE,NL,Horeca,West-Vlaanderen Kust,2021-12-19
+C10801,WZC De Notelaar VZW,BE0707313904,8370,Blankenberge,BE,NL,Zorg,West-Vlaanderen Kust,2018-09-19
+C10802,Net & Proper Vermeulen BV,BE0920994610,9700,Oudenaarde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2014-01-19
+C10803,Maes Food Processing BV,BE0227398979,2300,Turnhout,BE,NL,Industrie,Antwerpen,2016-08-20
+C10804,Basisschool De Meersen,BE0475848049,9900,Eeklo,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2021-06-28
+C10805,Basisschool De Zilverberk,BE0868225719,9700,Oudenaarde,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2023-03-04
+C10806,Centre de soins La Roseraie ASBL,BE0693245340,7700,Mouscron,BE,FR,Zorg,Hainaut,2025-08-29
+C10807,WZC Ter Duinen VZW,BE0235876878,8300,Knokke-Heist,BE,NL,Zorg,West-Vlaanderen Kust,2021-08-14
+C10808,Hotel De Vlier BV,BE0655164526,2000,Antwerpen,BE,NL,Horeca,Antwerpen,2013-09-07
+C10809,Schoonmaakbedrijf Vandamme BV,BE0408433049,8000,Brugge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2024-03-31
+C10810,Commune de Huy,BE0485937534,5000,Namur,BE,FR,Onderwijs & overheid,Wallonie,2022-02-04
+C10811,Houtbewerking Hoste VOF,BE0476840815,2500,Lier,BE,NL,Industrie,Antwerpen,2016-08-21
+C10812,Restaurant Hof ter Leie VOF,BE0711080274,9200,Dendermonde,BE,NL,Horeca,Oost-Vlaanderen,2014-08-06
+C10813,Dagcentrum Ter Linde VZW,BE0346144696,2000,Antwerpen,BE,NL,Zorg,Antwerpen,2020-03-05
+C10814,Commune de Huy,FR76515642677,59140,Dunkerque,FR,FR,Onderwijs & overheid,Hauts-de-France,2017-03-14
+C10815,Gemeente Moorslede,BE0488346302,8900,Ieper,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2016-08-03
+C10816,Hotel De Vlier VOF,BE0344226571,2300,Turnhout,BE,NL,Horeca,Antwerpen,2014-11-15
+C10817,Taverne De Notelaar BV,BE0262314823,2400,Mol,BE,NL,Horeca,Antwerpen,2018-07-04
+C10818,Nettoyage Piron SRL,BE0738924917,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2025-08-31
+C10819,Dagcentrum De Vlier VZW,BE0933977168,9900,Eeklo,BE,NL,Zorg,Oost-Vlaanderen,2019-11-12
+C10820,Schoonmaakbedrijf Maes BV,BE0908827939,8560,Wevelgem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2014-04-09
+C10821,Devos Cleaning BV,BE0365920325,8000,Brugge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2016-07-19
+C10822,Atheneum De Notelaar,BE0830931890,2500,Lier,BE,NL,Onderwijs & overheid,Antwerpen,2014-12-09
+C10823,Ateliers Delhaye SA,FR12827501568,59100,Roubaix,FR,FR,Industrie,Hauts-de-France,2024-05-17
+C10824,Hôtel La Roseraie SAS,FR08723010192,59200,Tourcoing,FR,FR,Horeca,Hauts-de-France,2013-11-13
+C10825,Dagcentrum Zonnehoek VZW,BE0516006049,1800,Vilvoorde,BE,NL,Zorg,Vlaams-Brabant & Brussel,2023-10-20
+C10826,Schoonmaakbedrijf Coussens VOF,BE0251704409,8000,Brugge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2016-09-24
+C10827,Gemeente Moorslede,BE0635812729,8000,Brugge,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2020-11-08
+C10828,Basisschool Ter Linde,BE0501909078,3700,Tongeren,BE,NL,Onderwijs & overheid,Limburg,2015-05-07
+C10829,Net & Proper Verbeke,BE0685609361,3300,Tienen,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2012-01-20
+C10830,Nettoyage Dupont SA,BE0220851776,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2026-02-11
+C10831,Restaurant Les Glycines SA,BE0505938439,5000,Namur,BE,FR,Horeca,Wallonie,2023-06-17
+C10832,Woonzorgcentrum Hof ter Leie VZW,BE0553828527,1930,Zaventem,BE,NL,Zorg,Vlaams-Brabant & Brussel,2013-09-07
+C10833,Taverne Ter Linde BV,BE0617737966,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2026-03-28
+C10834,Restaurant Ter Linde BV,BE0626007019,8700,Tielt,BE,NL,Horeca,West-Vlaanderen Binnenland,2014-05-11
+C10835,Schoonmaakbedrijf Desmet,BE0451855989,9300,Aalst,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2022-08-22
+C10836,Restaurant Zonnehoek BV,BE0474030981,3900,Pelt,BE,NL,Horeca,Limburg,2021-08-24
+C10837,Maes Metaal BV,BE0866212770,1000,Brussel,BE,NL,Industrie,Vlaams-Brabant & Brussel,2014-11-15
+C10838,Taverne De Meersen,BE0335402046,3000,Leuven,BE,NL,Horeca,Vlaams-Brabant & Brussel,2017-06-26
+C10839,Houtbewerking Lannoo BV,BE0995756171,3800,Sint-Truiden,BE,NL,Industrie,Limburg,2014-07-08
+C10840,Brasserie Vermeulen,BE0468698258,1930,Zaventem,BE,NL,Horeca,Vlaams-Brabant & Brussel,2024-02-05
+C10841,Atheneum Ter Linde,BE0270904865,2500,Lier,BE,NL,Onderwijs & overheid,Antwerpen,2021-07-28
+C10842,Brasserie Simon SPRL,BE0211681615,6000,Charleroi,BE,FR,Horeca,Hainaut,2016-09-20
+C10843,Fontaine Industries SA,BE0541255149,5000,Namur,BE,FR,Industrie,Wallonie,2019-12-27
+C10844,Taverne De Meersen NV,BE0581987924,1500,Halle,BE,NL,Horeca,Vlaams-Brabant & Brussel,2021-03-28
+C10845,Hotel De Meersen,BE0398404536,3900,Pelt,BE,NL,Horeca,Limburg,2021-07-06
+C10846,Brasserie Deprez BV,BE0625912195,2300,Turnhout,BE,NL,Horeca,Antwerpen,2012-11-28
+C10847,Piron Services SPRL,BE0371455956,6000,Charleroi,BE,FR,Schoonmaakbedrijven,Hainaut,2016-08-11
+C10848,Houtbewerking Verhaeghe NV,BE0222347655,8000,Brugge,BE,NL,Industrie,West-Vlaanderen Binnenland,2014-10-05
+C10849,Schoonmaakbedrijf Deprez VOF,BE0673182374,8560,Wevelgem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2019-06-20
+C10850,Net & Proper Lambrecht,BE0424564743,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2015-04-16
+C10851,Verbeke Cleaning BV,BE0982708285,8870,Izegem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2023-08-09
+C10852,Brasserie Bossuyt NV,BE0339854841,8800,Roeselare,BE,NL,Horeca,West-Vlaanderen Binnenland,2014-06-13
+C10853,Brasserie Laurent,BE0779921867,4800,Verviers,BE,FR,Horeca,Wallonie,2015-01-08
+C10854,Dagcentrum Het Anker VZW,BE0674365774,3300,Tienen,BE,NL,Zorg,Vlaams-Brabant & Brussel,2024-10-02
+C10855,Ateliers Hennebert SARL,FR29611790387,59140,Dunkerque,FR,FR,Industrie,Hauts-de-France,2018-04-29
+C10856,Wouters Cleaning VOF,BE0369819527,1930,Zaventem,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2024-10-02
+C10857,Woonzorgcentrum Hof ter Leie VZW,BE0314975727,3300,Tienen,BE,NL,Zorg,Vlaams-Brabant & Brussel,2015-01-02
+C10858,Brasserie Lannoo,BE0357407188,2200,Herentals,BE,NL,Horeca,Antwerpen,2015-05-05
+C10859,Schoonmaakbedrijf Lannoo,BE0448066556,8700,Tielt,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2019-06-02
+C10860,Centre de soins Le Val ASBL,BE0796429287,5000,Namur,BE,FR,Zorg,Wallonie,2017-06-01
+C10861,Net & Proper Peeters BV,BE0865655912,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2017-02-07
+C10862,Schoonmaakbedrijf Goossens BV,BE0318503260,8700,Tielt,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2015-10-01
+C10863,Dagcentrum De Meersen VZW,BE0686992008,8900,Ieper,BE,NL,Zorg,West-Vlaanderen Binnenland,2017-01-30
+C10864,Net & Proper Wouters BV,BE0858883431,2000,Antwerpen,BE,NL,Schoonmaakbedrijven,Antwerpen,2014-05-18
+C10865,Jacobs Metaal,BE0317016487,3800,Sint-Truiden,BE,NL,Industrie,Limburg,2019-09-30
+C10866,Schoonmaakbedrijf Mertens BV,BE0443432134,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2012-06-13
+C10867,Houtbewerking Vanneste,BE0253204840,2300,Turnhout,BE,NL,Industrie,Antwerpen,2013-02-06
+C10868,Schoonmaakbedrijf Mertens NV,BE0764563601,9900,Eeklo,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2023-07-16
+C10869,WZC De Kapel VZW,BE0311351885,3300,Tienen,BE,NL,Zorg,Vlaams-Brabant & Brussel,2014-09-20
+C10870,Atheneum Het Anker,BE0859418218,1500,Halle,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2016-12-03
+C10871,Taverne Ter Duinen,BE0634961703,8800,Roeselare,BE,NL,Horeca,West-Vlaanderen Binnenland,2023-06-29
+C10872,Nettoyage Deschamps SAS,FR56344787808,62100,Calais,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2025-11-30
+C10873,Maison de repos Le Clos,FR37715041393,59200,Tourcoing,FR,FR,Zorg,Hauts-de-France,2022-03-08
+C10874,Taverne Ter Linde BV,BE0936505702,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2026-04-05
+C10875,Restaurant De Vlier VOF,BE0541546941,1800,Vilvoorde,BE,NL,Horeca,Vlaams-Brabant & Brussel,2023-07-27
+C10876,Dagcentrum Hof ter Leie VZW,BE0325573867,2500,Lier,BE,NL,Zorg,Antwerpen,2018-01-27
+C10877,Gemeente Moorslede,BE0386821944,9000,Gent,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2018-02-24
+C10878,Atheneum Hof ter Leie,BE0391725491,2500,Lier,BE,NL,Onderwijs & overheid,Antwerpen,2018-06-11
+C10879,École Le Clos,BE0260943163,7700,Mouscron,BE,FR,Onderwijs & overheid,Hainaut,2014-10-05
+C10880,Schoonmaakbedrijf Debruyne BV,BE0758322244,3900,Pelt,BE,NL,Schoonmaakbedrijven,Limburg,2012-05-17
+C10881,Restaurant Zonnehoek NV,BE0262281763,3600,Genk,BE,NL,Horeca,Limburg,2019-02-28
+C10882,Propreté La Roseraie,BE0760881856,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2013-10-14
+C10883,Simon Services,BE0793652515,7500,Tournai,BE,FR,Schoonmaakbedrijven,Hainaut,2023-04-06
+C10884,Marchal Industries SPRL,BE0293119449,6000,Charleroi,BE,FR,Industrie,Hainaut,2025-01-04
+C10885,Houtbewerking Desmet NV,BE0247976144,8790,Waregem,BE,NL,Industrie,West-Vlaanderen Binnenland,2018-03-09
+C10886,Gemeente Ledegem,BE0708277766,3700,Tongeren,BE,NL,Onderwijs & overheid,Limburg,2012-06-09
+C10887,Hotel De Vlier BV,BE0268742260,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2015-11-03
+C10888,Brasserie Wouters NV,BE0232417740,1930,Zaventem,BE,NL,Horeca,Vlaams-Brabant & Brussel,2022-08-13
+C10889,Hotel De Meersen BV,BE0211713287,2500,Lier,BE,NL,Horeca,Antwerpen,2013-10-18
+C10890,Schoonmaakbedrijf Vercruysse,BE0543219497,2300,Turnhout,BE,NL,Schoonmaakbedrijven,Antwerpen,2014-10-21
+C10891,Centre de soins Le Val ASBL,BE0363142066,6000,Charleroi,BE,FR,Zorg,Hainaut,2018-11-01
+C10892,Net & Proper Vandenberghe BV,BE0877984414,3900,Pelt,BE,NL,Schoonmaakbedrijven,Limburg,2012-01-19
+C10893,Taverne De Notelaar BV,BE0776483911,8420,De Haan,BE,NL,Horeca,West-Vlaanderen Kust,2024-07-14
+C10894,Woonzorgcentrum Ter Linde VZW,BE0716904333,8700,Tielt,BE,NL,Zorg,West-Vlaanderen Binnenland,2019-02-18
+C10895,Peeters Food Processing,BE0471877482,3600,Genk,BE,NL,Industrie,Limburg,2013-09-17
+C10896,Dagcentrum Zonnehoek VZW,BE0563271575,8370,Blankenberge,BE,NL,Zorg,West-Vlaanderen Kust,2013-06-26
+C10897,Hotel Hof ter Leie VOF,BE0950352946,3500,Hasselt,BE,NL,Horeca,Limburg,2012-09-01
+C10898,Bossuyt Food Processing,BE0427115348,9300,Aalst,BE,NL,Industrie,Oost-Vlaanderen,2019-11-29
+C10899,Gemeente Lichtervelde,BE0894631691,8870,Izegem,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2015-06-24
+C10900,Hotel De Kapel BV,BE0265600945,9200,Dendermonde,BE,NL,Horeca,Oost-Vlaanderen,2024-05-13
+C10901,Net & Proper Willaert BV,BE0278221140,8560,Wevelgem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2019-02-22
+C10902,Brasserie Piron SA,FR05723012713,59100,Roubaix,FR,FR,Horeca,Hauts-de-France,2017-11-19
+C10903,Net & Proper Lannoo NV,BE0576643224,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2023-03-14
+C10904,Woonzorgcentrum De Vlier VZW,BE0385601130,3900,Pelt,BE,NL,Zorg,Limburg,2018-07-18
+C10905,Vanhoutte Cleaning,BE0588135447,1000,Brussel,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2013-04-24
+C10906,Basisschool De Vlier,BE0872221228,8420,De Haan,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2013-04-07
+C10907,Métallerie Renard SRL,BE0689267845,7700,Mouscron,BE,FR,Industrie,Hainaut,2014-07-03
+C10908,Desmet Cleaning,BE0610888677,8500,Kortrijk,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2026-01-05
+C10909,Brasserie Lefebvre,BE0445088359,1300,Wavre,BE,FR,Horeca,Wallonie,2021-01-23
+C10910,Pattyn Food Processing,BE0592693160,8300,Knokke-Heist,BE,NL,Industrie,West-Vlaanderen Kust,2021-01-11
+C10911,Atheneum De Zilverberk,BE0697817109,9100,Sint-Niklaas,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2014-06-19
+C10912,Propreté Le Clos SA,FR28405805875,59000,Lille,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2022-09-06
+C10913,Claeys Food Processing,BE0550391361,3500,Hasselt,BE,NL,Industrie,Limburg,2023-03-17
+C10914,Restaurant Het Anker NV,BE0709835706,8660,De Panne,BE,NL,Horeca,West-Vlaanderen Kust,2015-07-05
+C10915,Schoonmaakbedrijf Callewaert NV,BE0511791004,8620,Nieuwpoort,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2012-10-30
+C10916,Declercq Food Processing NV,BE0808844495,8500,Kortrijk,BE,NL,Industrie,West-Vlaanderen Binnenland,2020-11-03
+C10917,Atheneum De Meersen,BE0765592591,2200,Herentals,BE,NL,Onderwijs & overheid,Antwerpen,2013-06-08
+C10918,Dagcentrum Ter Duinen VZW,BE0548615370,8370,Blankenberge,BE,NL,Zorg,West-Vlaanderen Kust,2024-04-30
+C10919,Taverne De Vlier BV,BE0724778654,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2025-11-17
+C10920,Brasserie Goossens NV,BE0918155577,3800,Sint-Truiden,BE,NL,Horeca,Limburg,2023-11-14
+C10921,Hennebert Services SRL,BE0594111340,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2016-07-09
+C10922,Vermeulen Food Processing BV,BE0515804032,8900,Ieper,BE,NL,Industrie,West-Vlaanderen Binnenland,2016-05-15
+C10923,Brasserie Delhaye SARL,FR09384912004,59140,Dunkerque,FR,FR,Horeca,Hauts-de-France,2021-05-27
+C10924,Houtbewerking Vanneste BV,BE0287006667,9200,Dendermonde,BE,NL,Industrie,Oost-Vlaanderen,2019-05-09
+C10925,Brasserie Goossens BV,BE0723050272,1930,Zaventem,BE,NL,Horeca,Vlaams-Brabant & Brussel,2019-10-26
+C10926,Declercq Cleaning NV,BE0794731391,8790,Waregem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2023-02-15
+C10927,WZC Hof ter Leie VZW,BE0723990677,8000,Brugge,BE,NL,Zorg,West-Vlaanderen Binnenland,2012-01-18
+C10928,Michel Services SPRL,BE0582938425,6000,Charleroi,BE,FR,Schoonmaakbedrijven,Hainaut,2019-07-16
+C10929,Métallerie Dubois,FR32635987523,59200,Tourcoing,FR,FR,Industrie,Hauts-de-France,2020-12-28
+C10930,Houtbewerking Devos,BE0365636253,8800,Roeselare,BE,NL,Industrie,West-Vlaanderen Binnenland,2013-02-18
+C10931,Woonzorgcentrum De Meersen VZW,BE0445868715,2500,Lier,BE,NL,Zorg,Antwerpen,2019-05-25
+C10932,Hôtel Le Val SRL,BE0547265783,4800,Verviers,BE,FR,Horeca,Wallonie,2020-04-29
+C10933,Wouters Cleaning NV,BE0943577891,8870,Izegem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2014-08-21
+C10934,Net & Proper Debruyne NV,BE0710575181,8500,Kortrijk,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2019-05-11
+C10935,Taverne De Vlier,BE0754213305,2000,Antwerpen,BE,NL,Horeca,Antwerpen,2014-02-01
+C10936,Schoonmaakbedrijf Peeters BV,BE0263584830,9900,Eeklo,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2018-03-20
+C10937,Atheneum De Meersen,BE0956602617,8000,Brugge,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2017-01-29
+C10938,WZC Ter Linde VZW,BE0518126587,3700,Tongeren,BE,NL,Zorg,Limburg,2024-06-22
+C10939,Ghekiere Cleaning VOF,BE0650880094,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2012-08-08
+C10940,Schoonmaakbedrijf Lambrecht NV,BE0984670556,3900,Pelt,BE,NL,Schoonmaakbedrijven,Limburg,2013-08-04
+C10941,Brasserie Verhaeghe,BE0751550159,9000,Gent,BE,NL,Horeca,Oost-Vlaanderen,2024-09-13
+C10942,Brasserie Marchal,FR94862858354,59140,Dunkerque,FR,FR,Horeca,Hauts-de-France,2022-06-01
+C10943,WZC Ter Linde VZW,BE0619646391,8400,Oostende,BE,NL,Zorg,West-Vlaanderen Kust,2015-07-26
+C10944,Vanhoutte Food Processing BV,BE0765593383,9700,Oudenaarde,BE,NL,Industrie,Oost-Vlaanderen,2014-07-09
+C10945,Basisschool De Zilverberk,BE0520634335,9900,Eeklo,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2020-04-27
+C10946,Pattyn Cleaning BV,BE0297015384,9300,Aalst,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2015-05-12
+C10947,Schoonmaakbedrijf Wouters BV,BE0573577628,8400,Oostende,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2014-10-28
+C10948,Basisschool Hof ter Leie,BE0321069406,3500,Hasselt,BE,NL,Onderwijs & overheid,Limburg,2012-11-21
+C10949,Callewaert Cleaning BV,BE0215762246,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2012-10-24
+C10950,Woonzorgcentrum Het Anker VZW,BE0555659649,2500,Lier,BE,NL,Zorg,Antwerpen,2014-09-21
+C10951,WZC De Vlier VZW,BE0811385895,3900,Pelt,BE,NL,Zorg,Limburg,2017-03-10
+C10952,Verhaeghe Cleaning VOF,BE0260775590,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2016-02-15
+C10953,Restaurant Hof ter Leie,BE0389360077,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2026-05-04
+C10954,Brasserie Verhaeghe VOF,BE0218876639,8900,Ieper,BE,NL,Horeca,West-Vlaanderen Binnenland,2019-06-22
+C10955,Résidence Le Val ASBL,BE0442841721,1300,Wavre,BE,FR,Zorg,Wallonie,2014-10-23
+C10956,Hotel Het Anker BV,BE0932303523,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2018-04-17
+C10957,Net & Proper Wouters BV,BE0725277215,3500,Hasselt,BE,NL,Schoonmaakbedrijven,Limburg,2022-09-01
+C10958,Nettoyage Hennebert SRL,BE0754289420,7700,Mouscron,BE,FR,Schoonmaakbedrijven,Hainaut,2026-05-08
+C10959,Lefebvre Services,FR93539065208,59000,Lille,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2025-08-17
+C10960,Taverne Het Anker BV,BE0940842689,8560,Wevelgem,BE,NL,Horeca,West-Vlaanderen Binnenland,2014-08-05
+C10961,Bossuyt Logistics NV,BE0499819323,9200,Dendermonde,BE,NL,Industrie,Oost-Vlaanderen,2014-01-29
+C10962,Gemeente Lichtervelde,BE0998852649,9900,Eeklo,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2021-05-12
+C10963,Michel Services,BE0562464891,5500,Dinant,BE,FR,Schoonmaakbedrijven,Wallonie,2013-10-01
+C10964,Dagcentrum Ter Linde VZW,BE0377208947,8900,Ieper,BE,NL,Zorg,West-Vlaanderen Binnenland,2017-07-29
+C10965,WZC De Notelaar VZW,BE0982308409,8420,De Haan,BE,NL,Zorg,West-Vlaanderen Kust,2023-08-06
+C10966,Vanneste Food Processing,BE0911455649,8500,Kortrijk,BE,NL,Industrie,West-Vlaanderen Binnenland,2020-08-27
+C10967,Dagcentrum Ter Duinen VZW,BE0910169509,9100,Sint-Niklaas,BE,NL,Zorg,Oost-Vlaanderen,2018-10-16
+C10968,Net & Proper Vandamme BV,BE0420272096,9200,Dendermonde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2012-05-31
+C10969,Brasserie Maes VOF,BE0609823063,9300,Aalst,BE,NL,Horeca,Oost-Vlaanderen,2017-12-24
+C10970,Woonzorgcentrum De Zilverberk VZW,BE0613792145,8700,Tielt,BE,NL,Zorg,West-Vlaanderen Binnenland,2024-06-04
+C10971,Marchal Services,BE0954063591,5500,Dinant,BE,FR,Schoonmaakbedrijven,Wallonie,2021-10-29
+C10972,Basisschool De Notelaar,BE0939543285,9300,Aalst,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2019-07-14
+C10973,Lefebvre Services,FR34957498615,59140,Dunkerque,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2013-05-12
+C10974,WZC Zonnehoek VZW,BE0676829871,8790,Waregem,BE,NL,Zorg,West-Vlaanderen Binnenland,2013-10-08
+C10975,Atheneum De Vlier,BE0402733904,8560,Wevelgem,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2014-11-05
+C10976,Brasserie Goossens NV,BE0777992359,8500,Kortrijk,BE,NL,Horeca,West-Vlaanderen Binnenland,2016-11-06
+C10977,Brasserie Dumon BV,BE0471877185,3500,Hasselt,BE,NL,Horeca,Limburg,2013-02-13
+C10978,Vanneste Cleaning,BE0948429079,3800,Sint-Truiden,BE,NL,Schoonmaakbedrijven,Limburg,2020-07-31
+C10979,Atheneum Het Anker,BE0842585946,3000,Leuven,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2012-11-04
+C10980,Net & Proper Vandamme BV,BE0722341974,8560,Wevelgem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2024-06-22
+C10981,Brasserie Goossens BV,BE0603919030,3600,Genk,BE,NL,Horeca,Limburg,2020-05-24
+C10982,Taverne De Vlier BV,BE0773419107,8660,De Panne,BE,NL,Horeca,West-Vlaanderen Kust,2015-09-03
+C10983,Houtbewerking Pattyn BV,BE0595020962,3300,Tienen,BE,NL,Industrie,Vlaams-Brabant & Brussel,2022-11-25
+C10984,Brasserie Vercruysse NV,BE0328239090,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2019-04-30
+C10985,Centre de soins Le Clos ASBL,BE0215948823,7100,La Louvière,BE,FR,Zorg,Hainaut,2014-12-29
+C10986,Lambert Services SA,FR58595693861,62000,Arras,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2012-09-03
+C10987,Vanhoutte Cleaning VOF,BE0355310604,3600,Genk,BE,NL,Schoonmaakbedrijven,Limburg,2017-02-18
+C10988,Basisschool Het Anker,BE0758646995,3700,Tongeren,BE,NL,Onderwijs & overheid,Limburg,2018-03-09
+C10989,Taverne Ter Duinen NV,BE0978580837,8700,Tielt,BE,NL,Horeca,West-Vlaanderen Binnenland,2018-01-16
+C10990,Deschamps Industries SRL,BE0880767720,5000,Namur,BE,FR,Industrie,Wallonie,2014-09-11
+C10991,Brasserie Deprez NV,BE0807391970,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2013-02-09
+C10992,Nettoyage Deschamps SPRL,BE0730033975,1300,Wavre,BE,FR,Schoonmaakbedrijven,Wallonie,2012-05-24
+C10993,Devos Cleaning NV,BE0467829218,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2024-03-30
+C10994,Taverne Het Anker BV,BE0919303048,8370,Blankenberge,BE,NL,Horeca,West-Vlaanderen Kust,2026-03-27
+C10995,Dagcentrum De Vlier VZW,BE0700500643,8500,Kortrijk,BE,NL,Zorg,West-Vlaanderen Binnenland,2020-06-12
+C10996,Dagcentrum Het Anker VZW,BE0687738413,8560,Wevelgem,BE,NL,Zorg,West-Vlaanderen Binnenland,2024-07-27
+C10997,Résidence Le Clos ASBL,BE0419560236,5000,Namur,BE,FR,Zorg,Wallonie,2019-02-26
+C10998,Net & Proper Debruyne BV,BE0995570584,1000,Brussel,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2021-04-23
+C10999,Net & Proper Verhaeghe BV,BE0472298641,9700,Oudenaarde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2026-04-26
+C11000,Métallerie Fontaine SRL,BE0407382677,7500,Tournai,BE,FR,Industrie,Hainaut,2016-06-29
+C11001,Taverne De Notelaar NV,BE0932055083,3300,Tienen,BE,NL,Horeca,Vlaams-Brabant & Brussel,2015-08-08
+C11002,Bossuyt Logistics BV,BE0227126092,3700,Tongeren,BE,NL,Industrie,Limburg,2014-09-24
+C11003,Maison de repos Les Peupliers ASBL,BE0256974873,4800,Verviers,BE,FR,Zorg,Wallonie,2021-09-22
+C11004,Collard Industries SRL,BE0780229002,1300,Wavre,BE,FR,Industrie,Wallonie,2014-08-17
+C11005,Hotel De Meersen NV,BE0933401405,9000,Gent,BE,NL,Horeca,Oost-Vlaanderen,2015-01-29
+C11006,Claeys Food Processing BV,BE0954296886,2800,Mechelen,BE,NL,Industrie,Antwerpen,2018-04-01
+C11007,Woonzorgcentrum Ter Duinen VZW,BE0877134970,2200,Herentals,BE,NL,Zorg,Antwerpen,2014-01-03
+C11008,Dagcentrum De Notelaar VZW,BE0465581885,8500,Kortrijk,BE,NL,Zorg,West-Vlaanderen Binnenland,2023-03-03
+C11009,Net & Proper Ghekiere BV,BE0574361249,8900,Ieper,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2022-09-02
+C11010,Simon Services SA,BE0273849707,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2024-11-25
+C11011,Net & Proper Mertens BV,BE0654913316,3000,Leuven,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2025-05-30
+C11012,Woonzorgcentrum De Zilverberk VZW,BE0477476362,3500,Hasselt,BE,NL,Zorg,Limburg,2016-10-09
+C11013,Restaurant De Zilverberk VOF,BE0482360610,8420,De Haan,BE,NL,Horeca,West-Vlaanderen Kust,2017-02-01
+C11014,Bossuyt Food Processing BV,BE0239242679,9700,Oudenaarde,BE,NL,Industrie,Oost-Vlaanderen,2019-08-21
+C11015,Brasserie Masson SRL,BE0839481451,5500,Dinant,BE,FR,Horeca,Wallonie,2024-03-04
+C11016,Restaurant De Meersen VOF,BE0581185002,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2020-06-26
+C11017,Net & Proper Vandenberghe,BE0334235967,8800,Roeselare,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2014-04-13
+C11018,Net & Proper Ghekiere BV,BE0936186095,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2015-06-30
+C11019,Atheneum Ter Linde,BE0215118383,8000,Brugge,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2012-05-22
+C11020,Lefebvre Industries,FR21741458691,62100,Calais,FR,FR,Industrie,Hauts-de-France,2025-12-24
+C11021,Lannoo Food Processing,BE0590955078,1500,Halle,BE,NL,Industrie,Vlaams-Brabant & Brussel,2013-07-31
+C11022,Net & Proper Hoste VOF,BE0810627416,8400,Oostende,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2018-02-08
+C11023,Declercq Metaal,BE0886418662,8790,Waregem,BE,NL,Industrie,West-Vlaanderen Binnenland,2025-05-30
+C11024,Gemeente Moorslede,BE0219685303,9100,Sint-Niklaas,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2020-10-12
+C11025,Wouters Cleaning BV,BE0223774842,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2025-03-18
+C11026,Net & Proper Ghekiere,BE0431467480,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2023-03-07
+C11027,Devos Metaal VOF,BE0280258536,8620,Nieuwpoort,BE,NL,Industrie,West-Vlaanderen Kust,2015-09-05
+C11028,Net & Proper Jacobs BV,BE0367210326,3500,Hasselt,BE,NL,Schoonmaakbedrijven,Limburg,2022-05-31
+C11029,Restaurant Het Anker BV,BE0522204547,2500,Lier,BE,NL,Horeca,Antwerpen,2025-10-19
+C11030,Vandenberghe Cleaning BV,BE0384482759,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2012-08-30
+C11031,Atheneum Ter Linde,BE0654145630,8800,Roeselare,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2014-08-12
+C11032,Taverne Hof ter Leie BV,BE0303140737,2000,Antwerpen,BE,NL,Horeca,Antwerpen,2014-11-27
+C11033,Vermeulen Food Processing NV,BE0776714929,8800,Roeselare,BE,NL,Industrie,West-Vlaanderen Binnenland,2025-03-26
+C11034,Schoonmaakbedrijf Verhaeghe BV,BE0208214953,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2017-09-25
+C11035,Vercruysse Metaal,BE0802294027,3900,Pelt,BE,NL,Industrie,Limburg,2019-06-19
+C11036,Schoonmaakbedrijf Claeys NV,BE0252380439,3900,Pelt,BE,NL,Schoonmaakbedrijven,Limburg,2017-07-12
+C11037,Brasserie Vercruysse,BE0751892926,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2018-04-12
+C11038,Basisschool Ter Linde,BE0757035906,2800,Mechelen,BE,NL,Onderwijs & overheid,Antwerpen,2015-11-14
+C11039,Dagcentrum Zonnehoek VZW,BE0553646702,3300,Tienen,BE,NL,Zorg,Vlaams-Brabant & Brussel,2025-10-27
+C11040,Schoonmaakbedrijf Vermeulen BV,BE0309846407,2400,Mol,BE,NL,Schoonmaakbedrijven,Antwerpen,2015-03-08
+C11041,Devos Food Processing BV,BE0474392257,8000,Brugge,BE,NL,Industrie,West-Vlaanderen Binnenland,2023-05-02
+C11042,Atheneum Het Anker,BE0247110666,8870,Izegem,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2024-04-13
+C11043,Net & Proper Mertens VOF,BE0681157358,8500,Kortrijk,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2024-08-24
+C11044,Houtbewerking Claeys VOF,BE0244986168,2800,Mechelen,BE,NL,Industrie,Antwerpen,2022-11-16
+C11045,Declercq Food Processing NV,BE0838276968,8700,Tielt,BE,NL,Industrie,West-Vlaanderen Binnenland,2018-09-14
+C11046,Basisschool De Kapel,BE0670677695,2300,Turnhout,BE,NL,Onderwijs & overheid,Antwerpen,2016-01-04
+C11047,Net & Proper Coussens,BE0632226501,8700,Tielt,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2017-12-20
+C11048,Métallerie Lambert SA,FR18509988269,59140,Dunkerque,FR,FR,Industrie,Hauts-de-France,2025-09-10
+C11049,Net & Proper Vanneste VOF,BE0594604258,3000,Leuven,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2025-12-20
+C11050,Schoonmaakbedrijf Verbeke VOF,BE0969917252,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2017-10-23
+C11051,Schoonmaakbedrijf Wouters BV,BE0220945214,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2024-03-27
+C11052,Gemeente Moorslede,BE0222834536,8300,Knokke-Heist,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2025-03-16
+C11053,Schoonmaakbedrijf Vanhoutte NV,BE0787191424,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2012-07-06
+C11054,Brasserie Masson,BE0877168030,1300,Wavre,BE,FR,Horeca,Wallonie,2015-06-11
+C11055,Net & Proper Wouters BV,BE0907230310,9100,Sint-Niklaas,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2016-10-24
+C11056,Hôtel Le Clos,FR44313599491,59000,Lille,FR,FR,Horeca,Hauts-de-France,2015-04-08
+C11057,Claeys Cleaning VOF,BE0858867197,9700,Oudenaarde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2015-12-17
+C11058,Brasserie Declercq NV,BE0816235204,3600,Genk,BE,NL,Horeca,Limburg,2022-07-24
+C11059,Atheneum Het Anker,BE0450716834,2300,Turnhout,BE,NL,Onderwijs & overheid,Antwerpen,2023-04-20
+C11060,Lambert Industries SARL,FR03908639931,59300,Valenciennes,FR,FR,Industrie,Hauts-de-France,2012-04-10
+C11061,Atheneum De Vlier,BE0324091846,8000,Brugge,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2016-06-03
+C11062,Restaurant De Zilverberk,BE0395871846,8900,Ieper,BE,NL,Horeca,West-Vlaanderen Binnenland,2018-01-10
+C11063,Dagcentrum Zonnehoek VZW,BE0854227332,2400,Mol,BE,NL,Zorg,Antwerpen,2015-12-09
+C11064,Propreté Le Clos SARL,FR53646225007,62100,Calais,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2012-11-18
+C11065,Gemeente Staden,BE0497148457,2800,Mechelen,BE,NL,Onderwijs & overheid,Antwerpen,2012-09-16
+C11066,Résidence Le Clos,FR06812435235,62100,Calais,FR,FR,Zorg,Hauts-de-France,2014-06-25
+C11067,Athénée La Source,BE0310779585,1300,Wavre,BE,FR,Onderwijs & overheid,Wallonie,2015-03-20
+C11068,Peeters Logistics NV,BE0860135127,8900,Ieper,BE,NL,Industrie,West-Vlaanderen Binnenland,2012-03-08
+C11069,Net & Proper Callewaert BV,BE0927397895,1500,Halle,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2026-01-06
+C11070,Hotel De Notelaar,BE0480511373,9000,Gent,BE,NL,Horeca,Oost-Vlaanderen,2012-08-07
+C11071,WZC Ter Duinen VZW,BE0377395623,2500,Lier,BE,NL,Zorg,Antwerpen,2025-01-02
+C11072,Restaurant De Meersen NV,BE0587716763,9300,Aalst,BE,NL,Horeca,Oost-Vlaanderen,2013-04-02
+C11073,Résidence Beau Site ASBL,BE0587020145,5000,Namur,BE,FR,Zorg,Wallonie,2016-05-06
+C11074,Nettoyage Dubois,BE0868432882,7100,La Louvière,BE,FR,Schoonmaakbedrijven,Hainaut,2014-08-03
+C11075,Dagcentrum De Notelaar VZW,BE0813014903,1930,Zaventem,BE,NL,Zorg,Vlaams-Brabant & Brussel,2016-09-08
+C11076,Brasserie Lefebvre,BE0888181983,7700,Mouscron,BE,FR,Horeca,Hainaut,2025-07-16
+C11077,Athénée Les Acacias,BE0306002930,7000,Mons,BE,FR,Onderwijs & overheid,Hainaut,2016-10-12
+C11078,Résidence Beau Site,FR23947089315,59200,Tourcoing,FR,FR,Zorg,Hauts-de-France,2020-04-02
+C11079,Brasserie Peeters VOF,BE0668245173,8560,Wevelgem,BE,NL,Horeca,West-Vlaanderen Binnenland,2020-03-23
+C11080,Vandenberghe Cleaning VOF,BE0556451386,8660,De Panne,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2016-09-07
+C11081,WZC De Meersen VZW,BE0925532824,1800,Vilvoorde,BE,NL,Zorg,Vlaams-Brabant & Brussel,2014-12-10
+C11082,Houtbewerking Vandamme BV,BE0628030359,8900,Ieper,BE,NL,Industrie,West-Vlaanderen Binnenland,2023-06-12
+C11083,Vanneste Metaal NV,BE0398900028,2300,Turnhout,BE,NL,Industrie,Antwerpen,2013-10-18
+C11084,Athénée La Source,BE0285988959,7100,La Louvière,BE,FR,Onderwijs & overheid,Hainaut,2024-03-18
+C11085,Schoonmaakbedrijf Vercruysse BV,BE0608970750,3800,Sint-Truiden,BE,NL,Schoonmaakbedrijven,Limburg,2022-05-14
+C11086,Net & Proper Lannoo NV,BE0989655960,3800,Sint-Truiden,BE,NL,Schoonmaakbedrijven,Limburg,2026-05-10
+C11087,WZC De Zilverberk VZW,BE0788735704,8420,De Haan,BE,NL,Zorg,West-Vlaanderen Kust,2012-06-27
+C11088,Schoonmaakbedrijf Deprez BV,BE0375599935,2200,Herentals,BE,NL,Schoonmaakbedrijven,Antwerpen,2023-06-24
+C11089,École Les Acacias,BE0424296707,5000,Namur,BE,FR,Onderwijs & overheid,Wallonie,2020-12-27
+C11090,Schoonmaakbedrijf Vercruysse,BE0968222425,8700,Tielt,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2015-10-09
+C11091,Callewaert Cleaning,BE0793448023,8620,Nieuwpoort,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2024-07-03
+C11092,Métallerie Hennebert SPRL,BE0825137626,7500,Tournai,BE,FR,Industrie,Hainaut,2016-11-16
+C11093,Dagcentrum De Kapel VZW,BE0729569959,8870,Izegem,BE,NL,Zorg,West-Vlaanderen Binnenland,2019-07-03
+C11094,Lambert Services SA,BE0863465888,7500,Tournai,BE,FR,Schoonmaakbedrijven,Hainaut,2013-08-23
+C11095,Net & Proper Lannoo NV,BE0632330924,3300,Tienen,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2026-03-31
+C11096,Dagcentrum De Kapel VZW,BE0839343869,2800,Mechelen,BE,NL,Zorg,Antwerpen,2015-11-09
+C11097,Dagcentrum Ter Linde VZW,BE0769564049,3000,Leuven,BE,NL,Zorg,Vlaams-Brabant & Brussel,2026-04-02
+C11098,Debruyne Logistics NV,BE0676374367,9000,Gent,BE,NL,Industrie,Oost-Vlaanderen,2019-05-20
+C11099,Net & Proper Jacobs VOF,BE0975167031,8800,Roeselare,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2015-09-06
+C11100,Centre de soins Les Tilleuls ASBL,BE0717094868,6000,Charleroi,BE,FR,Zorg,Hainaut,2016-04-19
+C11101,Laurent Services,FR08450290327,62000,Arras,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2023-04-29
+C11102,Houtbewerking Mertens VOF,BE0914496796,8300,Knokke-Heist,BE,NL,Industrie,West-Vlaanderen Kust,2026-05-04
+C11103,WZC De Kapel VZW,BE0526492442,8700,Tielt,BE,NL,Zorg,West-Vlaanderen Binnenland,2025-01-19
+C11104,Atheneum Het Anker,BE0889383595,8370,Blankenberge,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2014-04-30
+C11105,Gilson Services SA,BE0819413735,7100,La Louvière,BE,FR,Schoonmaakbedrijven,Hainaut,2023-05-30
+C11106,Restaurant La Roseraie SRL,BE0625924568,5500,Dinant,BE,FR,Horeca,Wallonie,2022-05-31
+C11107,Restaurant Beau Site SA,BE0660800325,5500,Dinant,BE,FR,Horeca,Wallonie,2019-12-22
+C11108,Vercruysse Cleaning NV,BE0301898345,8620,Nieuwpoort,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2013-11-05
+C11109,Hoste Metaal BV,BE0454858140,3300,Tienen,BE,NL,Industrie,Vlaams-Brabant & Brussel,2023-04-05
+C11110,Brasserie Masson,FR68415310498,62000,Arras,FR,FR,Horeca,Hauts-de-France,2024-06-01
+C11111,Schoonmaakbedrijf Verbeke NV,BE0420035635,9300,Aalst,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2022-04-04
+C11112,Pattyn Metaal NV,BE0784660912,8620,Nieuwpoort,BE,NL,Industrie,West-Vlaanderen Kust,2025-04-16
+C11113,Dumon Cleaning BV,BE0357089662,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2021-08-19
+C11114,Houtbewerking Ghekiere VOF,BE0800482602,9700,Oudenaarde,BE,NL,Industrie,Oost-Vlaanderen,2025-02-08
+C11115,Taverne Ter Linde VOF,BE0416658253,8700,Tielt,BE,NL,Horeca,West-Vlaanderen Binnenland,2026-02-23
+C11116,Métallerie Fontaine SA,FR45699567697,59300,Valenciennes,FR,FR,Industrie,Hauts-de-France,2016-06-19
+C11117,Brasserie Declercq BV,BE0868654695,9200,Dendermonde,BE,NL,Horeca,Oost-Vlaanderen,2016-03-11
+C11118,Dagcentrum De Notelaar VZW,BE0382497130,9900,Eeklo,BE,NL,Zorg,Oost-Vlaanderen,2022-06-10
+C11119,Callewaert Food Processing VOF,BE0586644518,8620,Nieuwpoort,BE,NL,Industrie,West-Vlaanderen Kust,2019-12-29
+C11120,Declercq Logistics BV,BE0928878829,2300,Turnhout,BE,NL,Industrie,Antwerpen,2021-09-02
+C11121,Ateliers Masson SRL,BE0214046237,5000,Namur,BE,FR,Industrie,Wallonie,2018-02-05
+C11122,WZC Ter Linde VZW,BE0854874163,1500,Halle,BE,NL,Zorg,Vlaams-Brabant & Brussel,2021-06-13
+C11123,Brasserie Goossens BV,BE0538053555,8400,Oostende,BE,NL,Horeca,West-Vlaanderen Kust,2018-03-17
+C11124,Nettoyage Hennebert SRL,BE0835781296,5500,Dinant,BE,FR,Schoonmaakbedrijven,Wallonie,2023-08-25
+C11125,Schoonmaakbedrijf Hoste,BE0464388983,8870,Izegem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2012-12-07
+C11126,Atheneum Hof ter Leie,BE0829963078,1930,Zaventem,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2026-05-15
+C11127,Vanneste Food Processing NV,BE0287261441,9000,Gent,BE,NL,Industrie,Oost-Vlaanderen,2015-11-03
+C11128,Collard Industries SA,FR43975020989,59100,Roubaix,FR,FR,Industrie,Hauts-de-France,2014-07-17
+C11129,Basisschool De Meersen,BE0670882286,8620,Nieuwpoort,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2022-06-15
+C11130,Restaurant Het Anker BV,BE0801722321,1500,Halle,BE,NL,Horeca,Vlaams-Brabant & Brussel,2024-12-26
+C11131,Brasserie Vanneste VOF,BE0641497721,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2020-01-16
+C11132,Gemeente Ledegem,BE0209696578,9700,Oudenaarde,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2014-07-24
+C11133,Propreté Les Peupliers SRL,BE0390407578,5000,Namur,BE,FR,Schoonmaakbedrijven,Wallonie,2023-08-07
+C11134,Dagcentrum Hof ter Leie VZW,BE0979003380,8000,Brugge,BE,NL,Zorg,West-Vlaanderen Binnenland,2019-10-09
+C11135,Atheneum De Meersen,BE0227751842,3300,Tienen,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2014-02-27
+C11136,Goossens Logistics VOF,BE0468003125,8800,Roeselare,BE,NL,Industrie,West-Vlaanderen Binnenland,2020-04-23
+C11137,Taverne Ter Linde BV,BE0458812473,8560,Wevelgem,BE,NL,Horeca,West-Vlaanderen Binnenland,2017-10-22
+C11138,Hôtel Le Val,BE0654553723,7700,Mouscron,BE,FR,Horeca,Hainaut,2023-05-08
+C11139,Lannoo Cleaning BV,BE0972219320,9200,Dendermonde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2019-01-23
+C11140,Brasserie Verbeke NV,BE0428218871,2300,Turnhout,BE,NL,Horeca,Antwerpen,2016-04-03
+C11141,Net & Proper Dumon,BE0892107812,8370,Blankenberge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2017-04-24
+C11142,Goossens Logistics,BE0964695880,9000,Gent,BE,NL,Industrie,Oost-Vlaanderen,2018-05-31
+C11143,Dagcentrum Ter Linde VZW,BE0877570876,8000,Brugge,BE,NL,Zorg,West-Vlaanderen Binnenland,2026-05-11
+C11144,Restaurant De Notelaar BV,BE0297762878,8500,Kortrijk,BE,NL,Horeca,West-Vlaanderen Binnenland,2023-09-07
+C11145,Dagcentrum Ter Duinen VZW,BE0507515183,2500,Lier,BE,NL,Zorg,Antwerpen,2021-08-11
+C11146,Net & Proper Bossuyt BV,BE0310817890,8370,Blankenberge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2017-09-09
+C11147,Dubois Services SAS,FR92527855823,59000,Lille,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2020-07-21
+C11148,Hotel Zonnehoek NV,BE0272993434,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2014-02-08
+C11149,Maes Food Processing BV,BE0441694844,2400,Mol,BE,NL,Industrie,Antwerpen,2019-10-11
+C11150,Woonzorgcentrum De Kapel VZW,BE0489423990,8900,Ieper,BE,NL,Zorg,West-Vlaanderen Binnenland,2022-06-07
+C11151,Hotel De Meersen BV,BE0206103224,2200,Herentals,BE,NL,Horeca,Antwerpen,2013-08-07
+C11152,Net & Proper Claeys,BE0630820593,3700,Tongeren,BE,NL,Schoonmaakbedrijven,Limburg,2012-09-04
+C11153,Dagcentrum De Meersen VZW,BE0791235433,9700,Oudenaarde,BE,NL,Zorg,Oost-Vlaanderen,2022-11-12
+C11154,Restaurant Ter Linde VOF,BE0964642630,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2020-09-08
+C11155,Schoonmaakbedrijf Verhaeghe BV,BE0443716996,1800,Vilvoorde,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2022-01-25
+C11156,Schoonmaakbedrijf Deprez VOF,BE0839152443,8620,Nieuwpoort,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2025-06-06
+C11157,Schoonmaakbedrijf Coussens BV,BE0794596680,8700,Tielt,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2014-09-01
+C11158,Lambrecht Cleaning NV,BE0740687842,3600,Genk,BE,NL,Schoonmaakbedrijven,Limburg,2014-12-04
+C11159,Woonzorgcentrum Zonnehoek VZW,BE0950291875,1930,Zaventem,BE,NL,Zorg,Vlaams-Brabant & Brussel,2013-05-08
+C11160,Marchal Industries,FR18623319286,59000,Lille,FR,FR,Industrie,Hauts-de-France,2025-10-14
+C11161,Restaurant De Vlier VOF,BE0387651293,8370,Blankenberge,BE,NL,Horeca,West-Vlaanderen Kust,2024-03-28
+C11162,Taverne De Vlier BV,BE0469701714,8420,De Haan,BE,NL,Horeca,West-Vlaanderen Kust,2017-10-16
+C11163,Brasserie Deprez BV,BE0706727350,8370,Blankenberge,BE,NL,Horeca,West-Vlaanderen Kust,2021-07-05
+C11164,Restaurant La Roseraie SA,FR54822549441,59140,Dunkerque,FR,FR,Horeca,Hauts-de-France,2014-05-10
+C11165,Schoonmaakbedrijf Coussens NV,BE0544053402,9200,Dendermonde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2016-01-21
+C11166,WZC Zonnehoek VZW,BE0434269097,3800,Sint-Truiden,BE,NL,Zorg,Limburg,2019-06-28
+C11167,Schoonmaakbedrijf Pattyn BV,BE0209696281,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2024-02-19
+C11168,Restaurant Le Val SRL,BE0416120102,1300,Wavre,BE,FR,Horeca,Wallonie,2013-01-29
+C11169,Restaurant Zonnehoek,BE0389252387,8400,Oostende,BE,NL,Horeca,West-Vlaanderen Kust,2019-04-21
+C11170,Restaurant Les Peupliers SRL,BE0765949117,4800,Verviers,BE,FR,Horeca,Wallonie,2020-07-12
+C11171,Net & Proper Declercq BV,BE0265178303,8500,Kortrijk,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2024-01-14
+C11172,Brasserie Mercier SA,FR68444658236,59000,Lille,FR,FR,Horeca,Hauts-de-France,2019-03-03
+C11173,Athénée Les Glycines,FR07396187736,59000,Lille,FR,FR,Onderwijs & overheid,Hauts-de-France,2023-06-02
+C11174,Brasserie Jacobs,BE0834919976,8370,Blankenberge,BE,NL,Horeca,West-Vlaanderen Kust,2014-12-07
+C11175,Declercq Cleaning NV,BE0965054879,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2013-07-04
+C11176,Atheneum Hof ter Leie,BE0983189030,9300,Aalst,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2022-06-06
+C11177,Restaurant De Meersen BV,BE0438728921,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2019-08-01
+C11178,Centre de soins Les Glycines,FR34892860822,59140,Dunkerque,FR,FR,Zorg,Hauts-de-France,2026-02-21
+C11179,Taverne De Zilverberk BV,BE0774582414,8000,Brugge,BE,NL,Horeca,West-Vlaanderen Binnenland,2021-09-06
+C11180,Propreté Beau Site,BE0239150431,7500,Tournai,BE,FR,Schoonmaakbedrijven,Hainaut,2024-09-28
+C11181,Propreté La Roseraie SA,FR85579221233,59100,Roubaix,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2023-10-29
+C11182,Hôtel Beau Site SRL,BE0546124351,7100,La Louvière,BE,FR,Horeca,Hainaut,2023-07-03
+C11183,Propreté La Roseraie SARL,FR83669133701,59000,Lille,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2017-08-15
+C11184,Deprez Cleaning NV,BE0469947578,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2021-10-14
+C11185,Nettoyage Masson,FR34973965723,59300,Valenciennes,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2017-07-12
+C11186,Restaurant Het Anker NV,BE0293949491,9300,Aalst,BE,NL,Horeca,Oost-Vlaanderen,2013-01-30
+C11187,Brasserie Coussens,BE0333400777,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2013-10-14
+C11188,Schoonmaakbedrijf Vercruysse VOF,BE0552982548,8870,Izegem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2022-10-15
+C11189,Atheneum Ter Linde,BE0359957003,8500,Kortrijk,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2023-02-06
+C11190,Propreté Le Val SPRL,BE0429948540,5500,Dinant,BE,FR,Schoonmaakbedrijven,Wallonie,2023-09-26
+C11191,Net & Proper Desmet VOF,BE0445062625,3600,Genk,BE,NL,Schoonmaakbedrijven,Limburg,2025-07-03
+C11192,Pattyn Cleaning BV,BE0859164236,1800,Vilvoorde,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2018-08-28
+C11193,Desmet Metaal NV,BE0512409032,8800,Roeselare,BE,NL,Industrie,West-Vlaanderen Binnenland,2013-12-06
+C11194,Taverne Zonnehoek NV,BE0451726327,3900,Pelt,BE,NL,Horeca,Limburg,2012-01-23
+C11195,Restaurant La Source SRL,BE0832023537,7500,Tournai,BE,FR,Horeca,Hainaut,2026-03-09
+C11196,École Le Moulin,FR50791386961,59100,Roubaix,FR,FR,Onderwijs & overheid,Hauts-de-France,2020-09-15
+C11197,Maison de repos Les Tilleuls ASBL,BE0572106295,6000,Charleroi,BE,FR,Zorg,Hainaut,2016-07-18
+C11198,Brasserie Devos BV,BE0946619139,3700,Tongeren,BE,NL,Horeca,Limburg,2022-01-04
+C11199,Gemeente Zonnebeke,BE0947482934,2500,Lier,BE,NL,Onderwijs & overheid,Antwerpen,2015-03-03
+C11200,Schoonmaakbedrijf Maes NV,BE0431592788,2300,Turnhout,BE,NL,Schoonmaakbedrijven,Antwerpen,2014-02-22
+C11201,WZC Het Anker VZW,BE0579504229,8370,Blankenberge,BE,NL,Zorg,West-Vlaanderen Kust,2017-05-10
+C11202,Gemeente Lichtervelde,BE0446919085,8400,Oostende,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2019-05-01
+C11203,Marchal Services,BE0775868455,4800,Verviers,BE,FR,Schoonmaakbedrijven,Wallonie,2013-02-10
+C11204,Schoonmaakbedrijf Maes,BE0747858518,3700,Tongeren,BE,NL,Schoonmaakbedrijven,Limburg,2018-10-18
+C11205,Net & Proper Deprez BV,BE0457189803,9700,Oudenaarde,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2024-02-16
+C11206,Brasserie Vercruysse BV,BE0928871109,9900,Eeklo,BE,NL,Horeca,Oost-Vlaanderen,2014-10-13
+C11207,Atheneum Het Anker,BE0615445994,2400,Mol,BE,NL,Onderwijs & overheid,Antwerpen,2018-10-26
+C11208,Woonzorgcentrum De Kapel VZW,BE0989849960,8560,Wevelgem,BE,NL,Zorg,West-Vlaanderen Binnenland,2015-02-07
+C11209,Propreté Les Acacias SAS,FR56657277867,59140,Dunkerque,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2026-05-01
+C11210,Woonzorgcentrum De Zilverberk VZW,BE0548223907,3000,Leuven,BE,NL,Zorg,Vlaams-Brabant & Brussel,2015-11-28
+C11211,Dagcentrum De Meersen VZW,BE0625337818,2400,Mol,BE,NL,Zorg,Antwerpen,2013-06-03
+C11212,Commune de Huy,BE0334958519,7700,Mouscron,BE,FR,Onderwijs & overheid,Hainaut,2012-12-30
+C11213,Commune de Marche,BE0811695604,7700,Mouscron,BE,FR,Onderwijs & overheid,Hainaut,2016-05-29
+C11214,Restaurant La Source SRL,BE0850819860,4000,Liège,BE,FR,Horeca,Wallonie,2015-07-16
+C11215,Schoonmaakbedrijf Lambrecht BV,BE0339193459,9100,Sint-Niklaas,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2025-03-31
+C11216,Hotel De Vlier BV,BE0931990153,3000,Leuven,BE,NL,Horeca,Vlaams-Brabant & Brussel,2025-09-14
+C11217,Résidence Les Acacias,FR73666097533,59300,Valenciennes,FR,FR,Zorg,Hauts-de-France,2021-07-15
+C11218,WZC De Notelaar VZW,BE0793410510,9300,Aalst,BE,NL,Zorg,Oost-Vlaanderen,2015-03-12
+C11219,Restaurant Ter Linde,BE0948484212,9300,Aalst,BE,NL,Horeca,Oost-Vlaanderen,2023-08-30
+C11220,WZC Ter Linde VZW,BE0306450615,8660,De Panne,BE,NL,Zorg,West-Vlaanderen Kust,2019-02-05
+C11221,Hotel De Kapel BV,BE0723085015,8500,Kortrijk,BE,NL,Horeca,West-Vlaanderen Binnenland,2016-08-08
+C11222,Gilson Industries SPRL,BE0922420114,4000,Liège,BE,FR,Industrie,Wallonie,2013-02-21
+C11223,Verbeke Cleaning BV,BE0374502053,9100,Sint-Niklaas,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2014-07-16
+C11224,Brasserie Mertens NV,BE0268619625,9000,Gent,BE,NL,Horeca,Oost-Vlaanderen,2012-10-13
+C11225,Hotel Zonnehoek BV,BE0452427893,9900,Eeklo,BE,NL,Horeca,Oost-Vlaanderen,2020-01-16
+C11226,Nettoyage Masson SPRL,BE0308520871,5000,Namur,BE,FR,Schoonmaakbedrijven,Wallonie,2017-04-07
+C11227,Taverne De Meersen,BE0949695029,2300,Turnhout,BE,NL,Horeca,Antwerpen,2020-09-25
+C11228,Verbeke Cleaning BV,BE0997284615,8000,Brugge,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2012-11-06
+C11229,Brasserie Wouters,BE0629118838,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2023-11-25
+C11230,Taverne Het Anker VOF,BE0617060550,9700,Oudenaarde,BE,NL,Horeca,Oost-Vlaanderen,2022-12-31
+C11231,Brasserie Peeters NV,BE0722222705,9000,Gent,BE,NL,Horeca,Oost-Vlaanderen,2021-05-03
+C11232,Hotel Zonnehoek NV,BE0473176787,1800,Vilvoorde,BE,NL,Horeca,Vlaams-Brabant & Brussel,2024-04-03
+C11233,Vercruysse Food Processing VOF,BE0655237077,2800,Mechelen,BE,NL,Industrie,Antwerpen,2016-05-15
+C11234,Maes Cleaning,BE0402485860,8660,De Panne,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2021-08-03
+C11235,Métallerie Michel SRL,BE0578016664,7700,Mouscron,BE,FR,Industrie,Hainaut,2013-02-15
+C11236,Taverne De Meersen,BE0751303206,8400,Oostende,BE,NL,Horeca,West-Vlaanderen Kust,2022-03-28
+C11237,Hotel Ter Linde BV,BE0620832365,2000,Antwerpen,BE,NL,Horeca,Antwerpen,2020-12-12
+C11238,Maison de repos Les Acacias ASBL,BE0926897851,5000,Namur,BE,FR,Zorg,Wallonie,2016-07-27
+C11239,Masson Services SRL,BE0239591582,6000,Charleroi,BE,FR,Schoonmaakbedrijven,Hainaut,2019-12-13
+C11240,Net & Proper Lannoo VOF,BE0218823783,8790,Waregem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2012-05-08
+C11241,Nettoyage Deschamps SRL,BE0590511650,5000,Namur,BE,FR,Schoonmaakbedrijven,Wallonie,2022-12-29
+C11242,WZC Ter Duinen VZW,BE0870902226,8800,Roeselare,BE,NL,Zorg,West-Vlaanderen Binnenland,2013-07-26
+C11243,Hôtel Les Glycines SRL,BE0593373150,5500,Dinant,BE,FR,Horeca,Wallonie,2020-05-24
+C11244,Atheneum Zonnehoek,BE0880828591,8370,Blankenberge,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2024-10-15
+C11245,Houtbewerking Coussens VOF,BE0408358419,3300,Tienen,BE,NL,Industrie,Vlaams-Brabant & Brussel,2020-08-07
+C11246,Hoste Cleaning BV,BE0972765092,8870,Izegem,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2019-03-17
+C11247,Debruyne Metaal VOF,BE0830855775,8370,Blankenberge,BE,NL,Industrie,West-Vlaanderen Kust,2025-07-30
+C11248,Wouters Cleaning,BE0818185102,1500,Halle,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2015-12-01
+C11249,Net & Proper Lambrecht,BE0576468129,2300,Turnhout,BE,NL,Schoonmaakbedrijven,Antwerpen,2015-06-08
+C11250,Wouters Logistics,BE0718689529,3300,Tienen,BE,NL,Industrie,Vlaams-Brabant & Brussel,2021-05-07
+C11251,Gemeente Ledegem,BE0390819631,1000,Brussel,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2019-02-27
+C11252,Métallerie Delhaye SAS,FR58371472347,62000,Arras,FR,FR,Industrie,Hauts-de-France,2021-06-10
+C11253,Brasserie Simon SRL,BE0367276939,5000,Namur,BE,FR,Horeca,Wallonie,2022-12-16
+C11254,Declercq Cleaning BV,BE0279354555,2200,Herentals,BE,NL,Schoonmaakbedrijven,Antwerpen,2015-08-06
+C11255,Propreté Les Acacias,BE0927180834,4000,Liège,BE,FR,Schoonmaakbedrijven,Wallonie,2025-03-28
+C11256,Nettoyage Gilson,FR59715939782,62100,Calais,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2014-08-28
+C11257,Dagcentrum Hof ter Leie VZW,BE0812659763,3700,Tongeren,BE,NL,Zorg,Limburg,2024-12-19
+C11258,Propreté Les Tilleuls SRL,BE0775900624,7500,Tournai,BE,FR,Schoonmaakbedrijven,Hainaut,2020-05-14
+C11259,Athénée La Roseraie,FR23452773532,59200,Tourcoing,FR,FR,Onderwijs & overheid,Hauts-de-France,2026-03-31
+C11260,Athénée Beau Site,FR17958124130,59100,Roubaix,FR,FR,Onderwijs & overheid,Hauts-de-France,2022-02-05
+C11261,Hôtel Le Clos SARL,FR68780185310,59300,Valenciennes,FR,FR,Horeca,Hauts-de-France,2021-11-25
+C11262,Goossens Cleaning BV,BE0265868090,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2017-07-15
+C11263,Hotel De Meersen NV,BE0267152648,3500,Hasselt,BE,NL,Horeca,Limburg,2021-09-11
+C11264,WZC De Notelaar VZW,BE0343574790,8300,Knokke-Heist,BE,NL,Zorg,West-Vlaanderen Kust,2025-12-28
+C11265,Lambert Services,BE0255990027,5000,Namur,BE,FR,Schoonmaakbedrijven,Wallonie,2019-10-27
+C11266,Brasserie Maes BV,BE0849446816,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2025-09-04
+C11267,Brasserie Jacobs BV,BE0297712794,3500,Hasselt,BE,NL,Horeca,Limburg,2021-05-24
+C11268,Brasserie Goossens BV,BE0260836265,2400,Mol,BE,NL,Horeca,Antwerpen,2014-11-12
+C11269,Hotel Ter Linde BV,BE0625142036,3700,Tongeren,BE,NL,Horeca,Limburg,2022-03-27
+C11270,WZC Ter Linde VZW,BE0330718728,9100,Sint-Niklaas,BE,NL,Zorg,Oost-Vlaanderen,2021-08-13
+C11271,Basisschool De Kapel,BE0768447658,8560,Wevelgem,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2021-09-18
+C11272,Masson Services SPRL,BE0871478187,1300,Wavre,BE,FR,Schoonmaakbedrijven,Wallonie,2024-05-18
+C11273,Restaurant Beau Site SRL,BE0885492412,7700,Mouscron,BE,FR,Horeca,Hainaut,2013-10-19
+C11274,Brasserie Laurent,FR23633307216,59300,Valenciennes,FR,FR,Horeca,Hauts-de-France,2019-01-31
+C11275,Mertens Logistics,BE0785387818,8370,Blankenberge,BE,NL,Industrie,West-Vlaanderen Kust,2016-01-27
+C11276,Jacobs Logistics BV,BE0453579225,8790,Waregem,BE,NL,Industrie,West-Vlaanderen Binnenland,2022-04-07
+C11277,Net & Proper Coussens BV,BE0631543442,2000,Antwerpen,BE,NL,Schoonmaakbedrijven,Antwerpen,2020-07-12
+C11278,Taverne De Kapel NV,BE0669513992,8300,Knokke-Heist,BE,NL,Horeca,West-Vlaanderen Kust,2018-01-12
+C11279,Brasserie Maes NV,BE0570348815,1500,Halle,BE,NL,Horeca,Vlaams-Brabant & Brussel,2012-08-10
+C11280,Athénée Les Tilleuls,BE0492844726,6000,Charleroi,BE,FR,Onderwijs & overheid,Hainaut,2015-11-29
+C11281,Gemeente Zonnebeke,BE0524048834,8370,Blankenberge,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2022-09-15
+C11282,Brasserie Deprez NV,BE0508311078,8500,Kortrijk,BE,NL,Horeca,West-Vlaanderen Binnenland,2020-05-29
+C11283,Dagcentrum De Zilverberk VZW,BE0305908306,1930,Zaventem,BE,NL,Zorg,Vlaams-Brabant & Brussel,2014-10-11
+C11284,WZC Ter Duinen VZW,BE0337600679,8420,De Haan,BE,NL,Zorg,West-Vlaanderen Kust,2013-02-16
+C11285,Schoonmaakbedrijf Wouters,BE0988293012,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2025-09-14
+C11286,Houtbewerking Peeters BV,BE0205688302,2000,Antwerpen,BE,NL,Industrie,Antwerpen,2012-05-02
+C11287,Callewaert Logistics VOF,BE0272881289,9100,Sint-Niklaas,BE,NL,Industrie,Oost-Vlaanderen,2019-07-15
+C11288,Métallerie Deschamps SRL,BE0756148058,7100,La Louvière,BE,FR,Industrie,Hainaut,2018-07-30
+C11289,Basisschool Ter Linde,BE0283297804,8300,Knokke-Heist,BE,NL,Onderwijs & overheid,West-Vlaanderen Kust,2012-08-04
+C11290,Schoonmaakbedrijf Vanneste BV,BE0542093804,1930,Zaventem,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2023-09-28
+C11291,Brasserie Leroy SRL,BE0652457038,6000,Charleroi,BE,FR,Horeca,Hainaut,2018-04-12
+C11292,Centre de soins Beau Site ASBL,BE0284967390,5500,Dinant,BE,FR,Zorg,Wallonie,2016-08-22
+C11293,Dagcentrum Ter Duinen VZW,BE0314668097,2300,Turnhout,BE,NL,Zorg,Antwerpen,2019-07-09
+C11294,Callewaert Cleaning,BE0252589978,8420,De Haan,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2020-07-31
+C11295,Collard Industries SA,BE0337601669,4800,Verviers,BE,FR,Industrie,Wallonie,2013-02-01
+C11296,Schoonmaakbedrijf Vandamme BV,BE0254797917,2400,Mol,BE,NL,Schoonmaakbedrijven,Antwerpen,2024-09-13
+C11297,Schoonmaakbedrijf Wouters BV,BE0692181211,3000,Leuven,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2012-07-27
+C11298,Brasserie Vandamme BV,BE0571654652,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2025-07-21
+C11299,Maison de repos Beau Site ASBL,BE0759361728,1300,Wavre,BE,FR,Zorg,Wallonie,2022-05-05
+C11300,Schoonmaakbedrijf Vandamme BV,BE0434197932,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2022-04-18
+C11301,Maison de repos Les Tilleuls ASBL,BE0670995718,7100,La Louvière,BE,FR,Zorg,Hainaut,2016-09-01
+C11302,Deprez Logistics BV,BE0263513069,8620,Nieuwpoort,BE,NL,Industrie,West-Vlaanderen Kust,2019-08-26
+C11303,Net & Proper Dumon BV,BE0542411231,9000,Gent,BE,NL,Schoonmaakbedrijven,Oost-Vlaanderen,2023-10-14
+C11304,Hotel Zonnehoek BV,BE0623285079,9300,Aalst,BE,NL,Horeca,Oost-Vlaanderen,2016-12-19
+C11305,Métallerie Simon SARL,FR79799718139,59100,Roubaix,FR,FR,Industrie,Hauts-de-France,2017-01-30
+C11306,WZC De Meersen VZW,BE0609280160,8300,Knokke-Heist,BE,NL,Zorg,West-Vlaanderen Kust,2017-04-02
+C11307,Métallerie Simon SA,BE0845408943,7100,La Louvière,BE,FR,Industrie,Hainaut,2020-12-07
+C11308,Atheneum De Meersen,BE0435235040,8900,Ieper,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2012-09-03
+C11309,Vermeulen Food Processing NV,BE0548683171,1930,Zaventem,BE,NL,Industrie,Vlaams-Brabant & Brussel,2024-05-30
+C11310,WZC Het Anker VZW,BE0910153770,8790,Waregem,BE,NL,Zorg,West-Vlaanderen Binnenland,2019-09-04
+C11311,WZC De Kapel VZW,BE0612855007,9200,Dendermonde,BE,NL,Zorg,Oost-Vlaanderen,2021-12-23
+C11312,Brasserie Vercruysse BV,BE0673711817,8560,Wevelgem,BE,NL,Horeca,West-Vlaanderen Binnenland,2015-04-11
+C11313,Houtbewerking Bossuyt VOF,BE0695053104,8800,Roeselare,BE,NL,Industrie,West-Vlaanderen Binnenland,2021-04-13
+C11314,Bossuyt Food Processing,BE0629763491,9100,Sint-Niklaas,BE,NL,Industrie,Oost-Vlaanderen,2015-05-18
+C11315,Masson Industries SA,BE0264057061,4000,Liège,BE,FR,Industrie,Wallonie,2017-12-01
+C11316,Commune de Spa,BE0519835074,4000,Liège,BE,FR,Onderwijs & overheid,Wallonie,2020-07-18
+C11317,Woonzorgcentrum De Zilverberk VZW,BE0378394723,2800,Mechelen,BE,NL,Zorg,Antwerpen,2023-09-20
+C11318,Dagcentrum Hof ter Leie VZW,BE0856048853,8620,Nieuwpoort,BE,NL,Zorg,West-Vlaanderen Kust,2019-06-23
+C11319,Dagcentrum Hof ter Leie VZW,BE0680484989,8900,Ieper,BE,NL,Zorg,West-Vlaanderen Binnenland,2022-11-27
+C11320,Schoonmaakbedrijf Claeys VOF,BE0531415389,2500,Lier,BE,NL,Schoonmaakbedrijven,Antwerpen,2016-02-15
+C11321,Propreté La Roseraie SRL,BE0219091227,7100,La Louvière,BE,FR,Schoonmaakbedrijven,Hainaut,2015-04-23
+C11322,Net & Proper Willaert VOF,BE0852737985,1500,Halle,BE,NL,Schoonmaakbedrijven,Vlaams-Brabant & Brussel,2012-08-17
+C11323,Propreté Beau Site,FR54896105899,59300,Valenciennes,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2020-01-28
+C11324,WZC De Notelaar VZW,BE0818701279,9700,Oudenaarde,BE,NL,Zorg,Oost-Vlaanderen,2015-08-01
+C11325,WZC Ter Linde VZW,BE0400116387,8900,Ieper,BE,NL,Zorg,West-Vlaanderen Binnenland,2021-03-19
+C11326,WZC De Meersen VZW,BE0710874101,9300,Aalst,BE,NL,Zorg,Oost-Vlaanderen,2013-01-09
+C11327,Schoonmaakbedrijf Vandamme,BE0511144666,2000,Antwerpen,BE,NL,Schoonmaakbedrijven,Antwerpen,2015-09-22
+C11328,Brasserie Desmet BV,BE0941760231,8790,Waregem,BE,NL,Horeca,West-Vlaanderen Binnenland,2019-08-21
+C11329,Hotel Hof ter Leie,BE0957628639,8370,Blankenberge,BE,NL,Horeca,West-Vlaanderen Kust,2019-11-10
+C11330,Lefebvre Services,BE0628426673,7700,Mouscron,BE,FR,Schoonmaakbedrijven,Hainaut,2018-07-15
+C11331,Woonzorgcentrum Ter Linde VZW,BE0684266902,8420,De Haan,BE,NL,Zorg,West-Vlaanderen Kust,2022-10-07
+C11332,Gemeente Ledegem,BE0460156419,1500,Halle,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2019-04-07
+C11333,Hôtel La Source SARL,FR96820012808,59000,Lille,FR,FR,Horeca,Hauts-de-France,2015-11-24
+C11334,Hôtel Les Acacias SPRL,BE0512532756,7700,Mouscron,BE,FR,Horeca,Hainaut,2016-12-28
+C11335,Maison de repos La Source,FR92461319934,59100,Roubaix,FR,FR,Zorg,Hauts-de-France,2016-09-28
+C11336,Schoonmaakbedrijf Lambrecht NV,BE0218719360,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2020-01-10
+C11337,Nettoyage Delhaye SA,FR41557248552,59100,Roubaix,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2024-04-14
+C11338,WZC Het Anker VZW,BE0730868571,8560,Wevelgem,BE,NL,Zorg,West-Vlaanderen Binnenland,2023-09-18
+C11339,WZC Het Anker VZW,BE0989688129,9700,Oudenaarde,BE,NL,Zorg,Oost-Vlaanderen,2022-05-16
+C11340,Propreté Le Clos SPRL,BE0554624620,5500,Dinant,BE,FR,Schoonmaakbedrijven,Wallonie,2022-05-04
+C11341,Woonzorgcentrum Zonnehoek VZW,BE0403003722,8500,Kortrijk,BE,NL,Zorg,West-Vlaanderen Binnenland,2014-02-20
+C11342,Dagcentrum Ter Linde VZW,BE0301838660,8370,Blankenberge,BE,NL,Zorg,West-Vlaanderen Kust,2014-02-06
+C11343,Atheneum Zonnehoek,BE0901728034,9100,Sint-Niklaas,BE,NL,Onderwijs & overheid,Oost-Vlaanderen,2019-08-13
+C11344,Nettoyage Deschamps SPRL,BE0749427443,5500,Dinant,BE,FR,Schoonmaakbedrijven,Wallonie,2012-04-18
+C11345,Centre de soins La Source,FR25918912497,59000,Lille,FR,FR,Zorg,Hauts-de-France,2014-09-17
+C11346,Brasserie Wouters VOF,BE0545325090,2400,Mol,BE,NL,Horeca,Antwerpen,2019-02-19
+C11347,Net & Proper Pattyn NV,BE0728437633,8300,Knokke-Heist,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Kust,2024-02-08
+C11348,Commune de Marche,FR80706065189,62000,Arras,FR,FR,Onderwijs & overheid,Hauts-de-France,2015-05-22
+C11349,Hotel De Kapel BV,BE0216386709,2400,Mol,BE,NL,Horeca,Antwerpen,2012-02-25
+C11350,Métallerie Fontaine SAS,FR11303197491,59100,Roubaix,FR,FR,Industrie,Hauts-de-France,2023-08-21
+C11351,WZC De Meersen VZW,BE0809680774,3000,Leuven,BE,NL,Zorg,Vlaams-Brabant & Brussel,2015-08-21
+C11352,Brasserie Lambert SAS,FR01899898452,59000,Lille,FR,FR,Horeca,Hauts-de-France,2021-10-17
+C11353,Net & Proper Declercq NV,BE0517796094,2800,Mechelen,BE,NL,Schoonmaakbedrijven,Antwerpen,2021-08-05
+C11354,Centre de soins Les Acacias,FR83959490591,59140,Dunkerque,FR,FR,Zorg,Hauts-de-France,2012-11-21
+C11355,WZC De Notelaar VZW,BE0474384537,8660,De Panne,BE,NL,Zorg,West-Vlaanderen Kust,2012-07-05
+C11356,Atheneum De Notelaar,BE0805113262,1500,Halle,BE,NL,Onderwijs & overheid,Vlaams-Brabant & Brussel,2026-05-19
+C11357,Net & Proper Vandenberghe NV,BE0202678926,8900,Ieper,BE,NL,Schoonmaakbedrijven,West-Vlaanderen Binnenland,2012-05-04
+C11358,Hotel De Vlier,BE0948624762,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2013-10-27
+C11359,Mertens Logistics VOF,BE0779956511,2200,Herentals,BE,NL,Industrie,Antwerpen,2016-06-07
+C11360,Centre de soins Le Val,FR15716314349,62000,Arras,FR,FR,Zorg,Hauts-de-France,2015-10-11
+C11361,Zorggroep Ter Wilgen – campus Noord VZW,BE0428224415,8500,Kortrijk,BE,NL,Zorg,West-Vlaanderen Binnenland,2020-01-03
+C11362,Zorggroep Ter Wilgen – campus Zuid VZW,BE0428224415,8700,Tielt,BE,NL,Zorg,West-Vlaanderen Binnenland,2015-01-09
+C11363,Zorggroep Ter Wilgen – campus Centrum VZW,BE0428224415,8790,Waregem,BE,NL,Zorg,West-Vlaanderen Binnenland,2021-05-06
+C11364,Zorggroep Merelhof – site Gent VZW,BE0522392411,9200,Dendermonde,BE,NL,Zorg,Oost-Vlaanderen,2016-09-11
+C11365,Zorggroep Merelhof – site Aalst VZW,BE0522392411,9300,Aalst,BE,NL,Zorg,Oost-Vlaanderen,2014-07-06
+C11366,Hotelgroep Duinenzicht – Oostende NV,BE0637003156,8660,De Panne,BE,NL,Horeca,West-Vlaanderen Kust,2022-07-25
+C11367,Hotelgroep Duinenzicht – Knokke-Heist NV,BE0637003156,8620,Nieuwpoort,BE,NL,Horeca,West-Vlaanderen Kust,2020-08-08
+C11368,Hotelgroep Duinenzicht – De Panne NV,BE0637003156,8420,De Haan,BE,NL,Horeca,West-Vlaanderen Kust,2016-02-23
+C11369,Vonkel Facility – regio Antwerpen NV,BE0895455696,2400,Mol,BE,NL,Schoonmaakbedrijven,Antwerpen,2022-03-23
+C11370,Vonkel Facility – regio Mechelen NV,BE0895455696,2300,Turnhout,BE,NL,Schoonmaakbedrijven,Antwerpen,2018-11-10
+C11371,Groupe Santé Valmeuse – site Namur ASBL,BE0531829719,4000,Liège,BE,FR,Zorg,Wallonie,2021-12-29
+C11372,Groupe Santé Valmeuse – site Dinant ASBL,BE0531829719,5000,Namur,BE,FR,Zorg,Wallonie,2017-12-25
+C11373,Scholengroep Ter Beke – Roeselare,BE0878573243,8800,Roeselare,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2018-04-21
+C11374,Scholengroep Ter Beke – Izegem,BE0878573243,8900,Ieper,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2023-11-30
+C11375,Scholengroep Ter Beke – Tielt,BE0878573243,8870,Izegem,BE,NL,Onderwijs & overheid,West-Vlaanderen Binnenland,2017-02-14
+C11376,Netteté Delnord – Lille SAS,FR37338297758,62100,Calais,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2022-12-27
+C11377,Netteté Delnord – Roubaix SAS,FR37338297758,59000,Lille,FR,FR,Schoonmaakbedrijven,Hauts-de-France,2016-03-28
+C11378,Brasserie Groep Lindevoort – Leuven BV,BE0841814104,3300,Tienen,BE,NL,Horeca,Vlaams-Brabant & Brussel,2014-05-08
+C11379,Brasserie Groep Lindevoort – Brussel BV,BE0841814104,1000,Brussel,BE,NL,Horeca,Vlaams-Brabant & Brussel,2015-06-08
+C99999,Vennaert Personeelsshop (intern),,8800,Roeselare,BE,NL,Intern,West-Vlaanderen Binnenland,2012-01-01

@@ -1,0 +1,7 @@
+/// Row-level security: an account manager sees only the customers, sales and pipeline of their own rep record.
+/// Members are assigned in the Power BI service (Entra ID group "PBI-Sales-Accountmanagers"), not in the model.
+role Accountmanager
+	modelPermission: read
+
+	tablePermission dim_rep = dim_rep[email] = USERPRINCIPALNAME ()
+

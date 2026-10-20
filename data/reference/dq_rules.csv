@@ -1,0 +1,14 @@
+rule_id,title,severity,owner,fix
+CRM-01,Mogelijk dubbel account,blocking,Data analyst + accounteigenaar,Beoordelen in de duplicatenwachtrij; samenvoegen volgens de overlevingsregels
+CRM-02,Btw-nummer met foute controlecijfers,blocking,Accounteigenaar,Juist nummer opvragen of opzoeken in de KBO; nooit gokken
+CRM-03,Klant zonder btw-nummer,warning,Accounteigenaar,Btw-nummer aanvullen bij de volgende order
+CRM-04,ERP-klant niet gekoppeld aan CRM-account,blocking,Data analyst,Koppeling voorstellen als het btw-nummer uniek overeenkomt; anders manueel
+CRM-05,Eigenaar is uit dienst,blocking,Sales manager,Account overzetten naar de huidige ERP-verkoper van die klant
+CRM-06,Geen e-mail en geen telefoon,warning,Accounteigenaar,Contactgegevens aanvullen; anders account op inactief na 12 maanden
+CRM-07,Postcode past niet bij het land,warning,Data analyst,Formaat corrigeren (BE 4 cijfers / FR 5 cijfers)
+OPP-01,Open opportunity zonder update > 60 dagen,warning,Accounteigenaar,Bijwerken of afsluiten met reden
+OPP-02,Open opportunity met verlopen afsluitdatum,warning,Accounteigenaar,Nieuwe datum of afsluiten met reden
+OPP-03,Offerte of onderhandeling zonder bedrag,blocking,Accounteigenaar,Bedrag invullen; zonder bedrag telt de deal niet mee in de gewogen pipeline
+ERP-01,Factuurlijn zonder verkoper,warning,Data analyst,Opgelost in het model: verkoper op factuurdatum uit de ERP-historiek
+ERP-02,Artikel zonder categorie,warning,Aankoop,Categorie toekennen in de artikelfiche
+ERP-03,Artikel met kostprijs 0,blocking,Aankoop,Kostprijs corrigeren; tot dan toont elke verkoop van dat artikel 100 % marge

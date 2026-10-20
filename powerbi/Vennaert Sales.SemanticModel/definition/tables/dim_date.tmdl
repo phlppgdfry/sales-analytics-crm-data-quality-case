@@ -1,0 +1,58 @@
+/// Kalender 2025–2026; gemarkeerd als datumtabel
+table dim_date
+	dataCategory: Time
+
+	column date_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: date_key
+
+	column date
+		dataType: dateTime
+		isKey
+		formatString: dd/mm/yyyy
+		summarizeBy: none
+		sourceColumn: date
+
+	column year
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: year
+
+	column quarter
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: quarter
+
+	column month
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: month
+
+	column year_month
+		dataType: string
+		summarizeBy: none
+		sourceColumn: year_month
+
+	column month_short_nl
+		dataType: string
+		summarizeBy: none
+		sourceColumn: month_short_nl
+		sortByColumn: month
+
+	column is_weekday
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: is_weekday
+
+	partition dim_date = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(Server, Database),
+				    Data = Source{[Schema = "dwh", Item = "dim_date"]}[Data]
+				in
+				    Data
+

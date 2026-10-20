@@ -1,0 +1,5 @@
+/// SQL Server that hosts the data warehouse (the same schema as sql/tsql/ in this repository)
+expression Server = "sql-dwh.vennaert.local" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+
+expression Database = "VennaertDWH" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+

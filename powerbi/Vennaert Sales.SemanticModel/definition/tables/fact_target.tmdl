@@ -1,0 +1,35 @@
+/// Target per verkoper per maand (uit het Excel-bestand van de sales manager)
+table fact_target
+
+	column rep_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: rep_key
+
+	column year_month
+		dataType: string
+		summarizeBy: none
+		sourceColumn: year_month
+
+	column date_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: date_key
+
+	column target_amount
+		dataType: decimal
+		formatString: #,0.00
+		summarizeBy: sum
+		sourceColumn: target_amount
+
+	partition fact_target = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(Server, Database),
+				    Data = Source{[Schema = "dwh", Item = "fact_target"]}[Data]
+				in
+				    Data
+

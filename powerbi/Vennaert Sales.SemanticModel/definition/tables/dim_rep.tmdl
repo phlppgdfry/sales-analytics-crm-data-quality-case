@@ -1,0 +1,59 @@
+/// Verkopers; rij 0 = 'Niet toegewezen'. E-mail stuurt de beveiliging op rijniveau
+table dim_rep
+
+	column rep_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: rep_key
+
+	column rep_code
+		dataType: string
+		summarizeBy: none
+		sourceColumn: rep_code
+
+	column rep_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: rep_name
+
+	column region
+		dataType: string
+		summarizeBy: none
+		sourceColumn: region
+
+	column team
+		dataType: string
+		summarizeBy: none
+		sourceColumn: team
+
+	column email
+		dataType: string
+		summarizeBy: none
+		sourceColumn: email
+
+	column start_date
+		dataType: string
+		summarizeBy: none
+		sourceColumn: start_date
+
+	column end_date
+		dataType: string
+		summarizeBy: none
+		sourceColumn: end_date
+
+	column is_active
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: is_active
+
+	partition dim_rep = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(Server, Database),
+				    Data = Source{[Schema = "dwh", Item = "dim_rep"]}[Data]
+				in
+				    Data
+

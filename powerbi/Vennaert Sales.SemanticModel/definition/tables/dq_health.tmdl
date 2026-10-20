@@ -1,0 +1,32 @@
+/// CRM-gezondheid per momentopname
+table dq_health
+
+	column snapshot
+		dataType: string
+		summarizeBy: none
+		sourceColumn: snapshot
+
+	column accounts_in_scope
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: accounts_in_scope
+
+	column accounts_clean
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: accounts_clean
+
+	column health_pct
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: health_pct
+
+	partition dq_health = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(Server, Database),
+				    Data = Source{[Schema = "dwh", Item = "dq_health"]}[Data]
+				in
+				    Data
+

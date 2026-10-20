@@ -1,0 +1,74 @@
+/// ERP-klanten met huidige verkoper en gekoppeld CRM-account (na samenvoegen)
+table dim_customer
+
+	column customer_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: customer_key
+
+	column customer_no
+		dataType: string
+		summarizeBy: none
+		sourceColumn: customer_no
+
+	column customer_name
+		dataType: string
+		summarizeBy: none
+		sourceColumn: customer_name
+
+	column segment
+		dataType: string
+		summarizeBy: none
+		sourceColumn: segment
+
+	column territory
+		dataType: string
+		summarizeBy: none
+		sourceColumn: territory
+
+	column postcode
+		dataType: string
+		summarizeBy: none
+		sourceColumn: postcode
+
+	column city
+		dataType: string
+		summarizeBy: none
+		sourceColumn: city
+
+	column country
+		dataType: string
+		summarizeBy: none
+		sourceColumn: country
+
+	column language
+		dataType: string
+		summarizeBy: none
+		sourceColumn: language
+
+	column is_internal
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: is_internal
+
+	column current_rep_code
+		dataType: string
+		summarizeBy: none
+		sourceColumn: current_rep_code
+
+	column crm_account_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: crm_account_id
+
+	partition dim_customer = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(Server, Database),
+				    Data = Source{[Schema = "dwh", Item = "dim_customer"]}[Data]
+				in
+				    Data
+

@@ -1,0 +1,386 @@
+sku,description,category,brand,unit_cost,list_price,active
+SKU-10001,Reinigingsmiddelen Compact 83,Reinigingsmiddelen,Tersa,5.87,10.67,1
+SKU-10002,Reinigingsmiddelen Compact 80,Reinigingsmiddelen,Ecolin,34.64,57.37,1
+SKU-10003,Reinigingsmiddelen Sensitive 94,Reinigingsmiddelen,Tersa,15.43,27.55,1
+SKU-10004,Reinigingsmiddelen Compact 57,Reinigingsmiddelen,Klaro,27.51,47.01,1
+SKU-10005,Reinigingsmiddelen Plus 13,Reinigingsmiddelen,Brisant,2.03,4.14,1
+SKU-10006,Reinigingsmiddelen Maxi 87,Reinigingsmiddelen,Hygios,2.81,4.64,1
+SKU-10007,Reinigingsmiddelen Plus 49,Reinigingsmiddelen,Nordwipe,8.12,15.77,1
+SKU-10008,Reinigingsmiddelen Plus 12,Reinigingsmiddelen,Ecolin,16.07,32.76,1
+SKU-10009,Reinigingsmiddelen Eco 83,Reinigingsmiddelen,Nordwipe,17.76,34.13,1
+SKU-10010,Reinigingsmiddelen Sensitive 91,Reinigingsmiddelen,Hygios,23.09,44.12,1
+SKU-10011,Reinigingsmiddelen Maxi 75,Reinigingsmiddelen,Ecolin,13.13,24.36,1
+SKU-10012,Reinigingsmiddelen Compact 97,Reinigingsmiddelen,Tersa,15.84,31.91,1
+SKU-10013,Reinigingsmiddelen Compact 34,Reinigingsmiddelen,Tersa,20.64,37.61,1
+SKU-10014,Reinigingsmiddelen Maxi 66,Reinigingsmiddelen,Ecolin,16.78,27.52,1
+SKU-10015,Reinigingsmiddelen Sensitive 17,Reinigingsmiddelen,Tersa,27.52,49.09,1
+SKU-10016,Reinigingsmiddelen XL 14,Reinigingsmiddelen,Nordwipe,3.9,6.74,1
+SKU-10017,Reinigingsmiddelen Maxi 30,Reinigingsmiddelen,Tersa,21.2,38.85,1
+SKU-10018,Reinigingsmiddelen Maxi 87,Reinigingsmiddelen,Brisant,30.44,53.61,1
+SKU-10019,Reinigingsmiddelen Compact 33,Reinigingsmiddelen,Ecolin,27.04,44.01,1
+SKU-10020,Reinigingsmiddelen Compact 83,Reinigingsmiddelen,Ecolin,16.44,26.52,1
+SKU-10021,Reinigingsmiddelen Maxi 56,Reinigingsmiddelen,Klaro,25.55,43.11,1
+SKU-10022,Reinigingsmiddelen Pro 20,Reinigingsmiddelen,Nordwipe,10.6,20.48,1
+SKU-10023,Reinigingsmiddelen Sensitive 67,Reinigingsmiddelen,Brisant,32.81,53.39,1
+SKU-10024,Reinigingsmiddelen XL 63,Reinigingsmiddelen,Brisant,12.27,24.16,1
+SKU-10025,Reinigingsmiddelen Sensitive 56,Reinigingsmiddelen,Ecolin,19.44,32.63,1
+SKU-10026,Reinigingsmiddelen Plus 41,Reinigingsmiddelen,Brisant,19.96,41.18,1
+SKU-10027,Reinigingsmiddelen XL 92,Reinigingsmiddelen,Tersa,27.33,55.34,1
+SKU-10028,Reinigingsmiddelen Eco 55,Reinigingsmiddelen,Tersa,29.88,57.88,1
+SKU-10029,Reinigingsmiddelen XL 35,Reinigingsmiddelen,Brisant,27.38,44.77,1
+SKU-10030,Reinigingsmiddelen Sensitive 53,Reinigingsmiddelen,Klaro,12.54,24.73,1
+SKU-10031,Reinigingsmiddelen Pro 58,Reinigingsmiddelen,Ecolin,14.06,29.17,1
+SKU-10032,Reinigingsmiddelen Compact 26,Reinigingsmiddelen,Klaro,20.67,34.61,1
+SKU-10033,Reinigingsmiddelen Compact 35,Reinigingsmiddelen,Nordwipe,5.24,10.77,1
+SKU-10034,Reinigingsmiddelen Pro 41,Reinigingsmiddelen,Nordwipe,0.0,46.43,1
+SKU-10035,Reinigingsmiddelen Sensitive 63,Reinigingsmiddelen,Nordwipe,21.54,36.65,1
+SKU-10036,Reinigingsmiddelen Eco 61,Reinigingsmiddelen,Ecolin,22.13,44.35,1
+SKU-10037,Reinigingsmiddelen XL 65,Reinigingsmiddelen,Hygios,6.4,11.35,1
+SKU-10038,Reinigingsmiddelen Eco 76,Reinigingsmiddelen,Hygios,5.01,8.73,1
+SKU-10039,Reinigingsmiddelen Eco 67,Reinigingsmiddelen,Tersa,17.34,32.43,1
+SKU-10040,Reinigingsmiddelen Pro 50,Reinigingsmiddelen,Vennaert Pro,7.24,15.02,1
+SKU-10041,Reinigingsmiddelen Plus 99,Reinigingsmiddelen,Vennaert Pro,3.64,6.88,1
+SKU-10042,Reinigingsmiddelen XL 39,Reinigingsmiddelen,Brisant,2.97,5.43,1
+SKU-10043,Reinigingsmiddelen Maxi 74,Reinigingsmiddelen,Ecolin,11.06,22.26,1
+SKU-10044,Reinigingsmiddelen Compact 27,Reinigingsmiddelen,Brisant,24.62,49.08,1
+SKU-10045,Reinigingsmiddelen Eco 87,Reinigingsmiddelen,Nordwipe,21.18,38.91,1
+SKU-10046,Reinigingsmiddelen Eco 83,Reinigingsmiddelen,Klaro,4.23,7.89,1
+SKU-10047,Reinigingsmiddelen Sensitive 07,Reinigingsmiddelen,Brisant,3.63,6.53,1
+SKU-10048,Reinigingsmiddelen Maxi 92,Reinigingsmiddelen,Nordwipe,29.97,52.61,1
+SKU-10049,Reinigingsmiddelen Compact 28,Reinigingsmiddelen,Tersa,26.48,53.16,1
+SKU-10050,Reinigingsmiddelen Eco 21,Reinigingsmiddelen,Nordwipe,32.34,53.43,1
+SKU-10051,Reinigingsmiddelen Maxi 69,Reinigingsmiddelen,Brisant,27.41,51.28,1
+SKU-10052,Reinigingsmiddelen Eco 45,Reinigingsmiddelen,Klaro,28.08,52.61,1
+SKU-10053,Reinigingsmiddelen Sensitive 54,Reinigingsmiddelen,Hygios,10.31,18.75,1
+SKU-10054,Reinigingsmiddelen Maxi 57,Reinigingsmiddelen,Vennaert Pro,15.87,30.19,1
+SKU-10055,Reinigingsmiddelen Plus 13,Reinigingsmiddelen,Tersa,18.56,33.53,1
+SKU-10056,Reinigingsmiddelen Pro 59,Reinigingsmiddelen,Nordwipe,7.69,16.0,1
+SKU-10057,Reinigingsmiddelen Sensitive 86,Reinigingsmiddelen,Klaro,12.52,22.5,1
+SKU-10058,Reinigingsmiddelen Eco 46,Reinigingsmiddelen,Ecolin,30.61,57.83,1
+SKU-10059,Reinigingsmiddelen Eco 15,Reinigingsmiddelen,Ecolin,25.1,42.48,1
+SKU-10060,Reinigingsmiddelen Compact 94,Reinigingsmiddelen,Klaro,24.6,44.1,1
+SKU-10061,Reinigingsmiddelen XL 72,Reinigingsmiddelen,Klaro,20.07,35.91,1
+SKU-10062,Reinigingsmiddelen Maxi 22,Reinigingsmiddelen,Vennaert Pro,5.0,9.68,1
+SKU-10063,Reinigingsmiddelen XL 24,Reinigingsmiddelen,Nordwipe,24.82,42.33,1
+SKU-10064,Reinigingsmiddelen Plus 76,Reinigingsmiddelen,Tersa,21.64,39.28,1
+SKU-10065,Reinigingsmiddelen Eco 34,Reinigingsmiddelen,Hygios,4.63,7.58,1
+SKU-10066,Reinigingsmiddelen Sensitive 33,Reinigingsmiddelen,Brisant,4.04,7.52,1
+SKU-10067,Reinigingsmiddelen Eco 03,Reinigingsmiddelen,Hygios,28.33,58.06,1
+SKU-10068,Reinigingsmiddelen Compact 45,Reinigingsmiddelen,Hygios,6.27,10.89,1
+SKU-10069,Reinigingsmiddelen XL 92,Reinigingsmiddelen,Ecolin,26.93,47.67,1
+SKU-10070,Reinigingsmiddelen Compact 28,Reinigingsmiddelen,Ecolin,3.29,6.13,1
+SKU-10071,Reinigingsmiddelen Pro 88,Reinigingsmiddelen,Hygios,18.46,29.91,1
+SKU-10072,Reinigingsmiddelen Plus 50,Reinigingsmiddelen,Hygios,30.05,52.23,1
+SKU-10073,Reinigingsmiddelen XL 92,Reinigingsmiddelen,Brisant,30.22,57.04,1
+SKU-10074,Reinigingsmiddelen Plus 38,Reinigingsmiddelen,Nordwipe,27.63,53.19,1
+SKU-10075,Reinigingsmiddelen Pro 39,Reinigingsmiddelen,Tersa,34.13,57.66,1
+SKU-10076,Reinigingsmiddelen Pro 70,Reinigingsmiddelen,Hygios,15.36,27.33,1
+SKU-10077,Reinigingsmiddelen Pro 21,Reinigingsmiddelen,Ecolin,7.35,15.06,1
+SKU-10078,Reinigingsmiddelen Compact 46,Reinigingsmiddelen,Ecolin,5.27,10.87,1
+SKU-10079,Reinigingsmiddelen Pro 55,Reinigingsmiddelen,Ecolin,23.03,40.28,1
+SKU-10080,Reinigingsmiddelen Maxi 31,Reinigingsmiddelen,Tersa,5.96,11.07,1
+SKU-10081,Papier Eco 24,Papier & dispensers,Ecolin,37.06,63.57,1
+SKU-10082,Papier Compact 88,Papier & dispensers,Ecolin,7.73,11.75,1
+SKU-10083,Papier Eco 30,Papier & dispensers,Vennaert Pro,35.52,60.39,1
+SKU-10084,Papier Maxi 34,Papier & dispensers,Hygios,6.43,10.19,1
+SKU-10085,Papier Pro 23,Papier & dispensers,Ecolin,16.94,26.3,1
+SKU-10086,Papier Sensitive 66,Papier & dispensers,Tersa,8.85,13.02,1
+SKU-10087,Papier Sensitive 96,Papier & dispensers,Hygios,27.74,43.01,1
+SKU-10088,Papier XL 32,Papier & dispensers,Brisant,10.43,15.43,1
+SKU-10089,Papier Compact 20,Papier & dispensers,Nordwipe,9.16,15.7,1
+SKU-10090,Papier Plus 30,Papier & dispensers,Ecolin,77.82,127.6,1
+SKU-10091,Papier Eco 48,Papier & dispensers,Hygios,70.64,117.43,1
+SKU-10092,Papier Sensitive 61,Papier & dispensers,Tersa,42.45,68.62,1
+SKU-10093,Papier Eco 81,Papier & dispensers,Brisant,57.83,96.89,1
+SKU-10094,Papier Plus 67,Papier & dispensers,Nordwipe,19.36,28.3,1
+SKU-10095,Papier Eco 11,Papier & dispensers,Hygios,34.39,61.9,1
+SKU-10096,Papier Eco 92,Papier & dispensers,Nordwipe,37.74,57.21,1
+SKU-10097,Papier Compact 28,Papier & dispensers,Tersa,14.6,21.3,1
+SKU-10098,Papier Compact 06,Papier & dispensers,Brisant,76.5,120.03,1
+SKU-10099,Papier Compact 83,Papier & dispensers,Nordwipe,40.45,58.24,1
+SKU-10100,Papier Pro 19,Papier & dispensers,Nordwipe,18.08,28.86,1
+SKU-10101,Papier Plus 06,Papier & dispensers,Nordwipe,37.54,59.38,1
+SKU-10102,Papier Eco 38,Papier & dispensers,Hygios,57.62,86.24,1
+SKU-10103,Papier Maxi 25,Papier & dispensers,Nordwipe,47.94,79.43,1
+SKU-10104,Papier XL 62,Papier & dispensers,Brisant,61.71,91.14,1
+SKU-10105,Papier Sensitive 69,,Klaro,36.59,54.95,1
+SKU-10106,Papier Plus 70,Papier & dispensers,Klaro,57.27,103.3,1
+SKU-10107,Papier Compact 86,Papier & dispensers,Nordwipe,20.25,29.64,1
+SKU-10108,Papier Plus 09,Papier & dispensers,Hygios,51.14,92.93,1
+SKU-10109,Papier Compact 79,Papier & dispensers,Klaro,30.2,47.95,1
+SKU-10110,Papier Maxi 14,Papier & dispensers,Tersa,17.23,24.7,1
+SKU-10111,Papier Plus 79,Papier & dispensers,Hygios,66.48,118.51,1
+SKU-10112,Papier Maxi 16,Papier & dispensers,Ecolin,56.29,93.48,1
+SKU-10113,Papier XL 59,Papier & dispensers,Ecolin,51.58,76.5,1
+SKU-10114,Papier Pro 64,Papier & dispensers,Tersa,30.01,53.56,1
+SKU-10115,Papier Eco 22,Papier & dispensers,Hygios,32.61,49.19,1
+SKU-10116,Papier Plus 93,Papier & dispensers,Nordwipe,41.29,65.1,1
+SKU-10117,Papier Eco 26,Papier & dispensers,Tersa,73.96,121.16,1
+SKU-10118,Papier Plus 98,Papier & dispensers,Tersa,46.99,69.12,1
+SKU-10119,Papier Compact 49,Papier & dispensers,Klaro,36.58,54.21,1
+SKU-10120,Papier XL 95,Papier & dispensers,Klaro,18.77,28.38,1
+SKU-10121,Papier Pro 41,Papier & dispensers,Hygios,38.92,64.93,1
+SKU-10122,Papier Eco 70,Papier & dispensers,Nordwipe,73.41,119.04,1
+SKU-10123,Papier Eco 72,Papier & dispensers,Tersa,26.03,43.4,1
+SKU-10124,Papier Maxi 82,Papier & dispensers,Brisant,14.42,24.27,1
+SKU-10125,Papier Plus 87,Papier & dispensers,Brisant,38.41,60.73,1
+SKU-10126,Papier Maxi 87,Papier & dispensers,Tersa,34.2,52.46,1
+SKU-10127,Papier Sensitive 70,Papier & dispensers,Ecolin,61.9,91.55,1
+SKU-10128,Papier Plus 08,Papier & dispensers,Brisant,21.53,35.71,1
+SKU-10129,Papier Compact 90,Papier & dispensers,Hygios,57.16,103.63,1
+SKU-10130,Papier Compact 54,Papier & dispensers,Tersa,16.07,25.24,1
+SKU-10131,Papier Maxi 44,Papier & dispensers,Vennaert Pro,68.8,110.72,1
+SKU-10132,Papier Pro 85,Papier & dispensers,Tersa,7.55,12.95,1
+SKU-10133,Papier Sensitive 27,Papier & dispensers,Tersa,79.27,132.34,1
+SKU-10134,Papier XL 48,Papier & dispensers,Vennaert Pro,40.43,68.34,1
+SKU-10135,Papier Sensitive 02,Papier & dispensers,Vennaert Pro,47.04,81.36,1
+SKU-10136,Papier Maxi 27,Papier & dispensers,Ecolin,19.88,28.57,1
+SKU-10137,Papier Pro 73,Papier & dispensers,Brisant,63.52,96.85,1
+SKU-10138,Papier Compact 18,Papier & dispensers,Vennaert Pro,66.5,101.96,1
+SKU-10139,Papier Pro 24,Papier & dispensers,Ecolin,8.11,11.74,1
+SKU-10140,Papier Maxi 85,Papier & dispensers,Nordwipe,73.26,104.92,1
+SKU-10141,Papier Compact 62,Papier & dispensers,Hygios,31.94,53.05,1
+SKU-10142,Papier Plus 05,Papier & dispensers,Nordwipe,43.41,72.46,1
+SKU-10143,Papier Sensitive 47,Papier & dispensers,Hygios,40.21,72.68,1
+SKU-10144,Papier Plus 36,Papier & dispensers,Ecolin,73.41,118.42,1
+SKU-10145,Papier Eco 75,Papier & dispensers,Vennaert Pro,72.7,119.18,1
+SKU-10146,Papier XL 93,Papier & dispensers,Nordwipe,78.52,115.57,1
+SKU-10147,Papier Sensitive 39,Papier & dispensers,Brisant,62.15,95.27,1
+SKU-10148,Papier Compact 77,Papier & dispensers,Hygios,60.59,89.37,1
+SKU-10149,Papier Plus 24,Papier & dispensers,Vennaert Pro,47.11,72.58,1
+SKU-10150,Papier Eco 98,Papier & dispensers,Hygios,94.13,138.53,1
+SKU-10151,Handhygiëne Compact 67,Handhygiëne,Tersa,25.84,43.49,1
+SKU-10152,Handhygiëne Compact 28,Handhygiëne,Vennaert Pro,8.89,19.08,1
+SKU-10153,Handhygiëne Compact 68,Handhygiëne,Klaro,10.82,22.48,1
+SKU-10154,Handhygiëne Plus 92,Handhygiëne,Brisant,13.97,24.57,1
+SKU-10155,Handhygiëne Sensitive 42,Handhygiëne,Hygios,4.82,8.74,1
+SKU-10156,Handhygiëne Compact 93,Handhygiëne,Ecolin,22.83,44.88,1
+SKU-10157,Handhygiëne XL 20,Handhygiëne,Nordwipe,5.92,10.94,1
+SKU-10158,Handhygiëne Sensitive 85,Handhygiëne,Ecolin,5.15,9.05,1
+SKU-10159,Handhygiëne Pro 36,Handhygiëne,Tersa,3.06,5.57,1
+SKU-10160,Handhygiëne Eco 35,Handhygiëne,Ecolin,8.92,15.57,1
+SKU-10161,Handhygiëne Eco 24,Handhygiëne,Nordwipe,15.06,32.1,1
+SKU-10162,Handhygiëne Eco 53,Handhygiëne,Nordwipe,2.51,5.25,1
+SKU-10163,Handhygiëne Pro 39,Handhygiëne,Klaro,17.11,29.16,1
+SKU-10164,Handhygiëne Pro 60,Handhygiëne,Nordwipe,14.35,24.61,1
+SKU-10165,Handhygiëne Plus 19,Handhygiëne,Nordwipe,16.27,34.38,1
+SKU-10166,Handhygiëne Pro 13,Handhygiëne,Hygios,12.68,24.35,1
+SKU-10167,Handhygiëne Sensitive 33,Handhygiëne,Hygios,15.34,27.61,1
+SKU-10168,Handhygiëne Eco 12,Handhygiëne,Brisant,16.51,34.78,1
+SKU-10169,Handhygiëne Sensitive 22,Handhygiëne,Klaro,14.81,30.86,1
+SKU-10170,Handhygiëne Eco 48,Handhygiëne,Klaro,7.4,12.44,1
+SKU-10171,Handhygiëne XL 55,Handhygiëne,Brisant,14.81,25.51,1
+SKU-10172,Handhygiëne Plus 81,,Nordwipe,21.65,38.96,1
+SKU-10173,Handhygiëne Compact 62,Handhygiëne,Vennaert Pro,12.73,21.5,1
+SKU-10174,Handhygiëne Eco 15,Handhygiëne,Tersa,19.22,39.91,1
+SKU-10175,Handhygiëne Compact 89,Handhygiëne,Klaro,3.52,6.31,1
+SKU-10176,Handhygiëne Maxi 25,Handhygiëne,Brisant,3.77,7.84,1
+SKU-10177,Handhygiëne XL 82,Handhygiëne,Tersa,2.55,4.28,1
+SKU-10178,Handhygiëne Maxi 02,Handhygiëne,Brisant,8.01,14.29,1
+SKU-10179,Handhygiëne Sensitive 46,Handhygiëne,Brisant,14.51,24.88,1
+SKU-10180,Handhygiëne Eco 72,Handhygiëne,Klaro,20.68,44.36,1
+SKU-10181,Handhygiëne Compact 82,Handhygiëne,Ecolin,22.67,43.73,1
+SKU-10182,Handhygiëne Compact 42,Handhygiëne,Tersa,2.79,5.03,1
+SKU-10183,Handhygiëne Maxi 60,Handhygiëne,Hygios,7.57,13.7,1
+SKU-10184,Handhygiëne Sensitive 68,Handhygiëne,Vennaert Pro,14.77,25.94,1
+SKU-10185,Handhygiëne Pro 76,Handhygiëne,Vennaert Pro,18.38,37.17,1
+SKU-10186,Handhygiëne Compact 14,Handhygiëne,Brisant,3.5,5.95,1
+SKU-10187,Handhygiëne Maxi 79,Handhygiëne,Brisant,20.84,36.56,1
+SKU-10188,Handhygiëne Plus 18,Handhygiëne,Vennaert Pro,12.16,25.71,1
+SKU-10189,Handhygiëne Compact 33,Handhygiëne,Vennaert Pro,3.44,7.42,1
+SKU-10190,Handhygiëne Pro 97,Handhygiëne,Ecolin,24.64,43.82,1
+SKU-10191,Handhygiëne Sensitive 43,Handhygiëne,Nordwipe,13.92,24.87,1
+SKU-10192,Handhygiëne Eco 42,Handhygiëne,Nordwipe,5.6,9.44,1
+SKU-10193,Handhygiëne Maxi 31,Handhygiëne,Ecolin,22.51,40.66,1
+SKU-10194,Handhygiëne Pro 63,Handhygiëne,Klaro,19.46,39.17,1
+SKU-10195,Handhygiëne Sensitive 15,Handhygiëne,Ecolin,14.45,28.02,1
+SKU-10196,Handhygiëne Compact 03,Handhygiëne,Brisant,11.67,23.01,1
+SKU-10197,Handhygiëne Pro 68,Handhygiëne,Brisant,21.68,42.71,1
+SKU-10198,Handhygiëne Sensitive 67,Handhygiëne,Hygios,17.77,35.95,1
+SKU-10199,Handhygiëne XL 75,Handhygiëne,Vennaert Pro,7.32,14.23,1
+SKU-10200,Handhygiëne Eco 68,Handhygiëne,Vennaert Pro,10.36,17.85,1
+SKU-10201,Handhygiëne Compact 10,Handhygiëne,Ecolin,15.21,26.64,1
+SKU-10202,Handhygiëne Pro 14,,Tersa,5.18,10.14,1
+SKU-10203,Handhygiëne Pro 32,Handhygiëne,Klaro,22.74,44.58,1
+SKU-10204,Handhygiëne Eco 68,Handhygiëne,Hygios,2.9,5.15,1
+SKU-10205,Handhygiëne Eco 05,Handhygiëne,Klaro,19.11,41.31,1
+SKU-10206,Microvezel XL 72,Microvezel & materiaal,Vennaert Pro,12.52,25.32,1
+SKU-10207,Microvezel Pro 46,Microvezel & materiaal,Nordwipe,15.28,31.68,1
+SKU-10208,Microvezel XL 05,Microvezel & materiaal,Tersa,9.44,17.41,1
+SKU-10209,Microvezel Maxi 07,Microvezel & materiaal,Hygios,16.88,33.92,1
+SKU-10210,Microvezel Plus 27,Microvezel & materiaal,Vennaert Pro,2.49,5.01,1
+SKU-10211,Microvezel Maxi 34,Microvezel & materiaal,Vennaert Pro,5.7,11.47,1
+SKU-10212,Microvezel Eco 71,Microvezel & materiaal,Nordwipe,15.9,31.23,1
+SKU-10213,Microvezel Maxi 07,Microvezel & materiaal,Ecolin,9.16,19.05,1
+SKU-10214,Microvezel Maxi 12,Microvezel & materiaal,Klaro,6.54,13.62,1
+SKU-10215,Microvezel Compact 12,Microvezel & materiaal,Brisant,1.4,3.04,1
+SKU-10216,Microvezel Eco 22,Microvezel & materiaal,Ecolin,10.36,24.27,1
+SKU-10217,Microvezel Maxi 36,Microvezel & materiaal,Nordwipe,4.41,8.58,1
+SKU-10218,Microvezel Pro 45,Microvezel & materiaal,Vennaert Pro,11.11,23.63,1
+SKU-10219,Microvezel Compact 67,Microvezel & materiaal,Tersa,11.19,26.68,1
+SKU-10220,Microvezel Sensitive 89,Microvezel & materiaal,Klaro,5.24,10.03,1
+SKU-10221,Microvezel Maxi 71,Microvezel & materiaal,Vennaert Pro,11.06,24.66,1
+SKU-10222,Microvezel Pro 90,Microvezel & materiaal,Brisant,3.44,6.58,1
+SKU-10223,Microvezel Plus 66,Microvezel & materiaal,Hygios,11.4,22.77,1
+SKU-10224,Microvezel Pro 84,Microvezel & materiaal,Hygios,2.39,4.75,1
+SKU-10225,Microvezel Eco 39,Microvezel & materiaal,Ecolin,4.5,9.85,1
+SKU-10226,Microvezel Compact 23,Microvezel & materiaal,Hygios,12.19,24.29,1
+SKU-10227,Microvezel Pro 44,Microvezel & materiaal,Nordwipe,10.7,26.64,1
+SKU-10228,Microvezel Pro 32,Microvezel & materiaal,Nordwipe,3.65,7.79,1
+SKU-10229,Microvezel Compact 65,Microvezel & materiaal,Nordwipe,9.5,17.56,1
+SKU-10230,Microvezel Pro 79,Microvezel & materiaal,Ecolin,7.29,17.78,1
+SKU-10231,Microvezel Plus 03,Microvezel & materiaal,Brisant,5.66,12.27,1
+SKU-10232,Microvezel Maxi 82,Microvezel & materiaal,Nordwipe,11.97,22.08,1
+SKU-10233,Microvezel Pro 30,Microvezel & materiaal,Tersa,1.06,2.17,1
+SKU-10234,Microvezel Sensitive 50,Microvezel & materiaal,Hygios,6.63,12.72,1
+SKU-10235,Microvezel Sensitive 39,Microvezel & materiaal,Hygios,7.69,16.48,1
+SKU-10236,Microvezel Maxi 38,Microvezel & materiaal,Tersa,8.25,16.72,1
+SKU-10237,Microvezel Compact 71,Microvezel & materiaal,Vennaert Pro,5.24,12.33,1
+SKU-10238,Microvezel Plus 92,Microvezel & materiaal,Tersa,4.8,8.75,1
+SKU-10239,Microvezel XL 86,Microvezel & materiaal,Hygios,15.11,34.84,1
+SKU-10240,Microvezel Maxi 17,Microvezel & materiaal,Ecolin,3.1,7.47,1
+SKU-10241,Microvezel Eco 79,Microvezel & materiaal,Ecolin,6.28,13.06,1
+SKU-10242,Microvezel Maxi 89,Microvezel & materiaal,Hygios,5.78,12.0,1
+SKU-10243,Microvezel Eco 23,Microvezel & materiaal,Ecolin,7.25,13.47,1
+SKU-10244,Microvezel Sensitive 26,Microvezel & materiaal,Hygios,6.11,11.97,1
+SKU-10245,Microvezel Compact 17,Microvezel & materiaal,Brisant,3.53,7.6,1
+SKU-10246,Microvezel XL 08,Microvezel & materiaal,Ecolin,17.12,34.56,1
+SKU-10247,Microvezel Compact 66,Microvezel & materiaal,Hygios,4.92,12.14,1
+SKU-10248,Microvezel Eco 89,Microvezel & materiaal,Nordwipe,10.79,20.54,1
+SKU-10249,Microvezel Compact 37,Microvezel & materiaal,Tersa,16.55,31.1,1
+SKU-10250,Microvezel Compact 45,Microvezel & materiaal,Tersa,13.01,23.94,1
+SKU-10251,Microvezel Compact 29,Microvezel & materiaal,Vennaert Pro,17.77,34.67,1
+SKU-10252,Microvezel Compact 47,Microvezel & materiaal,Tersa,7.38,15.9,1
+SKU-10253,Microvezel Compact 49,Microvezel & materiaal,Hygios,14.49,33.19,1
+SKU-10254,Microvezel Pro 14,Microvezel & materiaal,Klaro,16.16,30.5,1
+SKU-10255,Microvezel Maxi 61,Microvezel & materiaal,Tersa,4.31,9.11,1
+SKU-10256,Microvezel Plus 04,Microvezel & materiaal,Ecolin,3.43,7.19,1
+SKU-10257,Microvezel Eco 51,Microvezel & materiaal,Vennaert Pro,1.99,4.79,1
+SKU-10258,Microvezel Compact 81,Microvezel & materiaal,Vennaert Pro,7.73,17.09,1
+SKU-10259,Microvezel Pro 13,Microvezel & materiaal,Vennaert Pro,7.05,15.74,1
+SKU-10260,Microvezel Maxi 81,Microvezel & materiaal,Brisant,13.54,27.14,1
+SKU-10261,Microvezel Sensitive 25,Microvezel & materiaal,Tersa,2.2,5.28,1
+SKU-10262,Microvezel Plus 77,Microvezel & materiaal,Klaro,14.99,28.33,1
+SKU-10263,Microvezel Eco 57,Microvezel & materiaal,Brisant,2.76,6.11,1
+SKU-10264,Microvezel Compact 55,Microvezel & materiaal,Tersa,17.93,33.37,1
+SKU-10265,Microvezel XL 60,Microvezel & materiaal,Brisant,13.76,33.26,1
+SKU-10266,Afvalzakken Maxi 08,Afvalzakken,Brisant,21.75,35.8,1
+SKU-10267,Afvalzakken Pro 53,Afvalzakken,Klaro,15.29,22.17,1
+SKU-10268,Afvalzakken XL 70,Afvalzakken,Ecolin,12.51,20.56,1
+SKU-10269,Afvalzakken Eco 02,Afvalzakken,Tersa,8.85,14.43,1
+SKU-10270,Afvalzakken Plus 34,Afvalzakken,Tersa,7.28,10.82,1
+SKU-10271,Afvalzakken XL 29,Afvalzakken,Hygios,23.09,33.25,1
+SKU-10272,Afvalzakken XL 11,Afvalzakken,Ecolin,22.97,37.71,1
+SKU-10273,Afvalzakken Maxi 79,Afvalzakken,Tersa,20.29,32.12,1
+SKU-10274,Afvalzakken Sensitive 78,Afvalzakken,Ecolin,16.12,25.67,1
+SKU-10275,Afvalzakken Pro 72,Afvalzakken,Ecolin,7.91,12.16,1
+SKU-10276,Afvalzakken Maxi 95,Afvalzakken,Tersa,9.54,14.56,1
+SKU-10277,Afvalzakken Sensitive 94,Afvalzakken,Ecolin,22.22,35.55,1
+SKU-10278,Afvalzakken Compact 40,Afvalzakken,Hygios,13.51,21.02,1
+SKU-10279,Afvalzakken Eco 01,Afvalzakken,Klaro,11.68,16.58,1
+SKU-10280,Afvalzakken Plus 94,Afvalzakken,Nordwipe,16.93,26.43,1
+SKU-10281,Afvalzakken XL 55,Afvalzakken,Ecolin,6.51,10.17,1
+SKU-10282,Afvalzakken Pro 48,Afvalzakken,Tersa,14.0,21.7,1
+SKU-10283,Afvalzakken XL 58,Afvalzakken,Ecolin,22.16,34.01,1
+SKU-10284,Afvalzakken Pro 98,Afvalzakken,Hygios,10.99,17.03,1
+SKU-10285,Afvalzakken Plus 62,Afvalzakken,Vennaert Pro,12.29,19.14,1
+SKU-10286,Afvalzakken Compact 03,Afvalzakken,Tersa,11.97,18.25,1
+SKU-10287,Afvalzakken Compact 07,Afvalzakken,Vennaert Pro,20.02,30.11,1
+SKU-10288,Afvalzakken Maxi 39,Afvalzakken,Tersa,20.97,32.17,1
+SKU-10289,Afvalzakken Eco 28,Afvalzakken,Vennaert Pro,24.22,38.39,1
+SKU-10290,Afvalzakken XL 47,Afvalzakken,Tersa,5.37,8.65,1
+SKU-10291,Afvalzakken Pro 87,Afvalzakken,Ecolin,25.71,38.67,1
+SKU-10292,Afvalzakken Pro 38,Afvalzakken,Klaro,16.38,24.24,1
+SKU-10293,Afvalzakken Pro 89,Afvalzakken,Vennaert Pro,6.29,9.68,1
+SKU-10294,Afvalzakken Pro 76,Afvalzakken,Tersa,25.64,36.87,1
+SKU-10295,Afvalzakken Eco 57,Afvalzakken,Tersa,20.04,30.99,1
+SKU-10296,Afvalzakken Sensitive 37,Afvalzakken,Brisant,15.13,25.1,1
+SKU-10297,Afvalzakken Sensitive 57,,Klaro,24.91,37.36,1
+SKU-10298,Afvalzakken Eco 35,Afvalzakken,Nordwipe,24.46,37.65,1
+SKU-10299,Afvalzakken Compact 51,Afvalzakken,Nordwipe,25.01,37.64,1
+SKU-10300,Afvalzakken Compact 53,Afvalzakken,Tersa,5.01,7.66,1
+SKU-10301,Handschoenen Eco 01,Handschoenen & PBM,Hygios,17.39,28.9,1
+SKU-10302,Handschoenen Eco 56,Handschoenen & PBM,Klaro,22.62,43.91,1
+SKU-10303,Handschoenen Compact 80,Handschoenen & PBM,Klaro,11.44,18.49,1
+SKU-10304,Handschoenen Sensitive 89,Handschoenen & PBM,Hygios,8.03,15.28,1
+SKU-10305,Handschoenen Maxi 50,Handschoenen & PBM,Vennaert Pro,3.38,6.55,1
+SKU-10306,Handschoenen Sensitive 02,Handschoenen & PBM,Hygios,15.04,22.97,1
+SKU-10307,Handschoenen Compact 29,Handschoenen & PBM,Klaro,17.43,33.85,1
+SKU-10308,Handschoenen Compact 72,,Vennaert Pro,11.33,22.01,1
+SKU-10309,Handschoenen Eco 60,Handschoenen & PBM,Ecolin,23.65,46.21,1
+SKU-10310,Handschoenen Eco 22,Handschoenen & PBM,Klaro,14.0,22.39,1
+SKU-10311,Handschoenen Pro 50,Handschoenen & PBM,Hygios,7.95,14.71,1
+SKU-10312,Handschoenen Eco 25,Handschoenen & PBM,Tersa,19.79,34.4,1
+SKU-10313,Handschoenen Pro 82,Handschoenen & PBM,Ecolin,7.75,13.9,1
+SKU-10314,Handschoenen Sensitive 69,Handschoenen & PBM,Vennaert Pro,7.75,11.76,1
+SKU-10315,Handschoenen Eco 93,Handschoenen & PBM,Hygios,30.23,54.45,1
+SKU-10316,Handschoenen Plus 20,Handschoenen & PBM,Hygios,18.58,28.69,1
+SKU-10317,Handschoenen XL 14,Handschoenen & PBM,Klaro,17.8,27.71,1
+SKU-10318,Handschoenen XL 54,Handschoenen & PBM,Vennaert Pro,11.02,20.35,1
+SKU-10319,Handschoenen Eco 90,Handschoenen & PBM,Tersa,15.78,28.94,1
+SKU-10320,Handschoenen Sensitive 56,Handschoenen & PBM,Vennaert Pro,3.77,7.37,1
+SKU-10321,Handschoenen Compact 02,Handschoenen & PBM,Vennaert Pro,29.51,48.81,1
+SKU-10322,Handschoenen XL 41,Handschoenen & PBM,Vennaert Pro,28.86,54.22,1
+SKU-10323,Handschoenen Sensitive 53,Handschoenen & PBM,Nordwipe,11.59,17.65,1
+SKU-10324,Handschoenen Eco 06,Handschoenen & PBM,Hygios,13.45,21.72,1
+SKU-10325,Handschoenen Maxi 88,Handschoenen & PBM,Brisant,27.89,47.1,1
+SKU-10326,Handschoenen XL 44,Handschoenen & PBM,Tersa,20.14,39.5,1
+SKU-10327,Handschoenen Plus 72,Handschoenen & PBM,Nordwipe,13.58,23.15,1
+SKU-10328,Handschoenen Compact 98,Handschoenen & PBM,Vennaert Pro,19.61,31.24,1
+SKU-10329,Handschoenen Sensitive 03,Handschoenen & PBM,Brisant,23.64,36.82,1
+SKU-10330,Handschoenen XL 77,Handschoenen & PBM,Vennaert Pro,17.23,28.29,1
+SKU-10331,Handschoenen Maxi 52,Handschoenen & PBM,Vennaert Pro,18.28,28.62,1
+SKU-10332,Handschoenen Plus 16,Handschoenen & PBM,Hygios,24.55,40.69,1
+SKU-10333,Handschoenen XL 27,Handschoenen & PBM,Hygios,6.18,10.89,1
+SKU-10334,Handschoenen XL 02,Handschoenen & PBM,Vennaert Pro,31.15,54.31,1
+SKU-10335,Handschoenen Maxi 45,Handschoenen & PBM,Klaro,4.53,6.92,1
+SKU-10336,Handschoenen XL 17,Handschoenen & PBM,Tersa,15.52,24.69,1
+SKU-10337,Handschoenen Eco 40,Handschoenen & PBM,Tersa,8.92,14.95,1
+SKU-10338,Handschoenen Maxi 72,Handschoenen & PBM,Brisant,15.06,26.54,1
+SKU-10339,Handschoenen Sensitive 48,Handschoenen & PBM,Tersa,8.48,15.05,1
+SKU-10340,Handschoenen Compact 74,Handschoenen & PBM,Tersa,9.25,15.76,1
+SKU-10341,Handschoenen Sensitive 41,Handschoenen & PBM,Nordwipe,23.27,40.24,1
+SKU-10342,Handschoenen XL 43,Handschoenen & PBM,Ecolin,10.87,16.94,1
+SKU-10343,Handschoenen Plus 24,Handschoenen & PBM,Vennaert Pro,5.01,9.44,1
+SKU-10344,Handschoenen Sensitive 29,Handschoenen & PBM,Hygios,14.99,28.0,1
+SKU-10345,Handschoenen Maxi 06,Handschoenen & PBM,Hygios,20.75,36.11,1
+SKU-10346,Machines XL 12,Machines & onderdelen,Nordwipe,853.47,1135.35,1
+SKU-10347,Machines Sensitive 50,Machines & onderdelen,Ecolin,197.99,264.16,1
+SKU-10348,Machines Pro 90,Machines & onderdelen,Nordwipe,105.11,152.99,1
+SKU-10349,Machines Eco 32,Machines & onderdelen,Hygios,48.74,69.29,1
+SKU-10350,Machines Pro 87,Machines & onderdelen,Hygios,262.24,360.34,1
+SKU-10351,Machines Maxi 36,Machines & onderdelen,Brisant,422.77,636.89,1
+SKU-10352,Machines Pro 23,Machines & onderdelen,Brisant,104.69,157.99,1
+SKU-10353,Machines Compact 01,Machines & onderdelen,Vennaert Pro,68.93,110.96,1
+SKU-10354,Machines Pro 03,,Brisant,246.27,341.3,1
+SKU-10355,Machines Sensitive 77,Machines & onderdelen,Klaro,309.85,493.28,1
+SKU-10356,Machines Maxi 05,Machines & onderdelen,Klaro,67.35,107.55,1
+SKU-10357,Machines Maxi 89,Machines & onderdelen,Ecolin,42.55,60.74,1
+SKU-10358,Machines XL 52,Machines & onderdelen,Tersa,133.55,194.31,1
+SKU-10359,Machines Eco 04,Machines & onderdelen,Klaro,75.55,119.39,1
+SKU-10360,Machines Plus 01,Machines & onderdelen,Nordwipe,123.48,196.64,1
+SKU-10361,Machines Pro 56,Machines & onderdelen,Brisant,74.2,100.16,1
+SKU-10362,Machines Pro 18,Machines & onderdelen,Brisant,51.72,67.5,1
+SKU-10363,Machines Eco 78,Machines & onderdelen,Tersa,78.76,124.04,1
+SKU-10364,Machines Sensitive 64,Machines & onderdelen,Ecolin,265.76,350.39,1
+SKU-10365,Machines Eco 77,Machines & onderdelen,Tersa,228.67,318.02,1
+SKU-10366,Machines Eco 63,Machines & onderdelen,Vennaert Pro,114.96,150.57,1
+SKU-10367,Machines Plus 72,Machines & onderdelen,Tersa,131.55,191.45,1
+SKU-10368,Machines Plus 63,Machines & onderdelen,Vennaert Pro,367.1,576.3,1
+SKU-10369,Machines Plus 70,Machines & onderdelen,Hygios,151.3,224.3,1
+SKU-10370,Machines Sensitive 43,Machines & onderdelen,Vennaert Pro,54.17,69.93,1
+SKU-10371,Machines Eco 41,Machines & onderdelen,Ecolin,87.36,115.83,1
+SKU-10372,Machines Eco 35,Machines & onderdelen,Vennaert Pro,99.93,135.78,1
+SKU-10373,Machines Plus 29,Machines & onderdelen,Tersa,219.68,340.18,1
+SKU-10374,Machines Compact 04,Machines & onderdelen,Nordwipe,92.89,123.87,1
+SKU-10375,Machines Eco 91,Machines & onderdelen,Nordwipe,54.96,72.04,1
+SKU-10376,Machines Plus 18,Machines & onderdelen,Brisant,51.59,82.64,1
+SKU-10377,Machines Pro 88,Machines & onderdelen,Tersa,61.74,88.87,1
+SKU-10378,Machines Pro 83,Machines & onderdelen,Vennaert Pro,140.67,224.33,1
+SKU-10379,Machines Maxi 02,Machines & onderdelen,Hygios,118.24,162.58,1
+SKU-10380,Machines Plus 23,Machines & onderdelen,Brisant,59.59,82.76,1
+SKU-10381,Machines Eco 83,Machines & onderdelen,Brisant,354.87,514.36,1
+SKU-10382,Machines Maxi 51,Machines & onderdelen,Nordwipe,113.38,176.49,1
+SKU-10383,Machines Sensitive 76,Machines & onderdelen,Brisant,38.99,61.38,1
+SKU-10384,Machines Plus 52,Machines & onderdelen,Vennaert Pro,116.13,178.53,1
+SKU-10385,Machines Compact 52,Machines & onderdelen,Tersa,87.37,136.41,1

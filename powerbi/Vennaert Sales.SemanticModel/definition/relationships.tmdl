@@ -1,0 +1,41 @@
+relationship sales_date
+	fromColumn: fact_sales.date_key
+	toColumn: dim_date.date_key
+
+relationship sales_customer
+	fromColumn: fact_sales.customer_key
+	toColumn: dim_customer.customer_key
+
+relationship sales_product
+	fromColumn: fact_sales.product_key
+	toColumn: dim_product.product_key
+
+relationship sales_rep
+	fromColumn: fact_sales.rep_key
+	toColumn: dim_rep.rep_key
+
+relationship opportunity_created_date
+	fromColumn: fact_opportunity.created_date_key
+	toColumn: dim_date.date_key
+
+relationship opportunity_close_date
+	isActive: false
+	fromColumn: fact_opportunity.close_date_key
+	toColumn: dim_date.date_key
+
+relationship opportunity_customer
+	fromColumn: fact_opportunity.customer_key
+	toColumn: dim_customer.customer_key
+
+relationship opportunity_rep
+	fromColumn: fact_opportunity.rep_key
+	toColumn: dim_rep.rep_key
+
+relationship target_date
+	fromColumn: fact_target.date_key
+	toColumn: dim_date.date_key
+
+relationship target_rep
+	fromColumn: fact_target.rep_key
+	toColumn: dim_rep.rep_key
+

@@ -1,0 +1,110 @@
+/// All measures in one place. Each measure has a KPI-id from data/reference/kpi_catalog.csv;
+/// the SQL equivalent is listed in the description, and tests/test_kpis.py checks the SQL side.
+table Measures
+
+	/// KPI-01 · finance definition (GL 700000): invoices minus credit notes, excl. VAT, excl. staff shop · SQL: v_sales_monthly.net_revenue
+	measure 'Netto-omzet' = CALCULATE ( SUM ( fact_sales[net_amount] ), dim_customer[is_internal] = 0 )
+		formatString: #,0
+		displayFolder: Omzet
+
+	/// KPI-02 · SQL: v_sales_monthly.gross_margin
+	measure Brutomarge = CALCULATE ( SUM ( fact_sales[gross_margin] ), dim_customer[is_internal] = 0 )
+		formatString: #,0
+		displayFolder: Omzet
+
+	/// KPI-03 · SQL: v_sales_monthly.margin_pct
+	measure 'Marge %' = DIVIDE ( [Brutomarge], [Netto-omzet] )
+		formatString: 0.0%
+		displayFolder: Omzet
+
+	/// KPI-04 · customers with at least one invoice or credit note in the filter context · SQL: v_sales_monthly.active_customers
+	measure 'Actieve klanten' = CALCULATE ( DISTINCTCOUNT ( fact_sales[customer_key] ), dim_customer[is_internal] = 0 )
+		formatString: #,0
+		displayFolder: Klanten
+
+	measure 'Netto-omzet vorig jaar' = CALCULATE ( [Netto-omzet], SAMEPERIODLASTYEAR ( dim_date[date] ) )
+		formatString: #,0
+		displayFolder: Omzet
+
+	/// KPI-05 · SQL: v_kpi_ytd.growth_pct
+	measure 'Groei %' = DIVIDE ( [Netto-omzet] - [Netto-omzet vorig jaar], [Netto-omzet vorig jaar] )
+		formatString: +0.0%;-0.0%;0.0%
+		displayFolder: Omzet
+
+	measure 'Netto-omzet YTD' = TOTALYTD ( [Netto-omzet], dim_date[date] )
+		formatString: #,0
+		displayFolder: Omzet
+
+	measure Target = SUM ( fact_target[target_amount] )
+		formatString: #,0
+		displayFolder: Targets
+
+	/// KPI-06 · only months that have a target count, so a rep who started in June is not compared with January · SQL: v_rep_month_vs_target.attainment_pct
+	measure 'Target-realisatie %' =
+			VAR months_with_target = CALCULATETABLE ( VALUES ( fact_target[year_month] ), fact_target[target_amount] > 0 )
+			VAR revenue = CALCULATE ( [Netto-omzet], TREATAS ( months_with_target, dim_date[year_month] ) )
+			RETURN DIVIDE ( revenue, [Target] )
+		formatString: 0.0%
+		displayFolder: Targets
+
+	measure Facturen = CALCULATE ( DISTINCTCOUNT ( fact_sales[invoice_no] ), fact_sales[doc_type] = "F", dim_customer[is_internal] = 0 )
+		formatString: #,0
+		displayFolder: Klanten
+
+	/// KPI-07 · credit notes lower revenue but do not count as an invoice · SQL: v_kpi_ytd.avg_invoice_value_ytd
+	measure 'Gem. factuurwaarde' = DIVIDE ( [Netto-omzet], [Facturen] )
+		formatString: #,0.00
+		displayFolder: Klanten
+
+	/// KPI-08 · SQL: v_pipeline_by_stage.amount
+	measure 'Open pipeline' = CALCULATE ( SUM ( fact_opportunity[amount] ), fact_opportunity[is_open] = 1 )
+		formatString: #,0
+		displayFolder: Pipeline
+
+	/// KPI-09 · amount × probability per stage (10/25/50/75 %) · SQL: v_pipeline_by_stage.weighted_amount
+	measure 'Gewogen pipeline' =
+			SUMX (
+				FILTER ( fact_opportunity, fact_opportunity[is_open] = 1 ),
+				fact_opportunity[amount] * fact_opportunity[probability]
+			)
+		formatString: #,0
+		displayFolder: Pipeline
+
+	/// KPI-10 · by close date, through the inactive relationship · SQL: v_win_rate_12m.win_rate_pct
+	measure 'Win rate %' =
+			VAR won = CALCULATE ( COUNTROWS ( fact_opportunity ), fact_opportunity[stage] = "Gewonnen",
+			                      USERELATIONSHIP ( fact_opportunity[close_date_key], dim_date[date_key] ) )
+			VAR closed = CALCULATE ( COUNTROWS ( fact_opportunity ), fact_opportunity[is_open] = 0,
+			                         USERELATIONSHIP ( fact_opportunity[close_date_key], dim_date[date_key] ) )
+			RETURN DIVIDE ( won, closed )
+		formatString: 0.0%
+		displayFolder: Pipeline
+
+	/// KPI-12 · SQL: v_pipeline_by_stage.stale
+	measure 'Verouderde deals' =
+			CALCULATE ( COUNTROWS ( fact_opportunity ), fact_opportunity[is_open] = 1, fact_opportunity[days_since_update] > 60 )
+		formatString: #,0
+		displayFolder: Pipeline
+
+	/// KPI-11 · SQL: dq_health.health_pct
+	measure 'CRM-gezondheid %' = DIVIDE ( CALCULATE ( MAX ( dq_health[health_pct] ), dq_health[snapshot] = "after" ), 100 )
+		formatString: 0.0%
+		displayFolder: Datakwaliteit
+
+	measure 'CRM-gezondheid % (voor)' = DIVIDE ( CALCULATE ( MAX ( dq_health[health_pct] ), dq_health[snapshot] = "before" ), 100 )
+		formatString: 0.0%
+		displayFolder: Datakwaliteit
+
+	measure 'Omzet zonder verkoper (afgeleid)' = CALCULATE ( [Netto-omzet], fact_sales[rep_derived] = 1 )
+		formatString: #,0
+		displayFolder: Datakwaliteit
+
+	column Placeholder
+		isHidden
+		isNameInferred
+		sourceColumn: [Placeholder]
+
+	partition Measures = calculated
+		mode: import
+		source = ROW ( "Placeholder", BLANK () )
+

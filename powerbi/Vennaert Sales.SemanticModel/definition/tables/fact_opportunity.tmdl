@@ -1,0 +1,89 @@
+/// Eén rij per opportunity, huidige stand
+table fact_opportunity
+
+	column opportunity_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: opportunity_id
+
+	column account_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: account_id
+
+	column customer_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: customer_key
+
+	column rep_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: rep_key
+
+	column stage
+		dataType: string
+		summarizeBy: none
+		sourceColumn: stage
+
+	column stage_order
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: stage_order
+
+	column probability
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: probability
+
+	column amount
+		dataType: decimal
+		formatString: #,0.00
+		summarizeBy: sum
+		sourceColumn: amount
+
+	column created_date_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: created_date_key
+
+	column close_date_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: close_date_key
+
+	column last_update
+		dataType: string
+		summarizeBy: none
+		sourceColumn: last_update
+
+	column is_open
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: is_open
+
+	column days_since_update
+		dataType: int64
+		summarizeBy: none
+		sourceColumn: days_since_update
+
+	column lost_reason
+		dataType: string
+		summarizeBy: none
+		sourceColumn: lost_reason
+
+	partition fact_opportunity = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(Server, Database),
+				    Data = Source{[Schema = "dwh", Item = "fact_opportunity"]}[Data]
+				in
+				    Data
+

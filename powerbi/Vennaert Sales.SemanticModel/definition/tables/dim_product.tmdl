@@ -1,0 +1,48 @@
+/// Artikelen; ontbrekende categorie = 'Onbekend'
+table dim_product
+
+	column product_key
+		dataType: int64
+		isHidden
+		summarizeBy: none
+		sourceColumn: product_key
+
+	column sku
+		dataType: string
+		summarizeBy: none
+		sourceColumn: sku
+
+	column description
+		dataType: string
+		summarizeBy: none
+		sourceColumn: description
+
+	column category
+		dataType: string
+		summarizeBy: none
+		sourceColumn: category
+
+	column brand
+		dataType: string
+		summarizeBy: none
+		sourceColumn: brand
+
+	column unit_cost
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: unit_cost
+
+	column list_price
+		dataType: decimal
+		summarizeBy: none
+		sourceColumn: list_price
+
+	partition dim_product = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(Server, Database),
+				    Data = Source{[Schema = "dwh", Item = "dim_product"]}[Data]
+				in
+				    Data
+

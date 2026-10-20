@@ -1,0 +1,42 @@
+/// Datakwaliteit per regel, vóór en na de correcties
+table dq_rule_summary
+
+	column rule_id
+		dataType: string
+		summarizeBy: none
+		sourceColumn: rule_id
+
+	column title
+		dataType: string
+		summarizeBy: none
+		sourceColumn: title
+
+	column severity
+		dataType: string
+		summarizeBy: none
+		sourceColumn: severity
+
+	column owner
+		dataType: string
+		summarizeBy: none
+		sourceColumn: owner
+
+	column issues_before
+		dataType: int64
+		summarizeBy: sum
+		sourceColumn: issues_before
+
+	column issues_after
+		dataType: int64
+		summarizeBy: sum
+		sourceColumn: issues_after
+
+	partition dq_rule_summary = m
+		mode: import
+		source =
+				let
+				    Source = Sql.Database(Server, Database),
+				    Data = Source{[Schema = "dwh", Item = "v_dq_rule_summary"]}[Data]
+				in
+				    Data
+
