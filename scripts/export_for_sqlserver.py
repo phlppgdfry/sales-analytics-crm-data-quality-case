@@ -17,8 +17,9 @@ def main() -> None:
     con = sqlite3.connect(ROOT / "warehouse" / "vennaert.sqlite")
     for t in TABLES:
         cur = con.execute(f"SELECT * FROM {t}")
-        with open(OUT / f"{t}.csv", "w", newline="", encoding="utf-8") as fh:
-            w = csv.writer(fh, quoting=csv.QUOTE_MINIMAL, lineterminator="\n")
+        # UTF-16 with BOM + CRLF: what BULK INSERT ... DATAFILETYPE = 'widechar' expects on Linux
+        with open(OUT / f"{t}.csv", "w", newline="", encoding="utf-16") as fh:
+            w = csv.writer(fh, quoting=csv.QUOTE_MINIMAL, lineterminator="\r\n")
             w.writerow([d[0] for d in cur.description])
             for row in cur:
                 w.writerow(["" if v is None else (f"{v:.2f}" if isinstance(v, float) else v) for v in row])

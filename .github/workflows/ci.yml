@@ -58,8 +58,9 @@ jobs:
           python3 scripts/export_for_sqlserver.py
       - name: Start SQL Server 2022
         run: |
-          echo "MSSQL_SA_PASSWORD=Vn-$(openssl rand -hex 12)-A1" >> "$GITHUB_ENV"
-          source "$GITHUB_ENV"
+          MSSQL_SA_PASSWORD="Vn-$(openssl rand -hex 12)-A1"   # throwaway, this run only
+          echo "::add-mask::$MSSQL_SA_PASSWORD"
+          echo "MSSQL_SA_PASSWORD=$MSSQL_SA_PASSWORD" >> "$GITHUB_ENV"
           docker run -d --name mssql -e ACCEPT_EULA=Y -e "MSSQL_SA_PASSWORD=$MSSQL_SA_PASSWORD" \
             -v "$PWD/sql/tsql:/sql:ro" -v "$PWD/warehouse/export:/data:ro" mcr.microsoft.com/mssql/server:2022-latest
           for i in $(seq 1 60); do
