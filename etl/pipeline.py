@@ -355,6 +355,8 @@ def slim_copy() -> None:
     for t in drop:
         if t not in keep_src:
             con.execute(f'DROP TABLE "{t}"')
+    for (idx,) in con.execute("SELECT name FROM sqlite_master WHERE type = 'index' AND sql IS NOT NULL").fetchall():
+        con.execute(f'DROP INDEX "{idx}"')  # a read-only console on ± 76.000 rows does not need them
     # views that read dropped tables are removed too, so every view in the console works
     for v in ("v_legacy_duplicate_rows", "v_reconciliation_2026q3"):
         con.execute(f"DROP VIEW IF EXISTS {v}")
